@@ -1,0 +1,12212 @@
+{
+  "source": "Gaxys/wayuu_spa_dict",
+  "es_to_guc": {
+    "sí": [
+      "aa"
+    ],
+    "hacer": [
+      "aainjaa",
+      "aa'inraa",
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa",
+      "apalapajaa",
+      "o'tte'eraa",
+      "oso'iraa aa'in",
+      "aso'iraa aa'in",
+      "ouyantaa"
+    ],
+    "elaborar fabricar": [
+      "aainjaa"
+    ],
+    "elaborar": [
+      "aainjaa"
+    ],
+    "fabricar": [
+      "aainjaa"
+    ],
+    "construir": [
+      "aainjaa",
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa"
+    ],
+    "acción mala pecado": [
+      "aainjala"
+    ],
+    "acción": [
+      "aainjala"
+    ],
+    "mala": [
+      "aainjala"
+    ],
+    "pecado": [
+      "aainjala"
+    ],
+    "hecho": [
+      "aainjala"
+    ],
+    "cubierta techo": [
+      "aajuna"
+    ],
+    "cubierta": [
+      "aajuna",
+      "ata"
+    ],
+    "techo": [
+      "aajuna"
+    ],
+    "quitar": [
+      "aakataa",
+      "asütaa"
+    ],
+    "discutir": [
+      "aa'ayajirawaa",
+      "a'ülüjirawaa"
+    ],
+    "calor temperatura": [
+      "aa'ayula"
+    ],
+    "calor": [
+      "aa'ayula",
+      "tuttaa",
+      "walatshi"
+    ],
+    "temperatura": [
+      "aa'ayula"
+    ],
+    "corazón alma espíritu mente voluntad": [
+      "aa'in"
+    ],
+    "corazón": [
+      "aa'in"
+    ],
+    "alma": [
+      "aa'in"
+    ],
+    "espíritu": [
+      "aa'in",
+      "ayolojo",
+      "ayaluju",
+      "wanülüü",
+      "yolujaa"
+    ],
+    "mente": [
+      "aa'in",
+      "ekii"
+    ],
+    "voluntad": [
+      "aa'in"
+    ],
+    "cuidar": [
+      "aa'inmajaa",
+      "anajaa aa'u",
+      "eisalajaa",
+      "e'rajaa aa'u"
+    ],
+    "colgar una hamaca amarrar el cinturón": [
+      "aa'inyajaa"
+    ],
+    "tía (materna)": [
+      "aa'irü"
+    ],
+    "tía": [
+      "aa'irü",
+      "ei"
+    ],
+    "en": [
+      "aa'u",
+      "apa'a",
+      "eroku",
+      "o'u"
+    ],
+    "encima de": [
+      "aa'u"
+    ],
+    "sobre": [
+      "aa'u"
+    ],
+    "por (precio)": [
+      "aa'u"
+    ],
+    "por": [
+      "aa'u",
+      "atüma",
+      "oo'opünaa"
+    ],
+    "por causa de": [
+      "aa'u",
+      "aalin",
+      "aalii"
+    ],
+    "como puesto que": [
+      "aa'u"
+    ],
+    "dolor": [
+      "aalin",
+      "aalii"
+    ],
+    "tobillo": [
+      "aaluwain"
+    ],
+    "cementerio": [
+      "aamaka",
+      "amuuyuu",
+      "amouyuu"
+    ],
+    "difunto": [
+      "aamaka",
+      "müliashii"
+    ],
+    "ayunar": [
+      "aamüjaa",
+      "aamajaa"
+    ],
+    "cobija": [
+      "aanala"
+    ],
+    "boca": [
+      "aanükü"
+    ],
+    "dar": [
+      "aapaa",
+      "kachonwaa",
+      "leeyataa",
+      "sotsoluu",
+      "sütaa"
+    ],
+    "oír": [
+      "aapaa"
+    ],
+    "escuchar": [
+      "aapajaa"
+    ],
+    "tomar coger": [
+      "aapawaa"
+    ],
+    "tomar": [
+      "aapawaa",
+      "ajuyaajaa",
+      "ojuyaajaa"
+    ],
+    "coger": [
+      "aapawaa",
+      "ata'ülaa"
+    ],
+    "aceptar": [
+      "aapawaa"
+    ],
+    "mensajero": [
+      "aapiee",
+      "anüliee"
+    ],
+    "avisar": [
+      "aapiraa"
+    ],
+    "estar enfermo": [
+      "aapuwaa",
+      "ayuulii"
+    ],
+    "enfermarse": [
+      "aapuwaa"
+    ],
+    "hablar": [
+      "aashajawaa"
+    ],
+    "criticar": [
+      "aashajawaa",
+      "ayoujaa"
+    ],
+    "leer": [
+      "aashaje'eraa"
+    ],
+    "enojar provocar": [
+      "aashichijaa"
+    ],
+    "enojar": [
+      "aashichijaa"
+    ],
+    "provocar": [
+      "aashichijaa"
+    ],
+    "enojarse": [
+      "aashichijawaa"
+    ],
+    "según": [
+      "aashin",
+      "aajüin"
+    ],
+    "oler": [
+      "aataa eejuu"
+    ],
+    "peso": [
+      "aawain"
+    ],
+    "influencia": [
+      "aawain"
+    ],
+    "aflojar": [
+      "aawalaa"
+    ],
+    "soltar": [
+      "aawalaa",
+      "ajütaa achikü"
+    ],
+    "aliviarse mejorarse de una aflicción": [
+      "aawalawaa"
+    ],
+    "buscar": [
+      "achajawaa",
+      "mekeerüü"
+    ],
+    "excremento": [
+      "acha'a"
+    ],
+    "óxido": [
+      "acha'a"
+    ],
+    "apretar": [
+      "achecheraa"
+    ],
+    "tensar": [
+      "achecheraa"
+    ],
+    "querer": [
+      "achekaa"
+    ],
+    "cobrar deuda reclamar": [
+      "achekajaa"
+    ],
+    "cobrar": [
+      "achekajaa"
+    ],
+    "deuda": [
+      "achekajaa",
+      "ajuyaala",
+      "ojuyaala"
+    ],
+    "reclamar": [
+      "achekajaa"
+    ],
+    "oreja oído": [
+      "ache'e"
+    ],
+    "oreja": [
+      "ache'e"
+    ],
+    "oído": [
+      "ache'e"
+    ],
+    "sirviente": [
+      "achepchia",
+      "piuuna"
+    ],
+    "esclavo": [
+      "achepchia",
+      "piuuna"
+    ],
+    "pintura para la cara": [
+      "achepü"
+    ],
+    "amonestar aconsejar": [
+      "achiawaa"
+    ],
+    "amonestar": [
+      "achiawaa"
+    ],
+    "aconsejar": [
+      "achiawaa"
+    ],
+    "detrás de": [
+      "achiirua",
+      "apücho'u"
+    ],
+    "despertar": [
+      "achijiraa"
+    ],
+    "despertarse": [
+      "achijirawaa"
+    ],
+    "huella": [
+      "achikanain",
+      "oo'ui"
+    ],
+    "rastro": [
+      "achikanain",
+      "oo'ui"
+    ],
+    "relato noticia": [
+      "achiki",
+      "achikü"
+    ],
+    "relato": [
+      "achiki",
+      "achikü"
+    ],
+    "noticia": [
+      "achiki",
+      "achikü",
+      "kasachiki"
+    ],
+    "acerca de": [
+      "achiki",
+      "achikü"
+    ],
+    "después de": [
+      "achikijee"
+    ],
+    "más allá de": [
+      "achikijee"
+    ],
+    "después de que": [
+      "achikijee"
+    ],
+    "después de la salida de en ausencia de": [
+      "achikiru'u"
+    ],
+    "seno": [
+      "achira"
+    ],
+    "leche": [
+      "achira",
+      "leechi"
+    ],
+    "carga": [
+      "achisa",
+      "achise",
+      "aise"
+    ],
+    "martillar": [
+      "achitaa"
+    ],
+    "clavar": [
+      "achitaa"
+    ],
+    "hijo": [
+      "achon",
+      "achonyaashi",
+      "kachonwaa",
+      "shale"
+    ],
+    "cría": [
+      "achon"
+    ],
+    "fruto fruta": [
+      "achon"
+    ],
+    "fruto": [
+      "achon",
+      "kachonwaa"
+    ],
+    "fruta": [
+      "achon"
+    ],
+    "achonnii achooin": [
+      "achon"
+    ],
+    "achonnii": [
+      "achon"
+    ],
+    "achooin": [
+      "achon"
+    ],
+    "sobrino (materno de hembra)": [
+      "achon'irü"
+    ],
+    "sobrino": [
+      "achon'irü",
+      "asiipü"
+    ],
+    "no m": [
+      "achonyaashi",
+      "a'yataai",
+      "alaülashi",
+      "amaajachi",
+      "atujeejachi",
+      "jimo'olu",
+      "jintulu",
+      "ka'ruwarai",
+      "outshi",
+      "palajachi",
+      "pütche'ejachi"
+    ],
+    "no": [
+      "achonyaashi",
+      "a'yataai",
+      "alaülashi",
+      "amaajachi",
+      "atujeejachi",
+      "chiiruajachi",
+      "isaa achiki",
+      "jimo'olu",
+      "jintulu",
+      "ka'ruwarai",
+      "nnojo",
+      "outshi",
+      "palajachi",
+      "pütche'ejachi"
+    ],
+    "m": [
+      "achonyaashi",
+      "a'yataai",
+      "alaülashi",
+      "amaajachi",
+      "atujeejachi",
+      "chiiruajachi",
+      "jimo'olu",
+      "jintulu",
+      "ka'ruwarai",
+      "outshi",
+      "palajachi",
+      "pütche'ejachi"
+    ],
+    "hijastro": [
+      "achonyaashi"
+    ],
+    "hijo adoptivo hija adoptiva": [
+      "achonyaashi"
+    ],
+    "adoptivo": [
+      "achonyaashi"
+    ],
+    "hija": [
+      "achonyaashi",
+      "shale"
+    ],
+    "adoptiva": [
+      "achonyaashi"
+    ],
+    "otra vez en cuanto a": [
+      "achukua'a",
+      "achikua'a"
+    ],
+    "besar": [
+      "achu'laa",
+      "atu'laa"
+    ],
+    "chupar": [
+      "achu'laa",
+      "atu'laa"
+    ],
+    "estar celoso": [
+      "achumajaa",
+      "achunjaa"
+    ],
+    "estar envidioso": [
+      "achumajaa",
+      "achunjaa"
+    ],
+    "pedir": [
+      "achuntaa",
+      "ajuyaajaa",
+      "ojuyaajaa",
+      "a'anapaa"
+    ],
+    "prender (fuego)": [
+      "achuwajawaa"
+    ],
+    "prender": [
+      "achuwajawaa",
+      "epejawaa"
+    ],
+    "arrancar (un motor)": [
+      "achuwajawaa",
+      "epejawaa"
+    ],
+    "arrancar": [
+      "achuwajawaa",
+      "asü'ütaa",
+      "epejawaa"
+    ],
+    "llama": [
+      "achuwala"
+    ],
+    "hacerle cosquillas": [
+      "achüküjaa"
+    ],
+    "hacerle": [
+      "achüküjaa"
+    ],
+    "cosquillas": [
+      "achüküjaa"
+    ],
+    "comprimir": [
+      "achüküjaa"
+    ],
+    "riñón": [
+      "achü'ü"
+    ],
+    "diente": [
+      "ai"
+    ],
+    "noche": [
+      "ai"
+    ],
+    "yuca": [
+      "ai"
+    ],
+    "ropa interior": [
+      "aicha",
+      "aiche"
+    ],
+    "ropa": [
+      "aicha",
+      "aiche",
+      "ashe'in",
+      "kuluulu"
+    ],
+    "interior": [
+      "aicha",
+      "aiche"
+    ],
+    "nieto": [
+      "aikeyuu",
+      "alüin"
+    ],
+    "descendiente": [
+      "aikeyuu",
+      "oo'uliwo'u"
+    ],
+    "sentarse": [
+      "aikkalawaa"
+    ],
+    "posesionarse": [
+      "aikkalawaa"
+    ],
+    "sentar": [
+      "aikkale'eraa"
+    ],
+    "establecer": [
+      "aikkale'eraa",
+      "e'itawaa"
+    ],
+    "instalar": [
+      "aikkale'eraa"
+    ],
+    "cuñado (de varón)": [
+      "ainchi"
+    ],
+    "cuñado": [
+      "ainchi",
+      "aleshi"
+    ],
+    "poder lograr": [
+      "ainkaa"
+    ],
+    "poder": [
+      "ainkaa",
+      "apülain",
+      "isaa achiki",
+      "ountaa"
+    ],
+    "lograr": [
+      "ainkaa"
+    ],
+    "asustarse": [
+      "ainkuwaa aa'in"
+    ],
+    "sorprenderse": [
+      "ainkuwaa aa'in"
+    ],
+    "en entre": [
+      "ainküin"
+    ],
+    "de noche": [
+      "aipa'a",
+      "sa'wai"
+    ],
+    "anoche": [
+      "aipa'inka"
+    ],
+    "árbol trupillo cují": [
+      "aippia"
+    ],
+    "árbol": [
+      "aippia",
+      "ichii",
+      "wunu'u"
+    ],
+    "trupillo": [
+      "aippia"
+    ],
+    "cují": [
+      "aippia"
+    ],
+    "seis": [
+      "aippirua"
+    ],
+    "en la horqueta de entre el diente de": [
+      "airu'u"
+    ],
+    "doler": [
+      "aiwaa",
+      "alii"
+    ],
+    "ser amado por": [
+      "aiwaa apüla",
+      "alii apüla"
+    ],
+    "tamaño (por altura longitud)": [
+      "aja'apüin"
+    ],
+    "tamaño": [
+      "aja'apüin"
+    ],
+    "recoger agua": [
+      "aja'itaa"
+    ],
+    "recoger": [
+      "aja'itaa",
+      "akotchajaa",
+      "okotchojoo",
+      "asukaa"
+    ],
+    "agua": [
+      "aja'itaa",
+      "miiroku",
+      "miiruku",
+      "wüin"
+    ],
+    "sacar (un líquido)": [
+      "aja'itaa"
+    ],
+    "sacar": [
+      "aja'itaa",
+      "ajuittiraa",
+      "ojuittiraa",
+      "ayu'laa"
+    ],
+    "terminarse agotarse": [
+      "aja'lajawaa"
+    ],
+    "terminarse": [
+      "aja'lajawaa",
+      "aja'ttaa"
+    ],
+    "agotarse": [
+      "aja'lajawaa"
+    ],
+    "agotar": [
+      "aja'laje'eraa"
+    ],
+    "destruir exterminar": [
+      "aja'laje'eraa"
+    ],
+    "destruir": [
+      "aja'laje'eraa",
+      "ojuichajaa",
+      "ojuichijaa",
+      "ajuichajaa",
+      "ojuttiraa",
+      "ajuttiraa"
+    ],
+    "exterminar": [
+      "aja'laje'eraa"
+    ],
+    "terminarse acabarse": [
+      "aja'ttaa"
+    ],
+    "acabarse": [
+      "aja'ttaa"
+    ],
+    "muñeca": [
+      "ajapkii",
+      "ejepkii",
+      "wayunkeera"
+    ],
+    "estar a cargo de": [
+      "ajapulu'uwaa"
+    ],
+    "mano": [
+      "ajapü",
+      "ekia",
+      "epe'e"
+    ],
+    "pulsera": [
+      "ajapüna"
+    ],
+    "halar": [
+      "ajaraittaa"
+    ],
+    "arrastrar": [
+      "ajaraittaa"
+    ],
+    "golpear pegar": [
+      "ajataa"
+    ],
+    "golpear": [
+      "ajataa",
+      "a'yaataa",
+      "a'chaataa",
+      "ashe'etaa"
+    ],
+    "pegar": [
+      "ajataa",
+      "a'itaa",
+      "a'yaataa",
+      "a'chaataa"
+    ],
+    "espiar": [
+      "ajayajaa"
+    ],
+    "acechar": [
+      "ajayajaa"
+    ],
+    "salir": [
+      "ajuittaa",
+      "ojuittaa",
+      "asü'ütaa",
+      "o'unaa"
+    ],
+    "librar": [
+      "ajuittiraa",
+      "ojuittiraa"
+    ],
+    "bostezar": [
+      "ajujawaa",
+      "ojujawaa"
+    ],
+    "mendigar": [
+      "ajulijaa",
+      "ojulejaa"
+    ],
+    "revolver": [
+      "ajurulajaa",
+      "ojurulajaa"
+    ],
+    "tirar lanzar": [
+      "ajutaa",
+      "ojutaa"
+    ],
+    "tirar": [
+      "ajutaa",
+      "ojutaa"
+    ],
+    "lanzar": [
+      "ajutaa",
+      "ojutaa"
+    ],
+    "botar": [
+      "ajutaa",
+      "ojutaa",
+      "ojotaa"
+    ],
+    "abrir": [
+      "ajutalaa",
+      "ojutalaa"
+    ],
+    "valor": [
+      "ajutu",
+      "ojutu",
+      "alia"
+    ],
+    "caerse": [
+      "ajutuwaa",
+      "ojutuwaa"
+    ],
+    "pedir prestado tomar prestado": [
+      "ajuyaajaa",
+      "ojuyaajaa"
+    ],
+    "prestado": [
+      "ajuyaajaa",
+      "ojuyaajaa",
+      "a'anapaa"
+    ],
+    "deber": [
+      "ajuyaajaa",
+      "ojuyaajaa"
+    ],
+    "savia resina": [
+      "ajü"
+    ],
+    "savia": [
+      "ajü",
+      "era"
+    ],
+    "resina": [
+      "ajü"
+    ],
+    "pus": [
+      "ajü"
+    ],
+    "enviar mandar": [
+      "ajütaa",
+      "aluwatawaa"
+    ],
+    "enviar": [
+      "ajütaa",
+      "aluwatawaa"
+    ],
+    "mandar": [
+      "ajütaa",
+      "aluwatawaa"
+    ],
+    "empujar": [
+      "ajütaa achikü"
+    ],
+    "rechazar rehusar": [
+      "ajütawaa achikü"
+    ],
+    "rechazar": [
+      "ajütawaa achikü",
+      "ayouktaa"
+    ],
+    "rehusar": [
+      "ajütawaa achikü"
+    ],
+    "con (instrumento)": [
+      "aka"
+    ],
+    "con": [
+      "aka",
+      "amaa"
+    ],
+    "porque como": [
+      "aka"
+    ],
+    "porque": [
+      "aka",
+      "akajee",
+      "anainjee"
+    ],
+    "como": [
+      "aka",
+      "maa aka"
+    ],
+    "ayudar": [
+      "akaaliijaa",
+      "akaalinjaa",
+      "amüliajaa"
+    ],
+    "colgar": [
+      "akacheraa"
+    ],
+    "fumar": [
+      "akaijaa"
+    ],
+    "ahumar": [
+      "akaijaa"
+    ],
+    "pero sin embargo": [
+      "akaisa'a",
+      "akatsa'a",
+      "akanasa'a"
+    ],
+    "pero": [
+      "akaisa'a",
+      "akatsa'a",
+      "akanasa'a",
+      "alu'ujasa'a"
+    ],
+    "sin": [
+      "akaisa'a",
+      "akatsa'a",
+      "akanasa'a"
+    ],
+    "embargo": [
+      "akaisa'a",
+      "akatsa'a",
+      "akanasa'a"
+    ],
+    "son las formas masculina no masculina y plural": [
+      "akaisa'a",
+      "akatsa'a",
+      "akanasa'a",
+      "ja'itaichi"
+    ],
+    "por medio de": [
+      "akajee"
+    ],
+    "asimismo": [
+      "aka'aya"
+    ],
+    "fecha día de tiempo de": [
+      "akalia",
+      "aka'iya"
+    ],
+    "llenar": [
+      "akalu'ujaa",
+      "epirajaa"
+    ],
+    "sueldo ganancia": [
+      "akanain"
+    ],
+    "sueldo": [
+      "akanain"
+    ],
+    "ganancia": [
+      "akanain"
+    ],
+    "ganar": [
+      "akanajaa"
+    ],
+    "vencer": [
+      "akanajaa"
+    ],
+    "ser vencido": [
+      "akanajuwaa"
+    ],
+    "siete": [
+      "akaratshi",
+      "akaraishi"
+    ],
+    "separar apartar": [
+      "akatalaa"
+    ],
+    "separar": [
+      "akatalaa"
+    ],
+    "apartar": [
+      "akatalaa"
+    ],
+    "apartarse": [
+      "akatalawaa"
+    ],
+    "recoger reunir": [
+      "akotchajaa",
+      "okotchojoo"
+    ],
+    "reunir": [
+      "akotchajaa",
+      "okotchojoo",
+      "outkajaa"
+    ],
+    "reunirse juntarse": [
+      "akotchajawaa",
+      "okotchojowaa"
+    ],
+    "reunirse": [
+      "akotchajawaa",
+      "okotchojowaa",
+      "outkajawaa"
+    ],
+    "juntarse": [
+      "akotchajawaa",
+      "okotchojowaa"
+    ],
+    "viaje": [
+      "akua",
+      "o'unaa"
+    ],
+    "curso": [
+      "akua"
+    ],
+    "paso velocidad": [
+      "akua"
+    ],
+    "paso": [
+      "akua"
+    ],
+    "velocidad": [
+      "akua"
+    ],
+    "forma naturaleza": [
+      "akuaippa"
+    ],
+    "forma": [
+      "akuaippa"
+    ],
+    "naturaleza": [
+      "akuaippa"
+    ],
+    "manera": [
+      "akuaippa"
+    ],
+    "conducta costumbre": [
+      "akuaippa"
+    ],
+    "conducta": [
+      "akuaippa"
+    ],
+    "costumbre": [
+      "akuaippa"
+    ],
+    "vida": [
+      "akuaippa",
+      "kataa o'u"
+    ],
+    "sentir pereza": [
+      "akulajawaa aa'in"
+    ],
+    "sentir": [
+      "akulajawaa aa'in",
+      "üttaa aa'in"
+    ],
+    "pereza": [
+      "akulajawaa aa'in"
+    ],
+    "estar aburrido": [
+      "akulajawaa aa'in"
+    ],
+    "hacer construir": [
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa"
+    ],
+    "arreglar": [
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa"
+    ],
+    "componer": [
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa"
+    ],
+    "crear": [
+      "akumajaa",
+      "aku'ujaa",
+      "akunyajaa"
+    ],
+    "tener frío": [
+      "akurulaa"
+    ],
+    "tener": [
+      "akurulaa",
+      "a'yalajiraa",
+      "aleewaa",
+      "ashapajawaa",
+      "eewaa ama'ana",
+      "e'iijaa",
+      "iraa",
+      "jolotoo",
+      "kachonwaa",
+      "ka'wayuusee",
+      "kanüliaa",
+      "kasaa",
+      "katünaa",
+      "miyaasüü",
+      "munyaasüü",
+      "wunyaasüü",
+      "mmoluu",
+      "momoluu",
+      "oushuwaa",
+      "shunulii",
+      "tuttaa"
+    ],
+    "frío": [
+      "akurulaa",
+      "jemiai"
+    ],
+    "temblar": [
+      "akutkujawaa"
+    ],
+    "contar": [
+      "aküjaa",
+      "ayaawajaa"
+    ],
+    "confesar": [
+      "aküjaa"
+    ],
+    "acusar denunciar": [
+      "aküjaa achikü"
+    ],
+    "acusar": [
+      "aküjaa achikü"
+    ],
+    "denunciar": [
+      "aküjaa achikü"
+    ],
+    "masticar": [
+      "akünülaa"
+    ],
+    "quemar": [
+      "a'ajaa",
+      "asijaa"
+    ],
+    "entre": [
+      "a'aka"
+    ],
+    "en (mezclado) en medio de": [
+      "a'aka"
+    ],
+    "en en medio de": [
+      "a'aka"
+    ],
+    "mentira": [
+      "a'alain",
+      "alawaa"
+    ],
+    "estar de parto": [
+      "a'alijawaa"
+    ],
+    "armar": [
+      "a'anaa"
+    ],
+    "tejer (en un telar)": [
+      "a'anaa"
+    ],
+    "tejer": [
+      "a'anaa",
+      "atulaa"
+    ],
+    "pedir prestado": [
+      "a'anapaa"
+    ],
+    "vestir vestirse": [
+      "a'anawaa"
+    ],
+    "vestir": [
+      "a'anawaa"
+    ],
+    "vestirse": [
+      "a'anawaa"
+    ],
+    "arma": [
+      "a'apüla"
+    ],
+    "parte pedazo porción": [
+      "a'ata"
+    ],
+    "parte": [
+      "a'ata",
+      "apüshi",
+      "e'ipa",
+      "o'uluku",
+      "o'utku"
+    ],
+    "pedazo": [
+      "a'ata",
+      "e'ipa"
+    ],
+    "porción": [
+      "a'ata"
+    ],
+    "lado": [
+      "a'ata"
+    ],
+    "compañero": [
+      "a'ata",
+      "amaajachi",
+      "apüshi",
+      "awala'ata"
+    ],
+    "socio": [
+      "a'ata"
+    ],
+    "ponerle a uno (vestido prenda)": [
+      "a'ataa"
+    ],
+    "ponerle a uno": [
+      "a'ataa"
+    ],
+    "ponerse (vestido prenda)": [
+      "a'ataa"
+    ],
+    "ponerse": [
+      "a'ataa"
+    ],
+    "esperar": [
+      "a'atapajaa",
+      "asukawaa apüla",
+      "oukajaa"
+    ],
+    "al lado de": [
+      "a'ato'u"
+    ],
+    "pisar": [
+      "a'chükütaa",
+      "achükütaa",
+      "a'tkütaa"
+    ],
+    "pegar (con un proyectil)": [
+      "a'itaa"
+    ],
+    "llover": [
+      "a'itaajuya"
+    ],
+    "sufrir un ataque": [
+      "a'ktütajawaa"
+    ],
+    "cocinar": [
+      "a'lakajawaa"
+    ],
+    "soñar con": [
+      "a'lapüjaa"
+    ],
+    "robar": [
+      "a'luwajaa",
+      "a'uwajaa",
+      "o'uwajaa"
+    ],
+    "huir escapar": [
+      "a'luwatawaa",
+      "o'uwatawaa"
+    ],
+    "huir": [
+      "a'luwatawaa",
+      "o'uwatawaa"
+    ],
+    "escapar": [
+      "a'luwatawaa",
+      "o'uwatawaa"
+    ],
+    "cosecha cultivo": [
+      "a'ttia"
+    ],
+    "cosecha": [
+      "a'ttia"
+    ],
+    "cultivo": [
+      "a'ttia"
+    ],
+    "semilla": [
+      "a'ü"
+    ],
+    "bala": [
+      "a'ü",
+      "kousüla",
+      "kousülo'u"
+    ],
+    "suegro (de mujer)": [
+      "a'üi"
+    ],
+    "suegro": [
+      "a'üi",
+      "ashimia"
+    ],
+    "nuera (de varón)": [
+      "a'üi"
+    ],
+    "nuera": [
+      "a'üi",
+      "a'ülü"
+    ],
+    "suegra (de mujer)": [
+      "a'ülü"
+    ],
+    "suegra": [
+      "a'ülü",
+      "emeshi"
+    ],
+    "nuera (de mujer)": [
+      "a'ülü"
+    ],
+    "regañar": [
+      "a'ülüjaa"
+    ],
+    "enemigo": [
+      "a'ünüü"
+    ],
+    "odiar": [
+      "a'ürülawaa"
+    ],
+    "al lado de junto a": [
+      "a'ütpa'a"
+    ],
+    "alabar": [
+      "a'waajaa"
+    ],
+    "gritar": [
+      "a'waataa"
+    ],
+    "jactarse": [
+      "a'waatawaa"
+    ],
+    "cabello": [
+      "a'wala"
+    ],
+    "t dispersar esparcir": [
+      "a'walakajaa"
+    ],
+    "t": [
+      "a'walakajaa"
+    ],
+    "dispersar": [
+      "a'walakajaa"
+    ],
+    "esparcir": [
+      "a'walakajaa"
+    ],
+    "cambiar": [
+      "a'wanajawaa",
+      "ee'iranajawaa",
+      "ee'irataa"
+    ],
+    "esposo": [
+      "a'wayuuse",
+      "eechin",
+      "ka'wayuusee"
+    ],
+    "lágrima": [
+      "a'wiira",
+      "a'wüira"
+    ],
+    "manantial": [
+      "a'wiira",
+      "a'wüira"
+    ],
+    "pegar golpear azotar": [
+      "a'yaataa",
+      "a'chaataa"
+    ],
+    "azotar": [
+      "a'yaataa",
+      "a'chaataa",
+      "ayounjaa",
+      "ayamüjaa"
+    ],
+    "llorar": [
+      "a'yalajaa"
+    ],
+    "tocar (música o instrumento)": [
+      "a'yalajiraa"
+    ],
+    "tocar": [
+      "a'yalajiraa",
+      "atalejaa",
+      "epettaa"
+    ],
+    "tener velorio": [
+      "a'yalajiraa"
+    ],
+    "velorio": [
+      "a'yalajiraa"
+    ],
+    "coser": [
+      "a'yapüjaa",
+      "a'yapajaa"
+    ],
+    "trabajador": [
+      "a'yataai"
+    ],
+    "trabajar": [
+      "a'yatawaa"
+    ],
+    "trabajo": [
+      "a'yatawaa"
+    ],
+    "pasto": [
+      "alama"
+    ],
+    "lamentar la muerte de uno asistir a un velorio": [
+      "alapajaa"
+    ],
+    "pasar suceder": [
+      "alataa"
+    ],
+    "pasar": [
+      "alataa",
+      "o'ttawaa",
+      "o'tte'eraa"
+    ],
+    "suceder": [
+      "alataa",
+      "o'otoo"
+    ],
+    "tío (materno)": [
+      "alaüla"
+    ],
+    "tío": [
+      "alaüla",
+      "ashi"
+    ],
+    "jefe": [
+      "alaülashi",
+      "ekiipü'ü",
+      "laülaa"
+    ],
+    "comandante": [
+      "alaülashi"
+    ],
+    "dueño": [
+      "alaülashi",
+      "laülaa"
+    ],
+    "tener amistad": [
+      "aleewaa"
+    ],
+    "amistad": [
+      "aleewaa"
+    ],
+    "estómago vientre abdomen barriga": [
+      "ale'e"
+    ],
+    "estómago": [
+      "ale'e"
+    ],
+    "vientre": [
+      "ale'e"
+    ],
+    "abdomen": [
+      "ale'e"
+    ],
+    "barriga": [
+      "ale'e"
+    ],
+    "volver regresar": [
+      "ale'ejaa",
+      "eitawaa"
+    ],
+    "volver": [
+      "ale'ejaa",
+      "eitawaa",
+      "ouyantaa"
+    ],
+    "regresar": [
+      "ale'ejaa",
+      "eitawaa"
+    ],
+    "en el vientre de en el interior de": [
+      "ale'eru'u"
+    ],
+    "sentir asco por aborrecer desdeñar": [
+      "alerajaa"
+    ],
+    "cuñado (de mujer)": [
+      "aleshi"
+    ],
+    "precio valor": [
+      "alia"
+    ],
+    "precio": [
+      "alia"
+    ],
+    "ordeñar": [
+      "aliichajaa"
+    ],
+    "exprimir": [
+      "aliichajaa"
+    ],
+    "por la tarde": [
+      "aliika",
+      "aliuuka"
+    ],
+    "ayer": [
+      "aliikainka",
+      "so'ukalinka"
+    ],
+    "subir subirse": [
+      "aliikajawaa"
+    ],
+    "subir": [
+      "aliikajawaa",
+      "o'otowaa"
+    ],
+    "subirse": [
+      "aliikajawaa"
+    ],
+    "e iima": [
+      "aliima"
+    ],
+    "e": [
+      "aliima"
+    ],
+    "iima": [
+      "aliima"
+    ],
+    "muela": [
+      "aliina"
+    ],
+    "aii": [
+      "aliina"
+    ],
+    "totuma (especie de calabaza)": [
+      "aliita"
+    ],
+    "totuma": [
+      "aliita"
+    ],
+    "blanco (persona no wayuu)": [
+      "alijuna"
+    ],
+    "blanco": [
+      "alijuna"
+    ],
+    "civilizado (persona no wayuu)": [
+      "alijuna"
+    ],
+    "civilizado": [
+      "alijuna"
+    ],
+    "español (idioma)": [
+      "alijunaiki"
+    ],
+    "español": [
+      "alijunaiki"
+    ],
+    "herida": [
+      "alio'u"
+    ],
+    "dentro de en": [
+      "alu'u"
+    ],
+    "amansar (caballo mula burro)": [
+      "alumajaa"
+    ],
+    "amansar": [
+      "alumajaa",
+      "amaüsijaa"
+    ],
+    "pecho": [
+      "aluuwain"
+    ],
+    "gobernar mandar": [
+      "aluwatawaa"
+    ],
+    "gobernar": [
+      "aluwatawaa",
+      "aluwatawaa aa'u"
+    ],
+    "cuñada (de varón)": [
+      "alüinyuu"
+    ],
+    "cuñada": [
+      "alüinyuu",
+      "e'erü"
+    ],
+    "rastrear": [
+      "alüjaa"
+    ],
+    "llevar cargar traer": [
+      "alü'üjaa"
+    ],
+    "llevar": [
+      "alü'üjaa",
+      "e'ikaa",
+      "a'ikaa",
+      "kakaliaa",
+      "kaka'iyaa",
+      "okolojoo",
+      "o'uniraa"
+    ],
+    "cargar": [
+      "alü'üjaa",
+      "o'otoo",
+      "o'ulijaa"
+    ],
+    "traer": [
+      "alü'üjaa",
+      "antiraa"
+    ],
+    "acercarse (en el tiempo": [
+      "alü'ülaa"
+    ],
+    "a un meta)": [
+      "alü'ülaa"
+    ],
+    "caballo pos": [
+      "ama"
+    ],
+    "caballo": [
+      "ama"
+    ],
+    "pos": [
+      "ama",
+      "katto'ui",
+      "laapi",
+      "rampara",
+      "rüi",
+      "toleeka"
+    ],
+    "con (acompañamiento)": [
+      "amaa"
+    ],
+    "y que siendo que": [
+      "amaa"
+    ],
+    "amaajana": [
+      "amaajachi"
+    ],
+    "en aquel tiempo de": [
+      "amaiwa"
+    ],
+    "duración": [
+      "ama'a"
+    ],
+    "donde en posesión de": [
+      "ama'ana"
+    ],
+    "antes de la salida de": [
+      "ama'ichiki",
+      "ama'ichikü"
+    ],
+    "mientras": [
+      "ama'inru'u",
+      "o'utpünaa",
+      "o'unnaa"
+    ],
+    "bondad cariño": [
+      "amanee"
+    ],
+    "bondad": [
+      "amanee"
+    ],
+    "cariño": [
+      "amanee"
+    ],
+    "cobrar por daño a una persona": [
+      "amaünajaa"
+    ],
+    "domar amansar": [
+      "amaüsijaa"
+    ],
+    "domar": [
+      "amaüsijaa"
+    ],
+    "dañar perjudicar": [
+      "amojujaa"
+    ],
+    "dañar": [
+      "amojujaa"
+    ],
+    "perjudicar": [
+      "amojujaa",
+      "uwomuyuwaa",
+      "uwonyuwaa"
+    ],
+    "múcura (vasija de barro cocido para agua)": [
+      "amüchi"
+    ],
+    "múcura": [
+      "amüchi"
+    ],
+    "a para": [
+      "amüin"
+    ],
+    "solo": [
+      "amüiwa'a"
+    ],
+    "mismo": [
+      "amüiwa'a",
+      "paala"
+    ],
+    "propio": [
+      "amüiwa'a"
+    ],
+    "garganta": [
+      "amüla"
+    ],
+    "derramarse gotear": [
+      "amülaa"
+    ],
+    "derramarse": [
+      "amülaa",
+      "keenaa"
+    ],
+    "gotear": [
+      "amülaa",
+      "keenaa",
+      "shottaa"
+    ],
+    "compadecerse de tener compasión de": [
+      "amüliajaa"
+    ],
+    "consolar": [
+      "amüliajaa"
+    ],
+    "sufrimiento": [
+      "amüliala"
+    ],
+    "vello": [
+      "amülira",
+      "oi"
+    ],
+    "pluma": [
+      "amülira",
+      "atüna"
+    ],
+    "perderse": [
+      "amüloulii"
+    ],
+    "perecer": [
+      "amüloulii"
+    ],
+    "novio": [
+      "amüraajüin"
+    ],
+    "humo": [
+      "amüsain"
+    ],
+    "atragantarse": [
+      "amüschejaa",
+      "amüschijaa",
+      "ataa"
+    ],
+    "diseño": [
+      "ana",
+      "ano'u"
+    ],
+    "color": [
+      "ana",
+      "o'u"
+    ],
+    "ser bueno": [
+      "anaa",
+      "anamiaa",
+      "anemiaa"
+    ],
+    "estar bien": [
+      "anaa"
+    ],
+    "sanar": [
+      "anaa",
+      "ashataa"
+    ],
+    "salud": [
+      "anaa"
+    ],
+    "aquí están estamos": [
+      "anaa"
+    ],
+    "aquí": [
+      "anaa",
+      "anii",
+      "anuu",
+      "yaaya"
+    ],
+    "están": [
+      "anaa"
+    ],
+    "estamos": [
+      "anaa"
+    ],
+    "guardar": [
+      "anaajawaa"
+    ],
+    "acomodarse": [
+      "anaatawaa"
+    ],
+    "ser bonito": [
+      "anachonwaa"
+    ],
+    "en a": [
+      "anain"
+    ],
+    "rel que siendo que": [
+      "anain"
+    ],
+    "de por": [
+      "anainjee"
+    ],
+    "porque (como consecuencia de)": [
+      "anainjee"
+    ],
+    "a hacia": [
+      "anainmüin"
+    ],
+    "hasta": [
+      "anainmüinre'eya"
+    ],
+    "hasta que": [
+      "anainmüinre'eya"
+    ],
+    "mirar observar": [
+      "anajaa"
+    ],
+    "mirar": [
+      "anajaa",
+      "eirakawaa",
+      "e'rajaa",
+      "e'rajawaa"
+    ],
+    "observar": [
+      "anajaa",
+      "e'rajawaa"
+    ],
+    "vigilar": [
+      "anajaa aa'u",
+      "e'rajaa aa'u"
+    ],
+    "alumbrar": [
+      "anakaa"
+    ],
+    "averiguar qué es examinar": [
+      "analawaa"
+    ],
+    "averiguar": [
+      "analawaa"
+    ],
+    "qué": [
+      "analawaa",
+      "kasa"
+    ],
+    "es": [
+      "analawaa"
+    ],
+    "examinar": [
+      "analawaa",
+      "e'rajawaa"
+    ],
+    "averiguar cómo está": [
+      "analawaa"
+    ],
+    "cómo": [
+      "analawaa"
+    ],
+    "está": [
+      "analawaa",
+      "anii",
+      "anuu"
+    ],
+    "estar mejor de salud": [
+      "analüü"
+    ],
+    "ser justo": [
+      "anamiaa",
+      "anemiaa",
+      "pansawaa"
+    ],
+    "ser bondadoso": [
+      "anamiaa",
+      "anemiaa",
+      "kamanewaa"
+    ],
+    "escoger elegir": [
+      "aneekaa",
+      "aneukaa"
+    ],
+    "escoger": [
+      "aneekaa",
+      "aneukaa"
+    ],
+    "elegir": [
+      "aneekaa",
+      "aneukaa"
+    ],
+    "aquí está estoy (masculino)": [
+      "anii"
+    ],
+    "aquí está estoy": [
+      "anii",
+      "anuu"
+    ],
+    "estoy": [
+      "anii",
+      "anuu"
+    ],
+    "anuu anaa (2)": [
+      "anii"
+    ],
+    "anuu anaa": [
+      "anii"
+    ],
+    "anuu": [
+      "anii"
+    ],
+    "anaa": [
+      "anii",
+      "anuu"
+    ],
+    "oveja": [
+      "anneerü"
+    ],
+    "terreno despejado": [
+      "anooi",
+      "anoui"
+    ],
+    "terreno": [
+      "anooi",
+      "anoui",
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "despejado": [
+      "anooi",
+      "anoui"
+    ],
+    "afuera": [
+      "anooipa'a",
+      "anouipa'a"
+    ],
+    "creer": [
+      "anoujaa",
+      "oonowaa amaa"
+    ],
+    "fe": [
+      "anoujaa",
+      "anoula"
+    ],
+    "corregir arreglar poner en orden": [
+      "anouktaa"
+    ],
+    "venir llegar": [
+      "antaa"
+    ],
+    "venir": [
+      "antaa"
+    ],
+    "llegar": [
+      "antaa",
+      "o'otoo"
+    ],
+    "encontrar": [
+      "antaa anain"
+    ],
+    "barco": [
+      "anua"
+    ],
+    "nuca cuello": [
+      "anulu"
+    ],
+    "nuca": [
+      "anulu"
+    ],
+    "cuello": [
+      "anulu"
+    ],
+    "aquí está estoy (no masculino)": [
+      "anuu"
+    ],
+    "anii anaa (2)": [
+      "anuu"
+    ],
+    "anii anaa": [
+      "anuu"
+    ],
+    "anii": [
+      "anuu"
+    ],
+    "voz habla": [
+      "anüiki",
+      "anüikü"
+    ],
+    "voz": [
+      "anüiki",
+      "anüikü",
+      "pütchi"
+    ],
+    "habla": [
+      "anüiki",
+      "anüikü"
+    ],
+    "palabra mensaje opinión expresada": [
+      "anüiki",
+      "anüikü"
+    ],
+    "palabra": [
+      "anüiki",
+      "anüikü",
+      "pütchi"
+    ],
+    "mensaje": [
+      "anüiki",
+      "anüikü"
+    ],
+    "opinión": [
+      "anüiki",
+      "anüikü"
+    ],
+    "expresada": [
+      "anüiki",
+      "anüikü"
+    ],
+    "idioma": [
+      "anüiki",
+      "anüikü"
+    ],
+    "nombre": [
+      "anülia"
+    ],
+    "lista de nombres": [
+      "anüliee"
+    ],
+    "telar": [
+      "anülü"
+    ],
+    "separarse (cada uno a su propio camino)": [
+      "apaajirawaa"
+    ],
+    "separarse": [
+      "apaajirawaa"
+    ],
+    "dedo (del pie)": [
+      "apachera"
+    ],
+    "dedo": [
+      "apachera",
+      "ejepira"
+    ],
+    "huerta": [
+      "apain",
+      "yüüja"
+    ],
+    "superficie piso": [
+      "apa'a"
+    ],
+    "superficie": [
+      "apa'a",
+      "atouta"
+    ],
+    "piso": [
+      "apa'a"
+    ],
+    "en (el área de)": [
+      "apa'a"
+    ],
+    "ir de compras": [
+      "apalaalajaa"
+    ],
+    "fluir": [
+      "apalanajawaa"
+    ],
+    "hacer rodar": [
+      "apalapajaa"
+    ],
+    "rodar": [
+      "apalapajaa",
+      "apalapajawaa"
+    ],
+    "mezclar": [
+      "apalirajaa"
+    ],
+    "hoja": [
+      "apanai"
+    ],
+    "hígado": [
+      "apana"
+    ],
+    "encontrarse con una persona en el camino": [
+      "apanapajaa"
+    ],
+    "irse corriendo": [
+      "apantajawaa"
+    ],
+    "irse": [
+      "apantajawaa"
+    ],
+    "corriendo": [
+      "apantajawaa"
+    ],
+    "hacer una visita pasear": [
+      "apasiajawaa"
+    ],
+    "uña garra pezuña": [
+      "apato'u"
+    ],
+    "uña": [
+      "apato'u"
+    ],
+    "garra": [
+      "apato'u"
+    ],
+    "pezuña": [
+      "apato'u"
+    ],
+    "atadura cabestro cuerda sarta (de cuentas)": [
+      "apü"
+    ],
+    "atadura cabestro cuerda sarta": [
+      "apü"
+    ],
+    "atadura": [
+      "apü"
+    ],
+    "cabestro": [
+      "apü",
+      "shaakuma"
+    ],
+    "cuerda": [
+      "apü",
+      "ejerü",
+      "jiiku"
+    ],
+    "sarta": [
+      "apü"
+    ],
+    "muslo": [
+      "apü'ü"
+    ],
+    "pastor": [
+      "apü'üya"
+    ],
+    "guardián": [
+      "apü'üya"
+    ],
+    "cuidador": [
+      "apü'üya"
+    ],
+    "para por": [
+      "apüla"
+    ],
+    "rel para que": [
+      "apüla"
+    ],
+    "prohibir": [
+      "apülajaa"
+    ],
+    "antes de": [
+      "apülapünaa"
+    ],
+    "antes de que": [
+      "apülapünaa"
+    ],
+    "lugar sitio puesto": [
+      "apülee"
+    ],
+    "lugar": [
+      "apülee",
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "sitio": [
+      "apülee",
+      "miiroku",
+      "miiruku"
+    ],
+    "puesto": [
+      "apülee"
+    ],
+    "delante de": [
+      "apüleerua",
+      "o'upala"
+    ],
+    "camino sendero": [
+      "apüna",
+      "wopu"
+    ],
+    "camino": [
+      "apüna",
+      "wopu"
+    ],
+    "sendero": [
+      "apüna",
+      "wopu"
+    ],
+    "sembrar": [
+      "apünajaa"
+    ],
+    "tres": [
+      "apünüin"
+    ],
+    "familia pariente": [
+      "apüshi"
+    ],
+    "familia": [
+      "apüshi"
+    ],
+    "pariente": [
+      "apüshi"
+    ],
+    "todo": [
+      "apüshua'a"
+    ],
+    "dejar": [
+      "apütaa",
+      "oo'ulawaa"
+    ],
+    "ser dejado": [
+      "apütawaa"
+    ],
+    "quedar": [
+      "apütawaa"
+    ],
+    "dejar sobras a": [
+      "apütawaa apüla"
+    ],
+    "despedirse de": [
+      "apütawaa apüla"
+    ],
+    "romperse (algo como cuerda bolsa)": [
+      "apüttaa"
+    ],
+    "romperse": [
+      "apüttaa",
+      "ojuichajaa",
+      "ojuichijaa",
+      "ajuichajaa"
+    ],
+    "dejar en remojo": [
+      "aralajaa"
+    ],
+    "coronilla": [
+      "aralo'u"
+    ],
+    "encima de sobre la cabeza de": [
+      "aralo'u"
+    ],
+    "ser delgado (de objetos planos)": [
+      "arülaa"
+    ],
+    "ser delgado": [
+      "arülaa",
+      "pasanuaa"
+    ],
+    "pastorear": [
+      "arüleejaa"
+    ],
+    "acercarse a": [
+      "arütkawaa"
+    ],
+    "filo": [
+      "asa",
+      "kasaa"
+    ],
+    "beber": [
+      "asaa",
+      "asawaa"
+    ],
+    "traer ir a buscar": [
+      "asaajaa"
+    ],
+    "vaca": [
+      "asachiralü",
+      "paa'a"
+    ],
+    "saludar": [
+      "asakaa"
+    ],
+    "preguntar": [
+      "asakiraa"
+    ],
+    "pierna pata": [
+      "asa'a"
+    ],
+    "pierna": [
+      "asa'a"
+    ],
+    "pata": [
+      "asa'a",
+      "oo'ui"
+    ],
+    "horcón (de la casa) columna": [
+      "asa'a"
+    ],
+    "horcón columna": [
+      "asa'a"
+    ],
+    "horcón": [
+      "asa'a"
+    ],
+    "columna": [
+      "asa'a",
+      "asapü"
+    ],
+    "alcanzar": [
+      "asa'wajaa"
+    ],
+    "a causa de por": [
+      "asala"
+    ],
+    "carne": [
+      "asalaa",
+      "e'iruku",
+      "e'itku"
+    ],
+    "afilar": [
+      "asalajaa",
+      "akasalajaa"
+    ],
+    "respirar suspirar": [
+      "asanalaa aa'in"
+    ],
+    "respirar": [
+      "asanalaa aa'in"
+    ],
+    "suspirar": [
+      "asanalaa aa'in"
+    ],
+    "rodilla": [
+      "asapain"
+    ],
+    "pasaje": [
+      "asapia"
+    ],
+    "espalda columna vertebral": [
+      "asapü"
+    ],
+    "espalda": [
+      "asapü"
+    ],
+    "vertebral": [
+      "asapü"
+    ],
+    "codo": [
+      "asatala"
+    ],
+    "beber (bebida alcohólica)": [
+      "asawaa"
+    ],
+    "fibra pulpa borra": [
+      "ase"
+    ],
+    "fibra": [
+      "ase"
+    ],
+    "pulpa": [
+      "ase"
+    ],
+    "borra": [
+      "ase"
+    ],
+    "mitad cintura": [
+      "ase'eru'u"
+    ],
+    "mitad": [
+      "ase'eru'u",
+      "shiatapünaa"
+    ],
+    "cintura": [
+      "ase'eru'u"
+    ],
+    "cadera": [
+      "ase'ewain"
+    ],
+    "leña": [
+      "asema",
+      "asukaa",
+      "siki"
+    ],
+    "fuego": [
+      "asema",
+      "siki"
+    ],
+    "pared": [
+      "asepü"
+    ],
+    "espíritu de la piache": [
+      "aseyuu"
+    ],
+    "cola": [
+      "asi"
+    ],
+    "flor": [
+      "asii"
+    ],
+    "sobrino (materno de varón)": [
+      "asiipü"
+    ],
+    "ensillar": [
+      "asiiyajawaa"
+    ],
+    "asar": [
+      "asijaa"
+    ],
+    "marcar": [
+      "asijaa",
+      "ejeerüjaa"
+    ],
+    "cicatriz": [
+      "asipala"
+    ],
+    "viga lateral": [
+      "asipala"
+    ],
+    "viga": [
+      "asipala",
+      "atujuna",
+      "ekiipala"
+    ],
+    "lateral": [
+      "asipala"
+    ],
+    "risa": [
+      "asira"
+    ],
+    "dar de beber": [
+      "asiraa"
+    ],
+    "reirse": [
+      "asirajaa"
+    ],
+    "resbalarse": [
+      "asiranajawaa"
+    ],
+    "presa": [
+      "asirü"
+    ],
+    "culpa": [
+      "asirü"
+    ],
+    "desatar": [
+      "asiwataa"
+    ],
+    "apuñalar pinchar": [
+      "asotaa",
+      "osotaa"
+    ],
+    "apuñalar": [
+      "asotaa",
+      "osotaa"
+    ],
+    "pinchar": [
+      "asotaa",
+      "osotaa"
+    ],
+    "brotar retoñar": [
+      "asotaa",
+      "osotaa"
+    ],
+    "brotar": [
+      "asotaa",
+      "osotaa"
+    ],
+    "retoñar": [
+      "asotaa",
+      "osotaa",
+      "atkaa"
+    ],
+    "quebrarse": [
+      "asottaa",
+      "osottaa"
+    ],
+    "quebrar": [
+      "asottaa",
+      "osottaa"
+    ],
+    "responder": [
+      "asouktaa"
+    ],
+    "recoger leña": [
+      "asukaa"
+    ],
+    "esperar (con preocupación)": [
+      "asukawaa apüla"
+    ],
+    "echar de menos": [
+      "asukawaa apüla"
+    ],
+    "rasgarse": [
+      "asüküitaa"
+    ],
+    "rasgar": [
+      "asüküitaa"
+    ],
+    "salir desprenderse": [
+      "asü'ütaa"
+    ],
+    "desprenderse": [
+      "asü'ütaa"
+    ],
+    "arteria vena": [
+      "asüla"
+    ],
+    "arteria": [
+      "asüla"
+    ],
+    "vena": [
+      "asüla"
+    ],
+    "tendón": [
+      "asüla"
+    ],
+    "regalar": [
+      "asülajaa"
+    ],
+    "cerrar": [
+      "asürülaa"
+    ],
+    "encerrar": [
+      "asürülaa"
+    ],
+    "acecinar (salar la carne y secarla al aire)": [
+      "asüsiinajaa"
+    ],
+    "acecinar": [
+      "asüsiinajaa"
+    ],
+    "sangre": [
+      "asha",
+      "isha"
+    ],
+    "jugar": [
+      "ashaittaa",
+      "emi'ijaa"
+    ],
+    "escribir": [
+      "ashajaa"
+    ],
+    "pintarse la cara": [
+      "ashajawaa"
+    ],
+    "bajar descender": [
+      "ashakataa"
+    ],
+    "bajar": [
+      "ashakataa"
+    ],
+    "descender": [
+      "ashakataa"
+    ],
+    "ponerse de pie": [
+      "asha'walawaa"
+    ],
+    "pararse": [
+      "asha'walawaa"
+    ],
+    "adivinar (por suposiciones)": [
+      "ashantajaa"
+    ],
+    "adivinar": [
+      "ashantajaa",
+      "oo'ulakaa"
+    ],
+    "darse prisa tener prisa": [
+      "ashapajawaa"
+    ],
+    "darse": [
+      "ashapajawaa"
+    ],
+    "prisa": [
+      "ashapajawaa"
+    ],
+    "preocuparse": [
+      "ashapatawaa"
+    ],
+    "sanar (una herida)": [
+      "ashataa"
+    ],
+    "copiar imitar aprender imitando": [
+      "ashataa"
+    ],
+    "copiar": [
+      "ashataa"
+    ],
+    "imitar": [
+      "ashataa"
+    ],
+    "aprender": [
+      "ashataa",
+      "ekirajawaa"
+    ],
+    "imitando": [
+      "ashataa"
+    ],
+    "partirse": [
+      "ashatawaa",
+      "awajawaa"
+    ],
+    "partir": [
+      "ashatawaa"
+    ],
+    "pelear con puños": [
+      "ashe'ejirawaa"
+    ],
+    "golpear patear": [
+      "ashe'etaa"
+    ],
+    "patear": [
+      "ashe'etaa"
+    ],
+    "tropezar": [
+      "ashe'etuwaa oo'ui"
+    ],
+    "padre": [
+      "ashi"
+    ],
+    "tío (paterno)": [
+      "ashi"
+    ],
+    "orinar": [
+      "ashiitaa"
+    ],
+    "lavar (ropa)": [
+      "ashijawaa"
+    ],
+    "lavar": [
+      "ashijawaa",
+      "o'lojoo"
+    ],
+    "suegro (de varón)": [
+      "ashimia"
+    ],
+    "yerno (de varón)": [
+      "ashimia"
+    ],
+    "yerno": [
+      "ashimia"
+    ],
+    "padrastro": [
+      "ashiyaashi"
+    ],
+    "cortar (con hacha machete)": [
+      "ashottaa",
+      "oshottoo"
+    ],
+    "cortar": [
+      "ashottaa",
+      "oshottoo",
+      "aüjaa",
+      "o'yotowaa"
+    ],
+    "estornudar": [
+      "ashoujaa"
+    ],
+    "huevo": [
+      "ashuku"
+    ],
+    "hermana menor (de varón)": [
+      "ashunuu"
+    ],
+    "hermana menor": [
+      "ashunuu",
+      "emiirua"
+    ],
+    "hermana": [
+      "ashunuu",
+      "emiirua"
+    ],
+    "menor": [
+      "ashunuu",
+      "emiirua",
+      "emülia"
+    ],
+    "meterse entrar a la fuerza": [
+      "ashutaa"
+    ],
+    "invadir atacar": [
+      "ashutaa aa'u"
+    ],
+    "invadir": [
+      "ashutaa aa'u"
+    ],
+    "atacar": [
+      "ashutaa aa'u"
+    ],
+    "nadar": [
+      "ashuunajaa",
+      "katünaa"
+    ],
+    "piel cuero": [
+      "ata"
+    ],
+    "piel": [
+      "ata",
+      "atouta"
+    ],
+    "cuero": [
+      "ata",
+      "paa'ata"
+    ],
+    "cáscara corteza": [
+      "ata"
+    ],
+    "cáscara": [
+      "ata",
+      "o'utala"
+    ],
+    "corteza": [
+      "ata"
+    ],
+    "cubierta envoltura vaina": [
+      "ata"
+    ],
+    "envoltura": [
+      "ata"
+    ],
+    "vaina": [
+      "ata"
+    ],
+    "caramba": [
+      "atak",
+      "atek"
+    ],
+    "coger agarrar": [
+      "ata'ülaa"
+    ],
+    "agarrar": [
+      "ata'ülaa"
+    ],
+    "tocar (tambor puerta)": [
+      "atalejaa"
+    ],
+    "levantarse": [
+      "atamawaa"
+    ],
+    "incorporarse": [
+      "atamawaa"
+    ],
+    "confiar en contar con": [
+      "ataralawaa amaa"
+    ],
+    "adulto": [
+      "ataralüichi"
+    ],
+    "violar (a una mujer)": [
+      "ataüjawaa"
+    ],
+    "violar": [
+      "ataüjawaa"
+    ],
+    "flechar punzar": [
+      "atkaa"
+    ],
+    "flechar": [
+      "atkaa"
+    ],
+    "punzar": [
+      "atkaa"
+    ],
+    "pelear": [
+      "atkawaa"
+    ],
+    "piel entera superficie entera": [
+      "atouta"
+    ],
+    "entera": [
+      "atouta"
+    ],
+    "recolectar (alimento)": [
+      "atpajaa"
+    ],
+    "recolectar": [
+      "atpajaa"
+    ],
+    "conejo": [
+      "atpanaa"
+    ],
+    "fuerza fortaleza": [
+      "atsüin",
+      "atsin",
+      "atchin"
+    ],
+    "fuerza": [
+      "atsüin",
+      "atsin",
+      "atchin"
+    ],
+    "fortaleza": [
+      "atsüin",
+      "atsin",
+      "atchin"
+    ],
+    "mamar": [
+      "atujawaa"
+    ],
+    "subordinado": [
+      "atujeejachi"
+    ],
+    "atujeejana": [
+      "atujeejachi"
+    ],
+    "superficie interior superficie inferior parte superior de las piernas": [
+      "atu'u"
+    ],
+    "entretejer tejer trenzar": [
+      "atulaa"
+    ],
+    "entretejer": [
+      "atulaa"
+    ],
+    "trenzar": [
+      "atulaa"
+    ],
+    "dormir": [
+      "atunkaa"
+    ],
+    "abuelo": [
+      "atuushi",
+      "taata"
+    ],
+    "antepasado": [
+      "atuushi"
+    ],
+    "atuushinuu": [
+      "atuushi"
+    ],
+    "saber": [
+      "atüjaa"
+    ],
+    "saber de": [
+      "atüjawaa aa'u"
+    ],
+    "formar moldear": [
+      "atükaa"
+    ],
+    "formar": [
+      "atükaa"
+    ],
+    "moldear": [
+      "atükaa"
+    ],
+    "embarrar": [
+      "atükaa pootshi"
+    ],
+    "atascarse": [
+      "atükawaa",
+      "opootaa"
+    ],
+    "brazo ala": [
+      "atüna"
+    ],
+    "brazo": [
+      "atüna"
+    ],
+    "ala": [
+      "atüna"
+    ],
+    "rama": [
+      "atüna"
+    ],
+    "amigo": [
+      "atünajutü",
+      "wa'lee"
+    ],
+    "trueno paso estruendoso de animales": [
+      "atürüla"
+    ],
+    "animar alentar": [
+      "atütüjaa",
+      "atütajaa"
+    ],
+    "animar": [
+      "atütüjaa",
+      "atütajaa",
+      "ootoo"
+    ],
+    "alentar": [
+      "atütüjaa",
+      "atütajaa"
+    ],
+    "cortar (el pelo) afeitar trasquilar": [
+      "aüjaa"
+    ],
+    "cortar afeitar trasquilar": [
+      "aüjaa"
+    ],
+    "afeitar": [
+      "aüjaa"
+    ],
+    "trasquilar": [
+      "aüjaa"
+    ],
+    "matar (ganado)": [
+      "aüjawaa"
+    ],
+    "matar": [
+      "aüjawaa",
+      "o'utaa aa'in"
+    ],
+    "desollar": [
+      "aüjawaa",
+      "oshojoo"
+    ],
+    "collar": [
+      "aüliijana",
+      "kakuuna"
+    ],
+    "estar flaco": [
+      "aürülaa"
+    ],
+    "saliva": [
+      "awaa"
+    ],
+    "carrera": [
+      "awachira",
+      "awatira"
+    ],
+    "rajarse partirse": [
+      "awajawaa"
+    ],
+    "rajarse": [
+      "awajawaa"
+    ],
+    "hermano": [
+      "awala",
+      "emülia",
+      "epaya"
+    ],
+    "awalayuu": [
+      "awala"
+    ],
+    "pagar": [
+      "awalaajaa"
+    ],
+    "mandíbula quijada": [
+      "awalainse"
+    ],
+    "mandíbula": [
+      "awalainse"
+    ],
+    "quijada": [
+      "awalainse"
+    ],
+    "pareja": [
+      "awala'ata"
+    ],
+    "mejilla": [
+      "awalapa'a"
+    ],
+    "luz": [
+      "awarala",
+      "luusa",
+      "waratshii"
+    ],
+    "barrer": [
+      "awareejaa",
+      "epitanajaa"
+    ],
+    "riqueza": [
+      "awashirüin"
+    ],
+    "volar despegar": [
+      "awataa"
+    ],
+    "volar": [
+      "awataa",
+      "awatawaa"
+    ],
+    "despegar": [
+      "awataa"
+    ],
+    "saltar brincar": [
+      "awataa"
+    ],
+    "saltar": [
+      "awataa"
+    ],
+    "brincar": [
+      "awataa"
+    ],
+    "correr": [
+      "awatawaa"
+    ],
+    "soplar (el viento)": [
+      "awatawaa",
+      "waawataa"
+    ],
+    "soplar": [
+      "awatawaa",
+      "waawataa"
+    ],
+    "volar (por el viento)": [
+      "awatawaa"
+    ],
+    "costilla": [
+      "awatse"
+    ],
+    "semillas (para la siembra)": [
+      "awaüya",
+      "awaüye"
+    ],
+    "semillas": [
+      "awaüya",
+      "awaüye"
+    ],
+    "relámpago": [
+      "ayaa"
+    ],
+    "imagen fotografía": [
+      "ayaakua",
+      "o'uyaakua"
+    ],
+    "imagen": [
+      "ayaakua",
+      "o'uyaakua"
+    ],
+    "fotografía": [
+      "ayaakua",
+      "o'uyaakua"
+    ],
+    "ejemplo": [
+      "ayaakua",
+      "o'uyaakua"
+    ],
+    "contar medir": [
+      "ayaawajaa"
+    ],
+    "medir": [
+      "ayaawajaa",
+      "ayaawataa",
+      "emiriijaa",
+      "emeriijaa"
+    ],
+    "señal símbolo": [
+      "ayaawase"
+    ],
+    "señal": [
+      "ayaawase"
+    ],
+    "símbolo": [
+      "ayaawase"
+    ],
+    "reconocer distinguir": [
+      "ayaawataa"
+    ],
+    "reconocer": [
+      "ayaawataa"
+    ],
+    "distinguir": [
+      "ayaawataa"
+    ],
+    "entender": [
+      "ayaawataa aa'u"
+    ],
+    "comprar": [
+      "ayalajaa"
+    ],
+    "levantar alzar": [
+      "ayaleraa"
+    ],
+    "levantar": [
+      "ayaleraa"
+    ],
+    "alzar": [
+      "ayaleraa"
+    ],
+    "seguir": [
+      "ayataa",
+      "oushikawaa achiirua"
+    ],
+    "lengua": [
+      "ayee",
+      "pütchi"
+    ],
+    "sombra": [
+      "ayolojo",
+      "ayaluju",
+      "eemioushi"
+    ],
+    "apariencia": [
+      "ayolojo",
+      "ayaluju"
+    ],
+    "espíritu fantasma": [
+      "ayolojo",
+      "ayaluju"
+    ],
+    "fantasma": [
+      "ayolojo",
+      "ayaluju"
+    ],
+    "competir": [
+      "ayoujirawaa"
+    ],
+    "azotar severamente": [
+      "ayounjaa",
+      "ayamüjaa"
+    ],
+    "severamente": [
+      "ayounjaa",
+      "ayamüjaa"
+    ],
+    "retirar": [
+      "ayu'laa"
+    ],
+    "restar": [
+      "ayu'laa"
+    ],
+    "enfermedad": [
+      "ayuulii",
+      "wanülüü"
+    ],
+    "intestino tripa": [
+      "ayülain"
+    ],
+    "intestino": [
+      "ayülain"
+    ],
+    "tripa": [
+      "ayülain"
+    ],
+    "moler": [
+      "ayüüjawaa"
+    ],
+    "machete": [
+      "chajaruuta"
+    ],
+    "achajaruutse": [
+      "chajaruuta"
+    ],
+    "allá (lejos)": [
+      "cha'aya"
+    ],
+    "allá": [
+      "cha'aya",
+      "sa'aya"
+    ],
+    "arete": [
+      "che'esaa"
+    ],
+    "este": [
+      "chi",
+      "chii"
+    ],
+    "éste": [
+      "chii"
+    ],
+    "esta forma del adjetivo se usa después del nombre": [
+      "chii",
+      "naa",
+      "tüü"
+    ],
+    "posterior": [
+      "chiiruajachi"
+    ],
+    "último": [
+      "chiiruajachi",
+      "shale"
+    ],
+    "no m posterior": [
+      "chiiruajachi"
+    ],
+    "ese": [
+      "chira"
+    ],
+    "— ése": [
+      "chira"
+    ],
+    "—": [
+      "chira",
+      "chisa"
+    ],
+    "ése": [
+      "chira"
+    ],
+    "aguardiente": [
+      "chirinchi"
+    ],
+    "aquel": [
+      "chisa"
+    ],
+    "— aquél": [
+      "chisa"
+    ],
+    "aquél": [
+      "chisa"
+    ],
+    "trompo": [
+      "chocho"
+    ],
+    "faltar": [
+      "cho'ujawaa",
+      "che'ojawaa",
+      "ja'ijawaa"
+    ],
+    "estar encendido": [
+      "chuwataa"
+    ],
+    "estar prendido": [
+      "chuwataa",
+      "jotaa"
+    ],
+    "estar brillando": [
+      "chuwataa"
+    ],
+    "estar mojado": [
+      "chü'laa"
+    ],
+    "mojarse": [
+      "chü'laa"
+    ],
+    "colibrí": [
+      "chünü'ü"
+    ],
+    "marido esposo": [
+      "eechin"
+    ],
+    "marido": [
+      "eechin"
+    ],
+    "luchar": [
+      "eejirawaa"
+    ],
+    "olor": [
+      "eejuu"
+    ],
+    "canción": [
+      "ee'irain",
+      "jayeechi",
+      "jayiichi"
+    ],
+    "cantar": [
+      "ee'irajaa"
+    ],
+    "sustituto": [
+      "ee'iraka"
+    ],
+    "suplente": [
+      "ee'iraka"
+    ],
+    "cambiar reemplazar": [
+      "ee'iranajawaa"
+    ],
+    "reemplazar": [
+      "ee'iranajawaa"
+    ],
+    "transformarse": [
+      "ee'iranajawaa"
+    ],
+    "cambiar de esposo": [
+      "ee'iratawaa"
+    ],
+    "por afán de": [
+      "ee'iree"
+    ],
+    "para que": [
+      "ee'iree"
+    ],
+    "aparecerse asomar": [
+      "ee'iyalawaa"
+    ],
+    "aparecerse": [
+      "ee'iyalawaa"
+    ],
+    "asomar": [
+      "ee'iyalawaa"
+    ],
+    "asomarse": [
+      "ee'iyalawaa"
+    ],
+    "mostrar señalar revelar": [
+      "ee'iyataa"
+    ],
+    "mostrar": [
+      "ee'iyataa"
+    ],
+    "señalar": [
+      "ee'iyataa"
+    ],
+    "revelar": [
+      "ee'iyataa"
+    ],
+    "miedo a": [
+      "eema"
+    ],
+    "descansar": [
+      "eemerawaa"
+    ],
+    "descanso": [
+      "eemerawaa"
+    ],
+    "llamar": [
+      "eenakaa",
+      "aanekaa",
+      "ounekaa"
+    ],
+    "esposa": [
+      "eerüin"
+    ],
+    "vomitar": [
+      "eetaa"
+    ],
+    "haber existir": [
+      "eewaa"
+    ],
+    "haber": [
+      "eewaa",
+      "kojuyaa"
+    ],
+    "existir": [
+      "eewaa"
+    ],
+    "víctima": [
+      "eewain"
+    ],
+    "accidentarse lastimarse dañarse": [
+      "eewawaa"
+    ],
+    "accidentarse": [
+      "eewawaa"
+    ],
+    "lastimarse": [
+      "eewawaa"
+    ],
+    "dañarse": [
+      "eewawaa"
+    ],
+    "madre": [
+      "ei"
+    ],
+    "tía (paterna)": [
+      "ei"
+    ],
+    "calmarse apaciguarse": [
+      "eimalawaa",
+      "ejimalawaa"
+    ],
+    "calmarse": [
+      "eimalawaa",
+      "ejimalawaa",
+      "jimataa"
+    ],
+    "apaciguarse": [
+      "eimalawaa",
+      "ejimalawaa"
+    ],
+    "labio": [
+      "eimata"
+    ],
+    "en el fondo de en el principio de": [
+      "einalu'u"
+    ],
+    "nalga": [
+      "einalu'u"
+    ],
+    "asiento": [
+      "einase"
+    ],
+    "perseguir": [
+      "eipiraa"
+    ],
+    "hueso": [
+      "eipüse",
+      "eimüse",
+      "jiipü"
+    ],
+    "espina": [
+      "eipüse",
+      "eimüse"
+    ],
+    "cuidar asear": [
+      "eisalajaa"
+    ],
+    "asear": [
+      "eisalajaa"
+    ],
+    "acostarse": [
+      "eisalawaa"
+    ],
+    "repartir": [
+      "eitajaa"
+    ],
+    "devolver": [
+      "eite'eraa"
+    ],
+    "perturbar alborotar incitar": [
+      "eiwa'ajaa aa'in"
+    ],
+    "perturbar": [
+      "eiwa'ajaa aa'in"
+    ],
+    "alborotar": [
+      "eiwa'ajaa aa'in"
+    ],
+    "incitar": [
+      "eiwa'ajaa aa'in"
+    ],
+    "madrastra": [
+      "eiyaasü"
+    ],
+    "curar": [
+      "eiyajaa"
+    ],
+    "hechizar": [
+      "eiyajaa"
+    ],
+    "cuchichear secretear": [
+      "ejejerawaa"
+    ],
+    "cuchichear": [
+      "ejejerawaa"
+    ],
+    "secretear": [
+      "ejejerawaa"
+    ],
+    "dedo (de la mano)": [
+      "ejepira"
+    ],
+    "cuerda (para colgar la hamaca)": [
+      "ejerü"
+    ],
+    "escupir": [
+      "ejetaa"
+    ],
+    "verter (polvos o granos) echar (polvos o granos)": [
+      "ejitaa"
+    ],
+    "verter echar": [
+      "ejitaa"
+    ],
+    "verter": [
+      "ejitaa",
+      "o'yotoo"
+    ],
+    "echar": [
+      "ejitaa",
+      "o'yotoo"
+    ],
+    "atar": [
+      "ejittawaa",
+      "ajüttawaa",
+      "aüttawaa"
+    ],
+    "comer": [
+      "ekaa"
+    ],
+    "picar": [
+      "ekaa",
+      "ojottaa"
+    ],
+    "molestar": [
+      "eke'ejaa aa'in"
+    ],
+    "terminar cumplir": [
+      "ekeraajaa"
+    ],
+    "terminar": [
+      "ekeraajaa"
+    ],
+    "cumplir": [
+      "ekeraajaa"
+    ],
+    "cumplirse": [
+      "ekeraajaa"
+    ],
+    "meter": [
+      "ekerojiraa",
+      "e'itawaa"
+    ],
+    "entrar": [
+      "ekerolaa"
+    ],
+    "mano derecha": [
+      "ekia"
+    ],
+    "derecha": [
+      "ekia"
+    ],
+    "utensilio para comer": [
+      "ekia"
+    ],
+    "cabeza": [
+      "ekii",
+      "ekiipü'ü"
+    ],
+    "tocón": [
+      "ekii"
+    ],
+    "fuente": [
+      "ekii"
+    ],
+    "origen": [
+      "ekii"
+    ],
+    "decena (para formar números)": [
+      "ekii"
+    ],
+    "decena": [
+      "ekii"
+    ],
+    "almohada": [
+      "ekiipala"
+    ],
+    "viga maestra cumbrera": [
+      "ekiipala"
+    ],
+    "maestra": [
+      "ekiipala"
+    ],
+    "cumbrera": [
+      "ekiipala"
+    ],
+    "cabeza (de un grupo) guía jefe": [
+      "ekiipü'ü"
+    ],
+    "cabeza guía jefe": [
+      "ekiipü'ü"
+    ],
+    "guía": [
+      "ekiipü'ü"
+    ],
+    "grito": [
+      "ekiisa",
+      "ekiise"
+    ],
+    "kiisa kiise": [
+      "ekiisa",
+      "ekiise"
+    ],
+    "kiisa": [
+      "ekiisa",
+      "ekiise"
+    ],
+    "kiise": [
+      "ekiisa",
+      "ekiise"
+    ],
+    "cerebro seso": [
+      "ekiisholoin"
+    ],
+    "cerebro": [
+      "ekiisholoin"
+    ],
+    "seso": [
+      "ekiisholoin"
+    ],
+    "dar de comer": [
+      "ekiraa"
+    ],
+    "enseñar": [
+      "ekirajaa",
+      "e'ikaa",
+      "a'ikaa"
+    ],
+    "estudiar aprender": [
+      "ekirajawaa"
+    ],
+    "estudiar": [
+      "ekirajawaa"
+    ],
+    "comida alimento": [
+      "eküülü"
+    ],
+    "comida": [
+      "eküülü",
+      "juriicha",
+      "juriichi"
+    ],
+    "alimento": [
+      "eküülü"
+    ],
+    "plaga parásito": [
+      "e'e"
+    ],
+    "plaga": [
+      "e'e"
+    ],
+    "parásito": [
+      "e'e"
+    ],
+    "cabalgadura": [
+      "e'ejena"
+    ],
+    "vehículo carro": [
+      "e'ejena"
+    ],
+    "vehículo": [
+      "e'ejena"
+    ],
+    "carro": [
+      "e'ejena",
+      "kemion"
+    ],
+    "sabor": [
+      "e'ejü",
+      "iraa"
+    ],
+    "cuñada (de mujer)": [
+      "e'erü"
+    ],
+    "nariz": [
+      "e'ichi"
+    ],
+    "hocico": [
+      "e'ichi"
+    ],
+    "pico (de un pájaro)": [
+      "e'ichi"
+    ],
+    "pico": [
+      "e'ichi"
+    ],
+    "punta": [
+      "e'ichi",
+      "e'iru'u"
+    ],
+    "tener diarrea": [
+      "e'iijaa"
+    ],
+    "diarrea": [
+      "e'iijaa"
+    ],
+    "barba": [
+      "e'iima",
+      "aliima"
+    ],
+    "defecar": [
+      "e'iitaa"
+    ],
+    "enseñar instruir": [
+      "e'ikaa",
+      "a'ikaa"
+    ],
+    "instruir": [
+      "e'ikaa",
+      "a'ikaa"
+    ],
+    "llevar y dejar": [
+      "e'ikajawaa"
+    ],
+    "estar herido": [
+      "e'ikawaa"
+    ],
+    "tejer con aguja": [
+      "e'inaa"
+    ],
+    "pedazo parte": [
+      "e'ipa"
+    ],
+    "en respuesta a": [
+      "e'ipajee"
+    ],
+    "frente": [
+      "e'ipo'u"
+    ],
+    "tapa": [
+      "e'ipolo",
+      "erouse"
+    ],
+    "rival": [
+      "e'ipolo"
+    ],
+    "llevar y dejar de camino dejar de paso": [
+      "e'ipünawaa"
+    ],
+    "sonido ruido": [
+      "e'ira"
+    ],
+    "sonido": [
+      "e'ira"
+    ],
+    "ruido": [
+      "e'ira"
+    ],
+    "llanto": [
+      "e'ira"
+    ],
+    "canto (de animal)": [
+      "e'ira"
+    ],
+    "canto": [
+      "e'ira"
+    ],
+    "carne cuerpo": [
+      "e'iruku",
+      "e'itku"
+    ],
+    "cuerpo": [
+      "e'iruku",
+      "e'itku"
+    ],
+    "casta": [
+      "e'iruku",
+      "e'itku"
+    ],
+    "en la punta de": [
+      "e'iru'u"
+    ],
+    "primogénito": [
+      "e'iruma"
+    ],
+    "aportar": [
+      "e'itaa"
+    ],
+    "poner meter": [
+      "e'itawaa"
+    ],
+    "poner": [
+      "e'itawaa"
+    ],
+    "proponer suponer": [
+      "e'itawaa"
+    ],
+    "proponer": [
+      "e'itawaa"
+    ],
+    "suponer": [
+      "e'itawaa"
+    ],
+    "designar asignar establecer": [
+      "e'itawaa"
+    ],
+    "designar": [
+      "e'itawaa"
+    ],
+    "asignar": [
+      "e'itawaa"
+    ],
+    "barbilla mentón": [
+      "e'iyeise",
+      "e'iyeinse"
+    ],
+    "barbilla": [
+      "e'iyeise",
+      "e'iyeinse"
+    ],
+    "mentón": [
+      "e'iyeise",
+      "e'iyeinse"
+    ],
+    "visita": [
+      "e'iyou"
+    ],
+    "huésped": [
+      "e'iyou"
+    ],
+    "ver": [
+      "e'raa"
+    ],
+    "experimentar": [
+      "e'raa"
+    ],
+    "conocer": [
+      "e'raajaa"
+    ],
+    "cuidar vigilar": [
+      "e'rajaa aa'u"
+    ],
+    "mirar observar examinar": [
+      "e'rajawaa"
+    ],
+    "brasa": [
+      "emechi"
+    ],
+    "engañar": [
+      "emeejaa"
+    ],
+    "defraudar": [
+      "emeejaa"
+    ],
+    "convencer persuadir": [
+      "eme'eraa aa'in"
+    ],
+    "convencer": [
+      "eme'eraa aa'in"
+    ],
+    "persuadir": [
+      "eme'eraa aa'in"
+    ],
+    "atraer": [
+      "eme'eraa aa'in"
+    ],
+    "blanco de broma o burla": [
+      "eme'erainpala"
+    ],
+    "bromear": [
+      "eme'erajawaa"
+    ],
+    "lloviznar": [
+      "ememajaa",
+      "ememejaa"
+    ],
+    "hundirse": [
+      "emeroloo"
+    ],
+    "suegra (de varón)": [
+      "emeshi"
+    ],
+    "en voz alta fuertemente": [
+      "emetulu"
+    ],
+    "comida para el viaje": [
+      "emia"
+    ],
+    "hermana menor (de mujer)": [
+      "emiirua"
+    ],
+    "juguete": [
+      "emi'ira"
+    ],
+    "estar harto": [
+      "emiraa"
+    ],
+    "tragar": [
+      "emiralaa"
+    ],
+    "hermano menor": [
+      "emülia"
+    ],
+    "hermano mayor": [
+      "epaya"
+    ],
+    "mayor": [
+      "epaya",
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "prender encender": [
+      "epejawaa"
+    ],
+    "encender": [
+      "epejawaa"
+    ],
+    "mano izquierda": [
+      "epe'e"
+    ],
+    "izquierda": [
+      "epe'e"
+    ],
+    "estar borracho": [
+      "eperaa"
+    ],
+    "emborracharse": [
+      "eperaa"
+    ],
+    "chismear": [
+      "eperulajaa"
+    ],
+    "sapo": [
+      "eperü'üi"
+    ],
+    "pesar": [
+      "epesajaa"
+    ],
+    "ser poco profundo": [
+      "epetaa"
+    ],
+    "medicina remedio veneno (para exterminar algo)": [
+      "epi"
+    ],
+    "medicina remedio veneno": [
+      "epi"
+    ],
+    "medicina": [
+      "epi",
+      "wunu'u"
+    ],
+    "remedio": [
+      "epi"
+    ],
+    "veneno": [
+      "epi"
+    ],
+    "cabo mango (de un utensilio)": [
+      "epi"
+    ],
+    "cabo mango": [
+      "epi"
+    ],
+    "cabo": [
+      "epi"
+    ],
+    "mango": [
+      "epi",
+      "monku"
+    ],
+    "casa": [
+      "epia",
+      "apüya",
+      "miichi",
+      "piichi",
+      "pinchi"
+    ],
+    "nido": [
+      "epia",
+      "apüya"
+    ],
+    "criar": [
+      "epijaa"
+    ],
+    "sustentar": [
+      "epijaa"
+    ],
+    "ruido de objetos producido por golpes o fricción": [
+      "epijana",
+      "epishana"
+    ],
+    "llenar inflar": [
+      "epirajaa"
+    ],
+    "inflar": [
+      "epirajaa"
+    ],
+    "jugo savia": [
+      "era"
+    ],
+    "jugo": [
+      "era"
+    ],
+    "caldo": [
+      "era"
+    ],
+    "sudor": [
+      "era"
+    ],
+    "en (un líquido)": [
+      "eroku"
+    ],
+    "tapa tapón": [
+      "erouse"
+    ],
+    "tapón": [
+      "erouse"
+    ],
+    "perro": [
+      "erü"
+    ],
+    "salir a la vista aparecer": [
+      "eweetaa"
+    ],
+    "lunar": [
+      "ewein"
+    ],
+    "silbar": [
+      "ewiijaa"
+    ],
+    "estar tenso": [
+      "ichee"
+    ],
+    "estar apretado": [
+      "ichee"
+    ],
+    "estar ser tieso": [
+      "ichee"
+    ],
+    "estar ser firme": [
+      "ichee"
+    ],
+    "estar ser fijo": [
+      "ichee"
+    ],
+    "estar ser duro": [
+      "ichee"
+    ],
+    "ser resistente ser inflexible": [
+      "ichee"
+    ],
+    "sal": [
+      "ichii"
+    ],
+    "árbol dividive": [
+      "ichii"
+    ],
+    "dividive": [
+      "ichii"
+    ],
+    "arriba": [
+      "iipünaa"
+    ],
+    "ave cardenal coriano": [
+      "iisho"
+    ],
+    "ave": [
+      "iisho",
+      "ku'lupucho'u",
+      "ku'lupüchü'i",
+      "ka'lapücho'u",
+      "mashale'e",
+      "seruma",
+      "sirumaachi",
+      "sikirulu",
+      "sekurulu",
+      "toolü",
+      "ului",
+      "wainpirai"
+    ],
+    "cardenal": [
+      "iisho"
+    ],
+    "coriano": [
+      "iisho"
+    ],
+    "recipiente para comida o bebida": [
+      "iita"
+    ],
+    "primavera (tiempo de lluvias menores) pléyades (constelación)": [
+      "iiwa"
+    ],
+    "primavera pléyades": [
+      "iiwa"
+    ],
+    "primavera": [
+      "iiwa"
+    ],
+    "pléyades": [
+      "iiwa"
+    ],
+    "piedra": [
+      "ipa",
+      "tu'uma"
+    ],
+    "eipain": [
+      "ipa"
+    ],
+    "estar encinta estar embarazada": [
+      "ipooluu",
+      "ipuoluu"
+    ],
+    "ser insípido": [
+      "iraa"
+    ],
+    "tener poco sabor": [
+      "iraa"
+    ],
+    "poco": [
+      "iraa",
+      "palitchon"
+    ],
+    "venado": [
+      "irama"
+    ],
+    "verde (no seco)": [
+      "irolu"
+    ],
+    "verde": [
+      "irolu",
+      "kotoorojüin",
+      "wüittüsü"
+    ],
+    "no poder": [
+      "isaa achiki"
+    ],
+    "tierra virgen desierto": [
+      "isashii"
+    ],
+    "tierra": [
+      "isashii",
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "virgen": [
+      "isashii"
+    ],
+    "desierto": [
+      "isashii"
+    ],
+    "maraca": [
+      "isira",
+      "ishira"
+    ],
+    "eisira": [
+      "isira",
+      "ishira"
+    ],
+    "sufrir una quemadura quemarse": [
+      "ishaa"
+    ],
+    "hueco pozo": [
+      "ishi"
+    ],
+    "hueco": [
+      "ishi"
+    ],
+    "pozo": [
+      "ishi"
+    ],
+    "eishin eishia": [
+      "ishi"
+    ],
+    "eishin": [
+      "ishi"
+    ],
+    "eishia": [
+      "ishi"
+    ],
+    "ser amargo": [
+      "ishii"
+    ],
+    "ser rojo": [
+      "ishoo"
+    ],
+    "secarse": [
+      "itaa",
+      "oosojowaa"
+    ],
+    "estar podrido": [
+      "ittaa"
+    ],
+    "pudrirse descomponerse deshacerse": [
+      "ittaa"
+    ],
+    "pudrirse": [
+      "ittaa"
+    ],
+    "descomponerse": [
+      "ittaa"
+    ],
+    "deshacerse": [
+      "ittaa"
+    ],
+    "quemarse sufrir una quemadura": [
+      "ittaa"
+    ],
+    "ser prostituta": [
+      "iwaa",
+      "maa'inwaa"
+    ],
+    "iguana": [
+      "iwana"
+    ],
+    "estar crudo": [
+      "iyaa"
+    ],
+    "pocillo jarra jarro": [
+      "jaarü"
+    ],
+    "pocillo": [
+      "jaarü"
+    ],
+    "jarra": [
+      "jaarü"
+    ],
+    "jarro": [
+      "jaarü"
+    ],
+    "mediano": [
+      "ja'apü",
+      "ka'apü"
+    ],
+    "aunque no importa que": [
+      "ja'itaichi"
+    ],
+    "estar caliente": [
+      "ja'iwaa"
+    ],
+    "cinco": [
+      "ja'rai"
+    ],
+    "aparecer": [
+      "ja'yaa"
+    ],
+    "ser visible ser audible": [
+      "ja'yaa"
+    ],
+    "mosca": [
+      "ja'yumulerü",
+      "ja'nyuulerü"
+    ],
+    "estar bien cocido": [
+      "ja'yumuu",
+      "ja'nyuwaa"
+    ],
+    "estar maduro": [
+      "ja'yumuu",
+      "ja'nyuwaa",
+      "je'wee"
+    ],
+    "dónde estar": [
+      "jalaa"
+    ],
+    "ven acá (masculino no masculino)": [
+      "jalaichi"
+    ],
+    "ven acá": [
+      "jalaichi"
+    ],
+    "ven": [
+      "jalaichi"
+    ],
+    "acá": [
+      "jalaichi"
+    ],
+    "vengan acá": [
+      "jalaichi"
+    ],
+    "vengan": [
+      "jalaichi"
+    ],
+    "cuidado": [
+      "jalia"
+    ],
+    "por qué ser cómo ser": [
+      "jamaa"
+    ],
+    "ser liviano": [
+      "jamaamaa"
+    ],
+    "hamaca": [
+      "jama'a",
+      "o'ula",
+      "süi"
+    ],
+    "hambre escasez de alimento": [
+      "jamü"
+    ],
+    "tuna": [
+      "jamüche'e"
+    ],
+    "ser tímido": [
+      "japülii"
+    ],
+    "quién cuál": [
+      "jarai",
+      "jaralü",
+      "jaralii"
+    ],
+    "quién": [
+      "jarai",
+      "jaralü",
+      "jaralii"
+    ],
+    "cuál": [
+      "jarai",
+      "jaralü",
+      "jaralii"
+    ],
+    "son las fonnas masculina no masculina y plural": [
+      "jarai",
+      "jaralü",
+      "jaralii"
+    ],
+    "arena": [
+      "jasai"
+    ],
+    "estar enojado": [
+      "jashichii"
+    ],
+    "estar": [
+      "jashichii"
+    ],
+    "ser agrio": [
+      "jashü'üwaa"
+    ],
+    "flecha": [
+      "jatü"
+    ],
+    "estar flojo": [
+      "jawa'awaa"
+    ],
+    "ser suave": [
+      "jawa'awaa"
+    ],
+    "ser pesado": [
+      "jawataa"
+    ],
+    "ser barato": [
+      "jayaa"
+    ],
+    "pulga": [
+      "jayapa"
+    ],
+    "y": [
+      "je",
+      "o'tta",
+      "oo'ulaka"
+    ],
+    "o": [
+      "je",
+      "shiale"
+    ],
+    "hierro (de marcar)": [
+      "jeerü"
+    ],
+    "hierro": [
+      "jeerü",
+      "kachueera"
+    ],
+    "marca (en el ganado)": [
+      "jeerü"
+    ],
+    "marca": [
+      "jeerü"
+    ],
+    "ejeetse": [
+      "jeerü"
+    ],
+    "nuevo": [
+      "jekechi"
+    ],
+    "alacrán": [
+      "je'yulu",
+      "ja'yulu"
+    ],
+    "nacer": [
+      "jemeiwaa",
+      "jemelii",
+      "jemeyuluu",
+      "jemeyulaa"
+    ],
+    "ser sabroso": [
+      "jemetaa"
+    ],
+    "ser oloroso": [
+      "jemetaa eejuu"
+    ],
+    "dar a luz parir": [
+      "jemeyuluu",
+      "jemeyulaa"
+    ],
+    "brisa distintiva del norte": [
+      "jepirachi"
+    ],
+    "cuánto ser": [
+      "jera"
+    ],
+    "ser brillante": [
+      "jerottaa"
+    ],
+    "ser claro": [
+      "jerottaa"
+    ],
+    "ser ancho": [
+      "jerulaa"
+    ],
+    "hormiga": [
+      "jeyuu"
+    ],
+    "ustedes": [
+      "jia"
+    ],
+    "los las": [
+      "jia",
+      "naya"
+    ],
+    "mujer": [
+      "jierü"
+    ],
+    "hembra": [
+      "jierü"
+    ],
+    "cuerda soga": [
+      "jiiku"
+    ],
+    "soga": [
+      "jiiku"
+    ],
+    "restos mortales": [
+      "jiipü"
+    ],
+    "restos": [
+      "jiipü"
+    ],
+    "mortales": [
+      "jiipü"
+    ],
+    "hilo": [
+      "jiirü"
+    ],
+    "hilaza": [
+      "jiitpai"
+    ],
+    "negar": [
+      "ji'iyee",
+      "je'iyee"
+    ],
+    "ser tacaño": [
+      "ji'iyee",
+      "je'iyee"
+    ],
+    "mosquito": [
+      "ji'rupu"
+    ],
+    "joven (varón)": [
+      "jima'ai"
+    ],
+    "joven": [
+      "jima'ai",
+      "majayülü"
+    ],
+    "estar quieto": [
+      "jimataa"
+    ],
+    "estar tranquilo": [
+      "jimataa"
+    ],
+    "pez pescado": [
+      "jime",
+      "jima"
+    ],
+    "pez": [
+      "jime",
+      "jima"
+    ],
+    "pescado": [
+      "jime",
+      "jima"
+    ],
+    "muchacha": [
+      "jimo'olu"
+    ],
+    "niña": [
+      "jintulu"
+    ],
+    "niño muchacho": [
+      "jintüi"
+    ],
+    "niño": [
+      "jintüi",
+      "tepichi"
+    ],
+    "muchacho": [
+      "jintüi",
+      "tepichi"
+    ],
+    "gusano": [
+      "jokoma"
+    ],
+    "nene": [
+      "jo'uu"
+    ],
+    "bebé": [
+      "jo'uu"
+    ],
+    "pequeño": [
+      "jo'uuchon"
+    ],
+    "corto": [
+      "jo'uuchon"
+    ],
+    "tener ampolla": [
+      "jolotoo"
+    ],
+    "ampolla": [
+      "jolotoo"
+    ],
+    "estrella": [
+      "jolotsü"
+    ],
+    "linterna": [
+      "jooki"
+    ],
+    "vámonos": [
+      "joo'uya"
+    ],
+    "ahora pronto": [
+      "joolu'u"
+    ],
+    "ahora": [
+      "joolu'u",
+      "paala"
+    ],
+    "pronto": [
+      "joolu'u",
+      "maalü"
+    ],
+    "estar seco": [
+      "josoo",
+      "juluu"
+    ],
+    "arder": [
+      "jotaa"
+    ],
+    "quemarse": [
+      "jotaa"
+    ],
+    "estar quemado": [
+      "jotaa"
+    ],
+    "cuándo": [
+      "jouja"
+    ],
+    "viento brisa": [
+      "jouktai"
+    ],
+    "viento": [
+      "jouktai",
+      "wawai"
+    ],
+    "brisa": [
+      "jouktai"
+    ],
+    "aire": [
+      "jouktai"
+    ],
+    "ser mucho": [
+      "joulaa",
+      "wattaa aalin"
+    ],
+    "ser bastante": [
+      "joulaa"
+    ],
+    "estar sentado": [
+      "joyotoo"
+    ],
+    "grillo": [
+      "ju'i"
+    ],
+    "estar acostado": [
+      "ju'letaa",
+      "palastaa"
+    ],
+    "tropezar y caerse": [
+      "ju'letaa"
+    ],
+    "freno (de caballo)": [
+      "juleena"
+    ],
+    "freno": [
+      "juleena"
+    ],
+    "mariposa": [
+      "julirü"
+    ],
+    "estar marchito": [
+      "juluu"
+    ],
+    "honda": [
+      "junaaya"
+    ],
+    "comida frita": [
+      "juriicha",
+      "juriichi"
+    ],
+    "frita": [
+      "juriicha",
+      "juriichi"
+    ],
+    "estar abierto": [
+      "jutataa"
+    ],
+    "estar reunido": [
+      "jutkataa"
+    ],
+    "reunión": [
+      "jutkataa"
+    ],
+    "lluvia": [
+      "juya"
+    ],
+    "año": [
+      "juya"
+    ],
+    "pensar": [
+      "jülüjaa aa'in"
+    ],
+    "ser obediente": [
+      "jüüjüwaa"
+    ],
+    "ser sumiso": [
+      "jüüjüwaa"
+    ],
+    "causar daño pecar": [
+      "kaainjalaa"
+    ],
+    "causar": [
+      "kaainjalaa"
+    ],
+    "daño": [
+      "kaainjalaa"
+    ],
+    "pecar": [
+      "kaainjalaa"
+    ],
+    "ser arisco": [
+      "kaa'inwaa"
+    ],
+    "ser brioso": [
+      "kaa'inwaa"
+    ],
+    "ser temeroso": [
+      "kaa'inwaa"
+    ],
+    "ser juicioso": [
+      "kaa'inwaa"
+    ],
+    "ser prudente": [
+      "kaa'inwaa"
+    ],
+    "cabra chivo": [
+      "kaa'ula"
+    ],
+    "cabra": [
+      "kaa'ula"
+    ],
+    "chivo": [
+      "kaa'ula"
+    ],
+    "perla": [
+      "kaa'ürüi",
+      "kaa'ürüla"
+    ],
+    "alcaraván (dara)": [
+      "kaarai"
+    ],
+    "alcaraván": [
+      "kaarai",
+      "teitei",
+      "teuteu"
+    ],
+    "petróleo (para lámpara)": [
+      "kaasü"
+    ],
+    "petróleo": [
+      "kaasü"
+    ],
+    "tambor": [
+      "kaasha"
+    ],
+    "langosta (insecto)": [
+      "kaashapü",
+      "kaashapa"
+    ],
+    "langosta": [
+      "kaashapü",
+      "kaashapa"
+    ],
+    "oiga": [
+      "kaatei"
+    ],
+    "cárcel": [
+      "kaatset",
+      "püreesaapüle"
+    ],
+    "estar colgado": [
+      "kachetaa"
+    ],
+    "tener hijo": [
+      "kachonwaa"
+    ],
+    "dar fruto": [
+      "kachonwaa"
+    ],
+    "hierro alambre": [
+      "kachueera"
+    ],
+    "alambre": [
+      "kachueera"
+    ],
+    "akachueetse": [
+      "kachueera"
+    ],
+    "ser lento de habilidad": [
+      "kajaa"
+    ],
+    "llevar mucho tiempo durar mucho tiempo": [
+      "kakaliaa",
+      "kaka'iyaa"
+    ],
+    "mucho": [
+      "kakaliaa",
+      "kaka'iyaa",
+      "ma'i",
+      "wainma",
+      "mainma"
+    ],
+    "tiempo": [
+      "kakaliaa",
+      "kaka'iyaa",
+      "ka'i"
+    ],
+    "durar": [
+      "kakaliaa",
+      "kaka'iyaa"
+    ],
+    "ser veloz (andando)": [
+      "kakuaa"
+    ],
+    "ser veloz": [
+      "kakuaa",
+      "kawachiraa",
+      "kawatiraa"
+    ],
+    "prenda (joya) collar": [
+      "kakuuna"
+    ],
+    "prenda collar": [
+      "kakuuna"
+    ],
+    "prenda": [
+      "kakuuna"
+    ],
+    "sol": [
+      "ka'i"
+    ],
+    "día": [
+      "ka'i"
+    ],
+    "ser grueso (de objetos planos)": [
+      "ka'lee"
+    ],
+    "ser grueso": [
+      "ka'lee",
+      "laüktaa"
+    ],
+    "ladrón": [
+      "ka'ruwarai"
+    ],
+    "tener esposo": [
+      "ka'wayuusee"
+    ],
+    "estar un poco retirado": [
+      "ka'yataa"
+    ],
+    "patilla (especie de fruta)": [
+      "kalapaasü"
+    ],
+    "patilla": [
+      "kalapaasü"
+    ],
+    "horcón principal de una casa": [
+      "kalapüi"
+    ],
+    "cadena": [
+      "kaleena"
+    ],
+    "perico (cara sucia)": [
+      "kalekale"
+    ],
+    "perico": [
+      "kalekale"
+    ],
+    "a mediodía": [
+      "kale'u"
+    ],
+    "gallina": [
+      "kaliina"
+    ],
+    "contener": [
+      "kalu'uwaa"
+    ],
+    "ser amable": [
+      "kamanewaa"
+    ],
+    "ser compasivo": [
+      "kamanewaa"
+    ],
+    "mamón (fruta)": [
+      "kane'ewa"
+    ],
+    "mamón": [
+      "kane'ewa"
+    ],
+    "ser llamado": [
+      "kanüliaa"
+    ],
+    "tener fama": [
+      "kanüliaa"
+    ],
+    "fama": [
+      "kanüliaa"
+    ],
+    "ser difícil": [
+      "kapülewaa"
+    ],
+    "estar atado": [
+      "kapüü"
+    ],
+    "papel": [
+      "karaloukta"
+    ],
+    "libro": [
+      "karaloukta"
+    ],
+    "akaralouktse": [
+      "karaloukta"
+    ],
+    "carretera": [
+      "karateera"
+    ],
+    "carretilla": [
+      "karatiiya"
+    ],
+    "cosa": [
+      "kasa",
+      "korolo"
+    ],
+    "tener filo": [
+      "kasaa"
+    ],
+    "ser capaz de meter más": [
+      "kasaa"
+    ],
+    "desgracia": [
+      "kasachiki"
+    ],
+    "guerra": [
+      "kasachiki"
+    ],
+    "ser ruidoso": [
+      "kasewaa"
+    ],
+    "ser bullicioso": [
+      "kasewaa"
+    ],
+    "ciempiés": [
+      "kasipa"
+    ],
+    "arco iris": [
+      "kaspolüin"
+    ],
+    "arco": [
+      "kaspolüin",
+      "uraichi",
+      "wuraichi"
+    ],
+    "iris": [
+      "kaspolüin"
+    ],
+    "ser blanco": [
+      "kasuwaa"
+    ],
+    "ser canoso": [
+      "kasuwaa"
+    ],
+    "luna": [
+      "kashi"
+    ],
+    "mes": [
+      "kashi"
+    ],
+    "ser feo fea": [
+      "kashüülaa"
+    ],
+    "ser grosero": [
+      "kashüülaa"
+    ],
+    "ser horrible": [
+      "kashüülaa"
+    ],
+    "estar vivo": [
+      "kataa o'u"
+    ],
+    "vivir": [
+      "kataa o'u",
+      "kepiaa"
+    ],
+    "ave atrapamoscas sangre de toro": [
+      "katipirüin"
+    ],
+    "arma de fuego": [
+      "katkousü"
+    ],
+    "ser fuerte": [
+      "katsüinwaa",
+      "katsinwaa",
+      "katchinwaa"
+    ],
+    "mochila pos": [
+      "katto'ui"
+    ],
+    "mochila": [
+      "katto'ui",
+      "susu"
+    ],
+    "tener alas": [
+      "katünaa"
+    ],
+    "alas": [
+      "katünaa"
+    ],
+    "avión": [
+      "katünasü"
+    ],
+    "ser gordo": [
+      "kaüsüü",
+      "kaüsii"
+    ],
+    "ser veloz (corriendo)": [
+      "kawachiraa",
+      "kawatiraa"
+    ],
+    "heder": [
+      "keejuwaa"
+    ],
+    "ser temible": [
+      "keemaa"
+    ],
+    "queso": [
+      "keesü"
+    ],
+    "ser inteligente": [
+      "kekiiwaa",
+      "yalayalaa"
+    ],
+    "ser sabio": [
+      "kekiiwaa"
+    ],
+    "camión carro automóvil": [
+      "kemion"
+    ],
+    "camión": [
+      "kemion"
+    ],
+    "automóvil": [
+      "kemion"
+    ],
+    "café": [
+      "kepein",
+      "kojee"
+    ],
+    "vivir (residir)": [
+      "kepiaa"
+    ],
+    "estar terminado": [
+      "kerawaa",
+      "kettawaa"
+    ],
+    "estar acabado": [
+      "kerawaa"
+    ],
+    "estar listo": [
+      "kerawaa",
+      "kettawaa",
+      "yapaa"
+    ],
+    "estar concluido": [
+      "kettawaa"
+    ],
+    "estar guisado": [
+      "kisaawaa"
+    ],
+    "cochino": [
+      "kochiina"
+    ],
+    "ser espeso": [
+      "kojoo"
+    ],
+    "ser denso": [
+      "kojoo"
+    ],
+    "ser caro": [
+      "kojutaa"
+    ],
+    "ser respetado por": [
+      "kojutaa atüma"
+    ],
+    "ser honrado por": [
+      "kojutaa atüma"
+    ],
+    "ser varios": [
+      "kojuyaa"
+    ],
+    "haber bastante": [
+      "kojuyaa"
+    ],
+    "bastante": [
+      "kojuyaa"
+    ],
+    "avispa": [
+      "ko'oi"
+    ],
+    "ser redondo": [
+      "ko'oyowaa",
+      "lakayawaa"
+    ],
+    "estar envuelto": [
+      "ko'oyowaa"
+    ],
+    "estar enrollado": [
+      "ko'oyowaa"
+    ],
+    "estar callado": [
+      "ko'utaa"
+    ],
+    "colegio": [
+      "koleejia"
+    ],
+    "pincharse": [
+      "koojaa",
+      "koojoo"
+    ],
+    "ratón rata": [
+      "kookooche'erü"
+    ],
+    "ratón": [
+      "kookooche'erü"
+    ],
+    "rata": [
+      "kookooche'erü"
+    ],
+    "gallo": [
+      "kootole'era"
+    ],
+    "cosa (pertenencia de alguien) pieza": [
+      "korolo"
+    ],
+    "cosa pieza": [
+      "korolo"
+    ],
+    "pieza": [
+      "korolo"
+    ],
+    "akorolo": [
+      "korolo"
+    ],
+    "cocina": [
+      "kosinapia"
+    ],
+    "verde (color de objeto)": [
+      "kotoorojüin"
+    ],
+    "caucho": [
+      "koucha"
+    ],
+    "honda de caucho": [
+      "koucha"
+    ],
+    "ave cucarachero currucuchú": [
+      "ku'lupucho'u",
+      "ku'lupüchü'i",
+      "ka'lapücho'u"
+    ],
+    "cucarachero": [
+      "ku'lupucho'u",
+      "ku'lupüchü'i",
+      "ka'lapücho'u"
+    ],
+    "currucuchú": [
+      "ku'lupucho'u",
+      "ku'lupüchü'i",
+      "ka'lapücho'u"
+    ],
+    "corral": [
+      "kulaala"
+    ],
+    "akulaatse": [
+      "kulaala"
+    ],
+    "vara": [
+      "kuli'ichi"
+    ],
+    "anzuelo": [
+      "kulira"
+    ],
+    "tela": [
+      "kuluulu"
+    ],
+    "akuluutse": [
+      "kuluulu"
+    ],
+    "red de pescar": [
+      "kusu"
+    ],
+    "lápiz pos": [
+      "laapi"
+    ],
+    "lápiz": [
+      "laapi"
+    ],
+    "ser flexible": [
+      "la'walawaa"
+    ],
+    "lago": [
+      "lamuuna"
+    ],
+    "amuleto contra": [
+      "lania"
+    ],
+    "amuleto": [
+      "lania"
+    ],
+    "contra": [
+      "lania",
+      "oo'omüin"
+    ],
+    "sueño": [
+      "lapü"
+    ],
+    "ser grueso (de objetos cilíndricos)": [
+      "laüktaa"
+    ],
+    "viejo": [
+      "laülaa"
+    ],
+    "anciano": [
+      "laülaa"
+    ],
+    "dar vueltas": [
+      "leeyataa"
+    ],
+    "vueltas": [
+      "leeyataa"
+    ],
+    "arrastrarse gatear": [
+      "lemtaa",
+      "lemütaa"
+    ],
+    "arrastrarse": [
+      "lemtaa",
+      "lemütaa"
+    ],
+    "gatear": [
+      "lemtaa",
+      "lemütaa"
+    ],
+    "ser recto": [
+      "lotaa",
+      "pansawaa"
+    ],
+    "ser ordenado": [
+      "lotaa"
+    ],
+    "ser correcto": [
+      "lotaa"
+    ],
+    "piedra de afilar": [
+      "luta"
+    ],
+    "arroyo": [
+      "luwopu"
+    ],
+    "decir": [
+      "maa"
+    ],
+    "ser así": [
+      "maa"
+    ],
+    "ser como": [
+      "maa aka"
+    ],
+    "ser como parecerse a": [
+      "maa aka aa'in"
+    ],
+    "mamá abuela": [
+      "maachon"
+    ],
+    "mamá": [
+      "maachon"
+    ],
+    "abuela": [
+      "maachon",
+      "oushu",
+      "oushi"
+    ],
+    "culebra cascabel": [
+      "maa'ala"
+    ],
+    "culebra": [
+      "maa'ala",
+      "wüi"
+    ],
+    "cascabel": [
+      "maa'ala"
+    ],
+    "estar desorientado —": [
+      "maa'awaa"
+    ],
+    "extraviarse confundirse": [
+      "maa'awaa"
+    ],
+    "extraviarse": [
+      "maa'awaa"
+    ],
+    "confundirse": [
+      "maa'awaa"
+    ],
+    "ser necio": [
+      "maa'inwaa"
+    ],
+    "hoy en día en este tiempo": [
+      "maa'ulu yaa"
+    ],
+    "ya": [
+      "maalü"
+    ],
+    "flauta": [
+      "maasü",
+      "maasi"
+    ],
+    "algodón": [
+      "maawüi"
+    ],
+    "ser sordo": [
+      "mache'ewaa"
+    ],
+    "ser terco": [
+      "mache'ewaa"
+    ],
+    "maíz": [
+      "maikki",
+      "maikkü"
+    ],
+    "estar en calma el tiempo": [
+      "maittaa"
+    ],
+    "señorita joven (mujer)": [
+      "majayülü"
+    ],
+    "señorita joven": [
+      "majayülü"
+    ],
+    "señorita": [
+      "majayülü"
+    ],
+    "quedarse": [
+      "makataa"
+    ],
+    "muy mucho": [
+      "ma'i"
+    ],
+    "muy": [
+      "ma'i"
+    ],
+    "ser tonto": [
+      "malaa"
+    ],
+    "ser bobo": [
+      "malaa"
+    ],
+    "dios": [
+      "maleiwa"
+    ],
+    "ser loco": [
+      "mamainnaa"
+    ],
+    "estar enfermo de rabia": [
+      "mamainnaa"
+    ],
+    "neblina": [
+      "mannuuya"
+    ],
+    "aceite comestible": [
+      "manteeka"
+    ],
+    "aceite": [
+      "manteeka",
+      "seita",
+      "seite"
+    ],
+    "comestible": [
+      "manteeka"
+    ],
+    "después": [
+      "mapa"
+    ],
+    "miel de abeja": [
+      "mapa(2 )"
+    ],
+    "cera de abeja": [
+      "mapase"
+    ],
+    "piojo": [
+      "mapüi"
+    ],
+    "ser fácil": [
+      "mapülewaa"
+    ],
+    "estar cansado": [
+      "mapüsaa"
+    ],
+    "vidrio": [
+      "maraaja"
+    ],
+    "botella": [
+      "maraaja"
+    ],
+    "ser estéril": [
+      "maralüü"
+    ],
+    "ser amarillo": [
+      "mariiyaa"
+    ],
+    "ave caricare": [
+      "mashale'e"
+    ],
+    "caricare": [
+      "mashale'e"
+    ],
+    "estar sin fuerza": [
+      "matsüinwaa"
+    ],
+    "ser débil": [
+      "matsüinwaa aa'in"
+    ],
+    "cobro por daño a una persona": [
+      "maüna"
+    ],
+    "estar grave (de enfermedad)": [
+      "mayeinwaa"
+    ],
+    "estar grave": [
+      "mayeinwaa"
+    ],
+    "broma": [
+      "mee'era"
+    ],
+    "zancudo": [
+      "mei"
+    ],
+    "siempre": [
+      "meinshi",
+      "weinshi",
+      "waneepia"
+    ],
+    "buscar ganado rodear ganado": [
+      "mekeerüü"
+    ],
+    "ganado": [
+      "mekeerüü",
+      "paa'a"
+    ],
+    "rodear": [
+      "mekeerüü",
+      "outkajaa"
+    ],
+    "nueve": [
+      "mekietsalü"
+    ],
+    "ocho": [
+      "mekiisalü"
+    ],
+    "melón": [
+      "meruuna"
+    ],
+    "mercado": [
+      "metkaalü"
+    ],
+    "casa edificio": [
+      "miichi",
+      "piichi",
+      "pinchi"
+    ],
+    "edificio": [
+      "miichi",
+      "piichi",
+      "pinchi"
+    ],
+    "puerta (la entrada)": [
+      "miicho'u",
+      "piicho'u"
+    ],
+    "puerta": [
+      "miicho'u",
+      "piicho'u",
+      "o'u",
+      "puatto'u",
+      "puetto'u"
+    ],
+    "sitio donde hay agua": [
+      "miiroku",
+      "miiruku"
+    ],
+    "donde": [
+      "miiroku",
+      "miiruku"
+    ],
+    "hay": [
+      "miiroku",
+      "miiruku"
+    ],
+    "fiesta": [
+      "mi'iraa"
+    ],
+    "tener sed": [
+      "miyaasüü",
+      "munyaasüü",
+      "wunyaasüü"
+    ],
+    "sed": [
+      "miyaasüü",
+      "munyaasüü",
+      "wunyaasüü"
+    ],
+    "grande": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "largo": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "mayor mma": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "mma": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "tierra polvo suelo": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "polvo": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "suelo": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "país": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "oumain": [
+      "miyo'u",
+      "müle'u",
+      "mülo'u"
+    ],
+    "en el suelo abajo": [
+      "mmolu'u"
+    ],
+    "tener miedo": [
+      "mmoluu",
+      "momoluu"
+    ],
+    "miedo": [
+      "mmoluu",
+      "momoluu"
+    ],
+    "temer": [
+      "mmoluu eema"
+    ],
+    "ser malo (de comportamiento)": [
+      "mojulawaa"
+    ],
+    "ser malo": [
+      "mojulawaa"
+    ],
+    "ser travieso": [
+      "mojulawaa"
+    ],
+    "portarse mal": [
+      "mojulawaa"
+    ],
+    "portarse": [
+      "mojulawaa"
+    ],
+    "mal": [
+      "mojulawaa"
+    ],
+    "ser o estar malo": [
+      "mojuu",
+      "mujuu"
+    ],
+    "estar dañado": [
+      "mojuu",
+      "mujuu"
+    ],
+    "estar desgastado": [
+      "mojuu",
+      "mujuu"
+    ],
+    "ser dañino": [
+      "mojuu",
+      "mujuu",
+      "pülaa"
+    ],
+    "estar triste": [
+      "mujuu aa'in"
+    ],
+    "monte (vegetación)": [
+      "mojuui"
+    ],
+    "monte": [
+      "mojuui",
+      "wuna'apü",
+      "una'apü"
+    ],
+    "ser ciego": [
+      "mo'uu"
+    ],
+    "paloma (silvestre)": [
+      "mo'uwa",
+      "ma'uwa"
+    ],
+    "paloma": [
+      "mo'uwa",
+      "ma'uwa",
+      "toomasü"
+    ],
+    "molino (de moler)": [
+      "moliina"
+    ],
+    "molino": [
+      "moliina"
+    ],
+    "molino (de viento)": [
+      "moliina"
+    ],
+    "tortuga de tierra": [
+      "molokoono"
+    ],
+    "mango (fruta)": [
+      "monku"
+    ],
+    "búho": [
+      "monkulonseerü"
+    ],
+    "olvidar olvidarse": [
+      "motoo aa'in"
+    ],
+    "olvidar": [
+      "motoo aa'in"
+    ],
+    "olvidarse": [
+      "motoo aa'in"
+    ],
+    "por poco tiempo brevemente": [
+      "motso'o"
+    ],
+    "inmediatamente": [
+      "motso'o"
+    ],
+    "ser pequeño": [
+      "motsoo"
+    ],
+    "ser poco": [
+      "motsoo"
+    ],
+    "ser angosto": [
+      "moulii"
+    ],
+    "ser estrecho": [
+      "moulii"
+    ],
+    "mulo": [
+      "muula"
+    ],
+    "gato": [
+      "muusa"
+    ],
+    "si en caso de que": [
+      "müleka"
+    ],
+    "sufrir": [
+      "müliaa"
+    ],
+    "ser pobre": [
+      "müliaa"
+    ],
+    "animal doméstico": [
+      "mürülü"
+    ],
+    "animal": [
+      "mürülü"
+    ],
+    "doméstico": [
+      "mürülü"
+    ],
+    "mascota": [
+      "mürülü"
+    ],
+    "negro": [
+      "mütsiiya"
+    ],
+    "ser negro": [
+      "mütsiiyaa",
+      "yuulii"
+    ],
+    "tómelo": [
+      "na"
+    ],
+    "estos": [
+      "na",
+      "naa"
+    ],
+    "éstos": [
+      "naa"
+    ],
+    "estos gram": [
+      "naa"
+    ],
+    "gram": [
+      "naa",
+      "tüntaa aa'in"
+    ],
+    "ser ajeno": [
+      "naataa"
+    ],
+    "ser extraño": [
+      "naataa"
+    ],
+    "ser diferente": [
+      "naataa"
+    ],
+    "esos": [
+      "nala"
+    ],
+    "loma cerro": [
+      "namüna",
+      "naumna"
+    ],
+    "loma": [
+      "namüna",
+      "naumna"
+    ],
+    "cerro": [
+      "namüna",
+      "naumna",
+      "uuchi"
+    ],
+    "aquellos": [
+      "nasa"
+    ],
+    "ellos ellas": [
+      "naya"
+    ],
+    "ellos": [
+      "naya"
+    ],
+    "ellas": [
+      "naya"
+    ],
+    "dinero": [
+      "neerü",
+      "nneerü"
+    ],
+    "anneetse": [
+      "neerü",
+      "nneerü"
+    ],
+    "justamente solamente": [
+      "ne'e"
+    ],
+    "justamente": [
+      "ne'e"
+    ],
+    "solamente": [
+      "ne'e"
+    ],
+    "él lo": [
+      "nia"
+    ],
+    "no haber no estar no ser": [
+      "nnojolaa",
+      "nnojoloo"
+    ],
+    "lana": [
+      "oi"
+    ],
+    "escama (de un pez)": [
+      "oi"
+    ],
+    "escama": [
+      "oi"
+    ],
+    "vender": [
+      "oikkaa",
+      "aikkaa"
+    ],
+    "enterrar": [
+      "ojoitaa"
+    ],
+    "botar (un grupo o montón de cosas)": [
+      "ojotaa"
+    ],
+    "morder": [
+      "ojottaa"
+    ],
+    "picar (de insectos)": [
+      "ojottaa"
+    ],
+    "borrar": [
+      "ojuichajaa",
+      "ojuichijaa",
+      "ajuichajaa"
+    ],
+    "virar desviarse": [
+      "ojuntaa",
+      "ajuntaa"
+    ],
+    "virar": [
+      "ojuntaa",
+      "ajuntaa"
+    ],
+    "desviarse": [
+      "ojuntaa",
+      "ajuntaa"
+    ],
+    "volverse (darse la vuelta)": [
+      "ojununtawaa",
+      "ajununtawaa"
+    ],
+    "volverse": [
+      "ojununtawaa",
+      "ajununtawaa"
+    ],
+    "caer derrumbarse": [
+      "ojuttaa",
+      "ajuttaa"
+    ],
+    "caer": [
+      "ojuttaa",
+      "ajuttaa"
+    ],
+    "derrumbarse": [
+      "ojuttaa",
+      "ajuttaa"
+    ],
+    "derribar destruir": [
+      "ojuttiraa",
+      "ajuttiraa"
+    ],
+    "derribar": [
+      "ojuttiraa",
+      "ajuttiraa"
+    ],
+    "a escondidas de sin que se dé cuenta": [
+      "ojuuna",
+      "ajuuna"
+    ],
+    "envolver": [
+      "oko'oloo"
+    ],
+    "enrollar": [
+      "oko'oloo"
+    ],
+    "llevar regalo": [
+      "okolojoo"
+    ],
+    "regalo": [
+      "okolojoo"
+    ],
+    "mudarse": [
+      "okolojowaa",
+      "o'onowaa"
+    ],
+    "mudarse (temporalmente con el rebaño)": [
+      "o'onowaa"
+    ],
+    "bañarse": [
+      "o'oojoo"
+    ],
+    "sacudir": [
+      "o'otojowaa"
+    ],
+    "montar": [
+      "o'otoo",
+      "o'otowaa"
+    ],
+    "imponer": [
+      "o'otoo"
+    ],
+    "fallar (no dar en el blanco)": [
+      "o'tchejaa"
+    ],
+    "fallar": [
+      "o'tchejaa"
+    ],
+    "equivocarse con equivocarse de": [
+      "o'tchejawaa amaa"
+    ],
+    "comenzar empezar": [
+      "o'ttaa"
+    ],
+    "comenzar": [
+      "o'ttaa"
+    ],
+    "empezar": [
+      "o'ttaa"
+    ],
+    "aterrizar": [
+      "o'ttaa"
+    ],
+    "posarse": [
+      "o'ttaa"
+    ],
+    "salvarse": [
+      "o'ttawaa"
+    ],
+    "hacer pasar": [
+      "o'tte'eraa"
+    ],
+    "salvar": [
+      "o'tte'eraa"
+    ],
+    "ojo": [
+      "o'u"
+    ],
+    "abertura agujero": [
+      "o'u"
+    ],
+    "abertura": [
+      "o'u"
+    ],
+    "agujero": [
+      "o'u"
+    ],
+    "faro": [
+      "o'u"
+    ],
+    "grano": [
+      "o'u"
+    ],
+    "en (el fuego la luz la oscuridad)": [
+      "o'u"
+    ],
+    "en (una fecha)": [
+      "o'u"
+    ],
+    "vez": [
+      "o'u"
+    ],
+    "lecho hamaca": [
+      "o'ula"
+    ],
+    "lecho": [
+      "o'ula"
+    ],
+    "telaraña": [
+      "o'ula"
+    ],
+    "placenta": [
+      "o'ula"
+    ],
+    "maldecir": [
+      "o'ulejaa"
+    ],
+    "cargar (a un niño)": [
+      "o'ulijaa"
+    ],
+    "miembro parte": [
+      "o'uluku",
+      "o'utku"
+    ],
+    "miembro": [
+      "o'uluku",
+      "o'utku"
+    ],
+    "ir salir": [
+      "o'unaa"
+    ],
+    "ir": [
+      "o'unaa"
+    ],
+    "delante de (a la vista de)": [
+      "o'upala"
+    ],
+    "cara rostro": [
+      "o'upünaa"
+    ],
+    "cara": [
+      "o'upünaa"
+    ],
+    "rostro": [
+      "o'upünaa"
+    ],
+    "gafas": [
+      "o'use"
+    ],
+    "pestaña": [
+      "o'uta"
+    ],
+    "ser profundo": [
+      "o'utaa",
+      "o'ktaa",
+      "o'ttaa"
+    ],
+    "durante en medio de": [
+      "o'utpünaa",
+      "o'unnaa"
+    ],
+    "cuerno": [
+      "o'uwa"
+    ],
+    "acompañante": [
+      "o'uyaajana"
+    ],
+    "verter (un líquido)": [
+      "o'yotoo"
+    ],
+    "echar (un líquido)": [
+      "o'yotoo"
+    ],
+    "cortar (con cuchillo tijeras)": [
+      "o'yotowaa"
+    ],
+    "cazar": [
+      "olojoo"
+    ],
+    "borde": [
+      "olu"
+    ],
+    "orilla": [
+      "olu"
+    ],
+    "ombligo": [
+      "omocho"
+    ],
+    "espuma": [
+      "omokoin"
+    ],
+    "raspar": [
+      "oojoo"
+    ],
+    "mazamorra": [
+      "ookotuushi"
+    ],
+    "más": [
+      "oo'omüin"
+    ],
+    "por encima de": [
+      "oo'opünaa"
+    ],
+    "en cuanto a": [
+      "oo'opünaa"
+    ],
+    "pie": [
+      "oo'ui"
+    ],
+    "huella rastro": [
+      "oo'ui"
+    ],
+    "llanta": [
+      "oo'ui"
+    ],
+    "intentar probar": [
+      "oo'ulakaa"
+    ],
+    "intentar": [
+      "oo'ulakaa"
+    ],
+    "probar": [
+      "oo'ulakaa"
+    ],
+    "practicar realizar": [
+      "oo'ulakaa"
+    ],
+    "practicar": [
+      "oo'ulakaa"
+    ],
+    "realizar": [
+      "oo'ulakaa"
+    ],
+    "adivinar (por medios sobrenaturales)": [
+      "oo'ulakaa"
+    ],
+    "abandonar": [
+      "oo'ulawaa"
+    ],
+    "permitir": [
+      "oo'ulawaa"
+    ],
+    "mata": [
+      "oo'ulia",
+      "wunu'u"
+    ],
+    "toser": [
+      "oonojoo"
+    ],
+    "obedecer hacer caso de": [
+      "oonowaa amaa"
+    ],
+    "estar de acuerdo apoyar": [
+      "oonowaa amaa"
+    ],
+    "hora": [
+      "oora"
+    ],
+    "oro": [
+      "ooro"
+    ],
+    "estar hinchado (el abdomen)": [
+      "ooroloo"
+    ],
+    "estar hinchado": [
+      "ooroloo",
+      "ourulaa",
+      "shitaa"
+    ],
+    "perforar": [
+      "ootojoo"
+    ],
+    "ladrar": [
+      "ootoo"
+    ],
+    "estimular animar": [
+      "ootoo"
+    ],
+    "estimular": [
+      "ootoo"
+    ],
+    "autorizar": [
+      "ootoo"
+    ],
+    "cavar": [
+      "oponoo",
+      "aponoo"
+    ],
+    "hervir": [
+      "opoolojoo"
+    ],
+    "atascarse (en el barro o en la arena)": [
+      "opootaa"
+    ],
+    "recordar hacer recordar": [
+      "oso'iraa aa'in",
+      "aso'iraa aa'in"
+    ],
+    "recordar": [
+      "oso'iraa aa'in",
+      "aso'iraa aa'in"
+    ],
+    "resucitar": [
+      "oso'iraa aa'in",
+      "aso'iraa aa'in",
+      "oso'irawaa aa'in",
+      "aso'irawaa aa'in"
+    ],
+    "recobrar el conocimiento volver en sí": [
+      "oso'irawaa aa'in",
+      "aso'irawaa aa'in"
+    ],
+    "pulmón": [
+      "ososo"
+    ],
+    "desollar pelar desvainar": [
+      "oshojoo"
+    ],
+    "pelar": [
+      "oshojoo"
+    ],
+    "desvainar": [
+      "oshojoo"
+    ],
+    "nudo": [
+      "osho'o"
+    ],
+    "olla": [
+      "otse",
+      "wayeeta"
+    ],
+    "lo cocinado por": [
+      "otse"
+    ],
+    "impedir": [
+      "oukaa achiki"
+    ],
+    "esperar (una llegada)": [
+      "oukajaa"
+    ],
+    "morir": [
+      "ouktaa"
+    ],
+    "estar muerto": [
+      "ouktaa"
+    ],
+    "muerte": [
+      "ouktaa"
+    ],
+    "perder el conocimiento desmayarse": [
+      "ouktapünawaa"
+    ],
+    "mortal (que causa la muerte)": [
+      "ouktasiro'ulu"
+    ],
+    "mortal": [
+      "ouktasiro'ulu"
+    ],
+    "de más que en vez de contra": [
+      "oulia"
+    ],
+    "para que no": [
+      "oulia"
+    ],
+    "esconder": [
+      "ounjulaa",
+      "anujulaa"
+    ],
+    "esconderse": [
+      "ounjulawaa",
+      "anujulawaa"
+    ],
+    "debajo de": [
+      "oupünaa"
+    ],
+    "raíz": [
+      "ourala"
+    ],
+    "deshierbar arar rozar (un terreno)": [
+      "ousaa"
+    ],
+    "deshierbar arar rozar": [
+      "ousaa"
+    ],
+    "deshierbar": [
+      "ousaa"
+    ],
+    "arar": [
+      "ousaa"
+    ],
+    "rozar": [
+      "ousaa"
+    ],
+    "tener fiebre": [
+      "oushuwaa",
+      "tuttaa"
+    ],
+    "fiebre": [
+      "oushuwaa",
+      "tuttaa"
+    ],
+    "reunir juntar": [
+      "outkajaa"
+    ],
+    "juntar": [
+      "outkajaa"
+    ],
+    "rodear (ganado)": [
+      "outkajaa"
+    ],
+    "piache": [
+      "outshi"
+    ],
+    "curandero": [
+      "outshi"
+    ],
+    "outsia": [
+      "outshi"
+    ],
+    "hacer volver": [
+      "ouyantaa"
+    ],
+    "edad (años)": [
+      "ouyase"
+    ],
+    "edad": [
+      "ouyase"
+    ],
+    "bautizar": [
+      "owoutisaajaa",
+      "awoutisaajaa"
+    ],
+    "apagarse": [
+      "oyokojowaa"
+    ],
+    "apagar": [
+      "oyokojowaa"
+    ],
+    "bailar": [
+      "oyonnajaa",
+      "oyonnojoo"
+    ],
+    "vaca ganado (vacuno)": [
+      "paa'a"
+    ],
+    "vaca ganado": [
+      "paa'a"
+    ],
+    "estar de acuerdo": [
+      "paa'inwaa"
+    ],
+    "antes": [
+      "paala"
+    ],
+    "ahora mismo": [
+      "paala"
+    ],
+    "pala": [
+      "paarü"
+    ],
+    "plástico": [
+      "paasta"
+    ],
+    "patio": [
+      "paatia"
+    ],
+    "mar": [
+      "palaa"
+    ],
+    "por el norte": [
+      "palaapünaa"
+    ],
+    "primero": [
+      "palajachi",
+      "palajana"
+    ],
+    "estar tendido": [
+      "palastaa"
+    ],
+    "ser salado": [
+      "palawaa"
+    ],
+    "ceniza": [
+      "pali'i"
+    ],
+    "estar mezclado": [
+      "palirawaa"
+    ],
+    "poquito": [
+      "palitchon",
+      "yootchon"
+    ],
+    "tijeras": [
+      "palousa"
+    ],
+    "estar derecho 2": [
+      "pansawaa"
+    ],
+    "ser seguro (confiable)": [
+      "pansawaa"
+    ],
+    "ser seguro": [
+      "pansawaa"
+    ],
+    "ser vengado por": [
+      "pasalawaa atüma"
+    ],
+    "en medio de entre": [
+      "pasanain anain"
+    ],
+    "ser delgado (de objetos cilíndricos)": [
+      "pasanuaa"
+    ],
+    "adentro (de la casa)": [
+      "paülü'ü"
+    ],
+    "adentro": [
+      "paülü'ü"
+    ],
+    "perdiz": [
+      "peerü"
+    ],
+    "detrás de una casa": [
+      "peesü'ülü"
+    ],
+    "estar cerca": [
+      "pejee"
+    ],
+    "a cada rato": [
+      "pejeewa"
+    ],
+    "ventana": [
+      "pentaana",
+      "wentaana"
+    ],
+    "ser mocho": [
+      "peraa"
+    ],
+    "chisme": [
+      "perulaa"
+    ],
+    "eperulain": [
+      "perulaa"
+    ],
+    "tú": [
+      "pia"
+    ],
+    "te": [
+      "pia"
+    ],
+    "usted": [
+      "pia"
+    ],
+    "lo la": [
+      "pia"
+    ],
+    "dos": [
+      "piama",
+      "piantua"
+    ],
+    "veinte": [
+      "piama shikii"
+    ],
+    "ambos": [
+      "piamale"
+    ],
+    "los dos": [
+      "piamale"
+    ],
+    "dos veces": [
+      "piantua"
+    ],
+    "veces": [
+      "piantua"
+    ],
+    "cuatro": [
+      "pienchi"
+    ],
+    "estar lleno": [
+      "pirataa",
+      "wotoo"
+    ],
+    "periquito": [
+      "pirijirü",
+      "jirijirü"
+    ],
+    "bozal": [
+      "pisaalü"
+    ],
+    "episaatse": [
+      "pisaalü"
+    ],
+    "fríjol": [
+      "pitshuushi",
+      "pitchuushi",
+      "kepeshuuna"
+    ],
+    "bolsa de malla": [
+      "piyulu",
+      "piyula"
+    ],
+    "oscuridad": [
+      "piyuushi"
+    ],
+    "diez": [
+      "poloo"
+    ],
+    "hacha": [
+      "polu"
+    ],
+    "maravillar asombrar": [
+      "ponoo aa'in"
+    ],
+    "maravillar": [
+      "ponoo aa'in"
+    ],
+    "asombrar": [
+      "ponoo aa'in"
+    ],
+    "fascinar": [
+      "ponoo aa'in"
+    ],
+    "fósforo": [
+      "pooporo"
+    ],
+    "barro": [
+      "pootshi"
+    ],
+    "libélula": [
+      "potshonoi",
+      "wotshonoi"
+    ],
+    "pueblo (aldea) ciudad": [
+      "pueulo"
+    ],
+    "pueblo ciudad": [
+      "pueulo"
+    ],
+    "pueblo": [
+      "pueulo",
+      "wayuu"
+    ],
+    "ciudad": [
+      "pueulo"
+    ],
+    "ser poderoso": [
+      "pülaa"
+    ],
+    "ser sagrado": [
+      "pülaa"
+    ],
+    "ser arrogante": [
+      "pülaa aa'in"
+    ],
+    "plaza": [
+      "pülaasa"
+    ],
+    "plato": [
+      "pülaata"
+    ],
+    "plata (el metal)": [
+      "pülaata"
+    ],
+    "plata": [
+      "pülaata"
+    ],
+    "plátano": [
+      "püla'ana"
+    ],
+    "burro": [
+      "püliiki",
+      "püliikü"
+    ],
+    "lo sembrado cultivo": [
+      "pünajüt"
+    ],
+    "estar preso": [
+      "püreesaa"
+    ],
+    "ser dulce": [
+      "püsiaa"
+    ],
+    "murciélago": [
+      "püsichi"
+    ],
+    "palabrero (intermediario -ria)": [
+      "pütche'ejachi"
+    ],
+    "palabrero": [
+      "pütche'ejachi",
+      "pütchipü'ü"
+    ],
+    "discurso": [
+      "pütchi"
+    ],
+    "lengua (idioma)": [
+      "pütchi"
+    ],
+    "intermediario": [
+      "pütchipü'ü"
+    ],
+    "abogado": [
+      "pütchipü'ü"
+    ],
+    "cerdo": [
+      "püülükü"
+    ],
+    "marrano": [
+      "püülükü"
+    ],
+    "radio": [
+      "raawia"
+    ],
+    "lámpara pos": [
+      "rampara"
+    ],
+    "lámpara": [
+      "rampara"
+    ],
+    "revólver": [
+      "riwoolü"
+    ],
+    "ariwootse": [
+      "riwoolü"
+    ],
+    "arroz": [
+      "roo"
+    ],
+    "espejo": [
+      "rouya"
+    ],
+    "ventana de vidrio puerta de vidrio": [
+      "rouya"
+    ],
+    "comején (termes)": [
+      "ruluma"
+    ],
+    "comején": [
+      "ruluma"
+    ],
+    "cuchillo pos": [
+      "rüi"
+    ],
+    "cuchillo": [
+      "rüi"
+    ],
+    "sábila áloe": [
+      "rülipi"
+    ],
+    "sábila": [
+      "rülipi"
+    ],
+    "áloe": [
+      "rülipi"
+    ],
+    "estar frío fría": [
+      "saamataa"
+    ],
+    "estar fresco": [
+      "saamataa"
+    ],
+    "tortuga de mar": [
+      "sa'wainrü",
+      "sa'waina"
+    ],
+    "buitre zamuro": [
+      "samulu"
+    ],
+    "buitre": [
+      "samulu",
+      "waluuseechi"
+    ],
+    "zamuro": [
+      "samulu"
+    ],
+    "zapato": [
+      "sapaata"
+    ],
+    "asapaatse asapaase": [
+      "sapaata"
+    ],
+    "asapaatse": [
+      "sapaata"
+    ],
+    "asapaase": [
+      "sapaata"
+    ],
+    "boa": [
+      "sarulu"
+    ],
+    "grasa sebo": [
+      "seepü"
+    ],
+    "grasa": [
+      "seepü"
+    ],
+    "sebo": [
+      "seepü"
+    ],
+    "semana": [
+      "semaana"
+    ],
+    "mellizo": [
+      "senkeyuu"
+    ],
+    "gemelo": [
+      "senkeyuu"
+    ],
+    "ave chirito": [
+      "seruma",
+      "sirumaachi"
+    ],
+    "chirito": [
+      "seruma",
+      "sirumaachi"
+    ],
+    "marca cortada en la oreja del ganado menor": [
+      "siimaraalü",
+      "süinmaraalü"
+    ],
+    "asiimaraatse": [
+      "siimaraalü",
+      "süinmaraalü"
+    ],
+    "silla de montar silla": [
+      "siiya"
+    ],
+    "ave carpintero habado": [
+      "sikirulu",
+      "sekurulu"
+    ],
+    "carpintero": [
+      "sikirulu",
+      "sekurulu"
+    ],
+    "habado": [
+      "sikirulu",
+      "sekurulu"
+    ],
+    "cinturón (del varón)": [
+      "si'ira"
+    ],
+    "cinturón": [
+      "si'ira",
+      "sirapü"
+    ],
+    "caldero": [
+      "si'warai"
+    ],
+    "gonzalito toche": [
+      "si'ya"
+    ],
+    "gonzalito": [
+      "si'ya"
+    ],
+    "toche": [
+      "si'ya"
+    ],
+    "espuela": [
+      "sipuulu"
+    ],
+    "asipuutse": [
+      "sipuulu"
+    ],
+    "cinturón (de la mujer)": [
+      "sirapü"
+    ],
+    "ser liso": [
+      "sirasiraa",
+      "sirataa",
+      "sinataa"
+    ],
+    "ser resbaloso": [
+      "sirasiraa"
+    ],
+    "ser parejo": [
+      "sirataa",
+      "sinataa"
+    ],
+    "ser plano": [
+      "sirataa",
+      "sinataa"
+    ],
+    "ser llano": [
+      "sirataa",
+      "sinataa"
+    ],
+    "nube cielo": [
+      "siruma"
+    ],
+    "nube": [
+      "siruma"
+    ],
+    "cielo": [
+      "siruma"
+    ],
+    "hoy": [
+      "so'uka'i"
+    ],
+    "de día": [
+      "so'uka'i"
+    ],
+    "recordar acordarse de": [
+      "sotoo aa'in"
+    ],
+    "tener dormido un miembro del cuerpo": [
+      "sotsoluu"
+    ],
+    "dar calambre": [
+      "sotsoluu"
+    ],
+    "calambre": [
+      "sotsoluu"
+    ],
+    "soldado": [
+      "surulaalü"
+    ],
+    "asurulaatse": [
+      "surulaalü"
+    ],
+    "mochila fina": [
+      "susu"
+    ],
+    "fina": [
+      "susu"
+    ],
+    "asusia": [
+      "susu"
+    ],
+    "huso": [
+      "sutta"
+    ],
+    "azúcar": [
+      "suukala"
+    ],
+    "río": [
+      "süchi"
+    ],
+    "chinchorro hamaca": [
+      "süi"
+    ],
+    "chinchorro": [
+      "süi"
+    ],
+    "dar comezón": [
+      "sütaa"
+    ],
+    "comezón": [
+      "sütaa"
+    ],
+    "estar cerrado": [
+      "süttaa"
+    ],
+    "anillo sortija": [
+      "süttiija",
+      "süttiiya",
+      "sittiija",
+      "sittiiya"
+    ],
+    "anillo": [
+      "süttiija",
+      "süttiiya",
+      "sittiija",
+      "sittiiya"
+    ],
+    "sortija": [
+      "süttiija",
+      "süttiiya",
+      "sittiija",
+      "sittiiya"
+    ],
+    "estar parado": [
+      "sha'wataa"
+    ],
+    "estar de pie": [
+      "sha'wataa"
+    ],
+    "último hijo última hija": [
+      "shale"
+    ],
+    "última": [
+      "shale"
+    ],
+    "ella la lo": [
+      "shia",
+      "jia"
+    ],
+    "o ella": [
+      "shiale"
+    ],
+    "ella": [
+      "shiale"
+    ],
+    "es la forma de tercera persona singular no masculino": [
+      "shiale"
+    ],
+    "medio": [
+      "shiatapünaa"
+    ],
+    "verdadero": [
+      "shiimüin",
+      "shiimain"
+    ],
+    "verdad": [
+      "shiimüin",
+      "shiimain"
+    ],
+    "ser curvo": [
+      "shokotaa"
+    ],
+    "estar torcido": [
+      "shokotaa"
+    ],
+    "ser perezoso": [
+      "shokulaa",
+      "shukulaa"
+    ],
+    "gripe catarro": [
+      "shunui"
+    ],
+    "gripe": [
+      "shunui",
+      "shunulii"
+    ],
+    "catarro": [
+      "shunui",
+      "shunulii"
+    ],
+    "tener gripe tener catarro": [
+      "shunulii"
+    ],
+    "tabla": [
+      "taapüla"
+    ],
+    "estar libre": [
+      "taashii"
+    ],
+    "estar suelto": [
+      "taashii"
+    ],
+    "estar disponible": [
+      "taashii"
+    ],
+    "papá abuelo": [
+      "taata"
+    ],
+    "papá": [
+      "taata"
+    ],
+    "rana": [
+      "taataai"
+    ],
+    "estar alegre": [
+      "talataa"
+    ],
+    "estar contento": [
+      "talataa"
+    ],
+    "estar feliz": [
+      "talataa"
+    ],
+    "estar complacido": [
+      "talataa"
+    ],
+    "yo me": [
+      "taya"
+    ],
+    "yo": [
+      "taya"
+    ],
+    "me": [
+      "taya"
+    ],
+    "saco costal pos": [
+      "toleeka"
+    ],
+    "saco": [
+      "toleeka"
+    ],
+    "costal": [
+      "toleeka"
+    ],
+    "macho": [
+      "toolo"
+    ],
+    "hombre varón": [
+      "toolo"
+    ],
+    "hombre": [
+      "toolo"
+    ],
+    "varón": [
+      "toolo"
+    ],
+    "tooloyuu": [
+      "toolo"
+    ],
+    "ser valiente ser macho": [
+      "toolo aa'in"
+    ],
+    "ave aguaitacamino ave chotacabras": [
+      "toolü"
+    ],
+    "aguaitacamino": [
+      "toolü"
+    ],
+    "chotacabras": [
+      "toolü"
+    ],
+    "paloma (doméstica)": [
+      "toomasü"
+    ],
+    "médico": [
+      "tottoolu"
+    ],
+    "piedra preciosa": [
+      "tu'uma"
+    ],
+    "preciosa": [
+      "tu'uma"
+    ],
+    "tener calor": [
+      "tuttaa"
+    ],
+    "esta": [
+      "tü",
+      "tüü",
+      "watta'apa"
+    ],
+    "halcón": [
+      "tüitüi"
+    ],
+    "pulsar (corazón)": [
+      "tüntaa aa'in"
+    ],
+    "pulsar": [
+      "tüntaa aa'in"
+    ],
+    "palpitar (corazón) gram": [
+      "tüntaa aa'in"
+    ],
+    "palpitar gram": [
+      "tüntaa aa'in"
+    ],
+    "palpitar": [
+      "tüntaa aa'in"
+    ],
+    "esa": [
+      "türa"
+    ],
+    "ésa eso": [
+      "türa"
+    ],
+    "ésa": [
+      "türa"
+    ],
+    "eso": [
+      "türa"
+    ],
+    "junco": [
+      "türiiya"
+    ],
+    "silla de junco (para montar o cargar)": [
+      "türiiya"
+    ],
+    "silla de junco": [
+      "türiiya"
+    ],
+    "aquella": [
+      "tüsa"
+    ],
+    "aquélla aquello": [
+      "tüsa"
+    ],
+    "aquélla": [
+      "tüsa"
+    ],
+    "aquello": [
+      "tüsa"
+    ],
+    "ser trabajador": [
+      "tütaa"
+    ],
+    "ser diligente": [
+      "tütaa"
+    ],
+    "ésta esto": [
+      "tüü"
+    ],
+    "ésta": [
+      "tüü"
+    ],
+    "esto": [
+      "tüü"
+    ],
+    "estar limpio": [
+      "ulee",
+      "wulee"
+    ],
+    "ser puro": [
+      "ulee",
+      "wulee"
+    ],
+    "ave turpial común": [
+      "ului"
+    ],
+    "turpial": [
+      "ului"
+    ],
+    "común": [
+      "ului"
+    ],
+    "hacia abajo": [
+      "unapümüin"
+    ],
+    "hacia": [
+      "unapümüin"
+    ],
+    "abajo": [
+      "unapümüin"
+    ],
+    "serranía montaña cerro": [
+      "uuchi"
+    ],
+    "serranía": [
+      "uuchi"
+    ],
+    "montaña": [
+      "uuchi"
+    ],
+    "por el sur": [
+      "uuchipünaa"
+    ],
+    "chicha de maíz sin alcohol": [
+      "uujolu"
+    ],
+    "una vez": [
+      "uwatua"
+    ],
+    "herir perjudicar": [
+      "uwomuyuwaa",
+      "uwonyuwaa"
+    ],
+    "herir": [
+      "uwomuyuwaa",
+      "uwonyuwaa"
+    ],
+    "asesinar": [
+      "uwomuyuwaa",
+      "uwonyuwaa"
+    ],
+    "sombrero": [
+      "uwon"
+    ],
+    "akuoma": [
+      "uwon"
+    ],
+    "sentir rabia": [
+      "üttaa aa'in"
+    ],
+    "rabia": [
+      "üttaa aa'in"
+    ],
+    "millo mijo": [
+      "waana"
+    ],
+    "millo": [
+      "waana"
+    ],
+    "mijo": [
+      "waana"
+    ],
+    "por el occidente": [
+      "waapünaa"
+    ],
+    "dolerle la cabeza": [
+      "waataa ekii"
+    ],
+    "moverse por el viento": [
+      "waawataa"
+    ],
+    "ave paraulata llanera sinsonte": [
+      "wainpirai"
+    ],
+    "paraulata": [
+      "wainpirai"
+    ],
+    "llanera": [
+      "wainpirai"
+    ],
+    "sinsonte": [
+      "wainpirai"
+    ],
+    "guaireña (calzado) cotiza (calzado)": [
+      "wairiina"
+    ],
+    "guaireña cotiza": [
+      "wairiina"
+    ],
+    "guaireña": [
+      "wairiina"
+    ],
+    "cotiza": [
+      "wairiina"
+    ],
+    "amigo (para llamar o saludar un hombre a otro)": [
+      "wa'lee"
+    ],
+    "pago": [
+      "walaashi"
+    ],
+    "pelusa de la tuna": [
+      "wala'ayuu"
+    ],
+    "pelo": [
+      "walashi"
+    ],
+    "calor atmosférico": [
+      "walatshi"
+    ],
+    "atmosférico": [
+      "walatshi"
+    ],
+    "estar pagado": [
+      "walawaa"
+    ],
+    "araña": [
+      "walekerü"
+    ],
+    "zorro": [
+      "walirü"
+    ],
+    "buitre cataneja oripopo": [
+      "waluuseechi"
+    ],
+    "cataneja": [
+      "waluuseechi"
+    ],
+    "oripopo": [
+      "waluuseechi"
+    ],
+    "rel cuando": [
+      "wanaa amaa"
+    ],
+    "rel": [
+      "wanaa amaa"
+    ],
+    "cuando": [
+      "wanaa amaa"
+    ],
+    "ser lo mismo ser igual": [
+      "wanaawaa"
+    ],
+    "un una": [
+      "wane",
+      "waneeshia"
+    ],
+    "siempre (continuamente) continuamente": [
+      "waneepia"
+    ],
+    "siempre continuamente": [
+      "waneepia"
+    ],
+    "continuamente": [
+      "waneepia"
+    ],
+    "ser entero": [
+      "waneepiaa"
+    ],
+    "ser completo": [
+      "waneepiaa"
+    ],
+    "perseverar": [
+      "waneepiaa"
+    ],
+    "uno una": [
+      "waneeshia"
+    ],
+    "no hasta que": [
+      "wane'ere'eya"
+    ],
+    "cada uno una": [
+      "wane'ewai akua",
+      "wane'ewaire akua"
+    ],
+    "el prefijo personal que corresponde al referente se le añade a akua": [
+      "wane'ewai akua",
+      "wane'ewaire akua"
+    ],
+    "otro otra": [
+      "wane'eya",
+      "wane'e"
+    ],
+    "otro": [
+      "wane'eya",
+      "wane'e"
+    ],
+    "otra": [
+      "wane'eya",
+      "wane'e"
+    ],
+    "demonio espíritu maligno": [
+      "wanülüü"
+    ],
+    "demonio": [
+      "wanülüü",
+      "yolujaa"
+    ],
+    "maligno": [
+      "wanülüü"
+    ],
+    "andar caminar": [
+      "waraittaa"
+    ],
+    "andar": [
+      "waraittaa"
+    ],
+    "caminar": [
+      "waraittaa"
+    ],
+    "gavilán": [
+      "warulapai"
+    ],
+    "caracol": [
+      "warutta"
+    ],
+    "rico": [
+      "washirü"
+    ],
+    "washinnuu": [
+      "washirü"
+    ],
+    "estar lejos": [
+      "wattaa"
+    ],
+    "el prefijo personal que corresponde al sujeto se le añade a aalin": [
+      "wattaa aalin"
+    ],
+    "mañana": [
+      "watta'a",
+      "watta'apa",
+      "wattapia"
+    ],
+    "por la mañana": [
+      "watta'a maalü"
+    ],
+    "esta mañana (ya pasada)": [
+      "watta'apa"
+    ],
+    "esta mañana": [
+      "watta'apa"
+    ],
+    "pasado mañana": [
+      "wattapia"
+    ],
+    "pasado": [
+      "wattapia"
+    ],
+    "tortolita": [
+      "wawaachi"
+    ],
+    "viento (de tempestad)": [
+      "wawai"
+    ],
+    "nosotros": [
+      "waya"
+    ],
+    "nos": [
+      "waya"
+    ],
+    "awayeetse awayeetain": [
+      "wayeeta"
+    ],
+    "awayeetse": [
+      "wayeeta"
+    ],
+    "awayeetain": [
+      "wayeeta"
+    ],
+    "muñeca (figura de persona)": [
+      "wayunkeera"
+    ],
+    "persona": [
+      "wayuu"
+    ],
+    "gente pueblo": [
+      "wayuu"
+    ],
+    "gente": [
+      "wayuu"
+    ],
+    "indígena wayuu": [
+      "wayuu"
+    ],
+    "indígena": [
+      "wayuu"
+    ],
+    "wayuu": [
+      "wayuu"
+    ],
+    "idioma de los wayuu": [
+      "wayuunaiki"
+    ],
+    "por el oriente": [
+      "wiinnaa"
+    ],
+    "mochila para el cinturón del hombre": [
+      "wo'olu"
+    ],
+    "balón": [
+      "woola"
+    ],
+    "bóveda": [
+      "woowira"
+    ],
+    "estar lleno (de sólidos)": [
+      "wotoo"
+    ],
+    "pájaro": [
+      "wuchii"
+    ],
+    "insecto": [
+      "wuchii"
+    ],
+    "lombriz": [
+      "wuliyuuna",
+      "uliyuuna"
+    ],
+    "por el bosque por el monte": [
+      "wuna'ainküin",
+      "unaainküin"
+    ],
+    "selva bosque monte": [
+      "wuna'apü",
+      "una'apü"
+    ],
+    "selva": [
+      "wuna'apü",
+      "una'apü"
+    ],
+    "bosque": [
+      "wuna'apü",
+      "una'apü"
+    ],
+    "árbol mata": [
+      "wunu'u"
+    ],
+    "palo madera": [
+      "wunu'u"
+    ],
+    "palo": [
+      "wunu'u"
+    ],
+    "madera": [
+      "wunu'u"
+    ],
+    "olla de barro cocido": [
+      "wushu"
+    ],
+    "aguja": [
+      "wutia",
+      "utia"
+    ],
+    "ainya": [
+      "wüin"
+    ],
+    "ahogarse (en agua)": [
+      "wüinsiraa"
+    ],
+    "ahogarse": [
+      "wüinsiraa"
+    ],
+    "auyama calabaza": [
+      "wüirü"
+    ],
+    "auyama": [
+      "wüirü"
+    ],
+    "calabaza": [
+      "wüirü"
+    ],
+    "hierba": [
+      "wüitshii"
+    ],
+    "ser azul ser verde": [
+      "wüittaa"
+    ],
+    "azul verde (color de mata)": [
+      "wüittüsü"
+    ],
+    "azul verde": [
+      "wüittüsü"
+    ],
+    "azul": [
+      "wüittüsü"
+    ],
+    "en este lado": [
+      "yaajeeru'u"
+    ],
+    "un rato": [
+      "yaaulerü"
+    ],
+    "al instante inmediatamente": [
+      "yaawala"
+    ],
+    "llave": [
+      "yaawe"
+    ],
+    "mazamorra con leche": [
+      "yajaaushi"
+    ],
+    "allí": [
+      "yala"
+    ],
+    "ser áspero": [
+      "yalayalaa"
+    ],
+    "ser valiente": [
+      "yalayalaa"
+    ],
+    "ser hábil": [
+      "yalayalaa"
+    ],
+    "ser listo": [
+      "yalayalaa"
+    ],
+    "en el otro lado": [
+      "yalejeeru'u"
+    ],
+    "ser alto": [
+      "yaletaa"
+    ],
+    "ser importante": [
+      "yaletaa"
+    ],
+    "ser altivo": [
+      "yaletaa aa'in"
+    ],
+    "estar preparado": [
+      "yapaa"
+    ],
+    "i alistarse prepararse": [
+      "yapaa"
+    ],
+    "i": [
+      "yapaa"
+    ],
+    "alistarse": [
+      "yapaa"
+    ],
+    "prepararse": [
+      "yapaa"
+    ],
+    "estar sucio": [
+      "yarüttaa",
+      "yerüttaa"
+    ],
+    "estar apagado": [
+      "yokutaa"
+    ],
+    "diablo demonio": [
+      "yolujaa"
+    ],
+    "diablo": [
+      "yolujaa"
+    ],
+    "baile": [
+      "yonna"
+    ],
+    "llaga infección": [
+      "yooi"
+    ],
+    "llaga": [
+      "yooi"
+    ],
+    "infección": [
+      "yooi"
+    ],
+    "poquito (de líquidos)": [
+      "yootchon"
+    ],
+    "conversar charlar": [
+      "yootoo"
+    ],
+    "conversar": [
+      "yootoo"
+    ],
+    "charlar": [
+      "yootoo"
+    ],
+    "cardón (especie de cactus)": [
+      "yosu"
+    ],
+    "cardón": [
+      "yosu"
+    ],
+    "tabaco": [
+      "yüi"
+    ],
+    "estar roto": [
+      "yülaa"
+    ],
+    "estar quebrado": [
+      "yülaa"
+    ],
+    "estar partido": [
+      "yülaa"
+    ],
+    "huerta roza": [
+      "yüüja"
+    ],
+    "roza": [
+      "yüüja"
+    ],
+    "estar deshabitado": [
+      "yüütüwaa"
+    ],
+    "ser solitario": [
+      "yüütüwaa"
+    ]
+  },
+  "guc_to_es": {
+    "aa": [
+      "sí"
+    ],
+    "aainjaa": [
+      "hacer",
+      "elaborar fabricar",
+      "construir"
+    ],
+    "aainjala": [
+      "acción mala pecado",
+      "hecho"
+    ],
+    "aajuna": [
+      "cubierta techo"
+    ],
+    "aakataa": [
+      "quitar"
+    ],
+    "aa'ayajirawaa": [
+      "discutir"
+    ],
+    "aa'ayula": [
+      "calor temperatura"
+    ],
+    "aa'in": [
+      "corazón alma espíritu mente voluntad"
+    ],
+    "aa'inmajaa": [
+      "cuidar"
+    ],
+    "aa'inraa": [
+      "hacer"
+    ],
+    "aa'inyajaa": [
+      "colgar una hamaca amarrar el cinturón"
+    ],
+    "aa'irü": [
+      "tía (materna)"
+    ],
+    "aa'u": [
+      "en",
+      "encima de",
+      "sobre",
+      "por (precio)",
+      "por causa de",
+      "como puesto que"
+    ],
+    "aalin": [
+      "por causa de",
+      "dolor"
+    ],
+    "aalii": [
+      "por causa de",
+      "dolor"
+    ],
+    "aaluwain": [
+      "tobillo"
+    ],
+    "aamaka": [
+      "cementerio",
+      "difunto"
+    ],
+    "aamüjaa": [
+      "ayunar"
+    ],
+    "aamajaa": [
+      "ayunar"
+    ],
+    "aanala": [
+      "cobija"
+    ],
+    "aanükü": [
+      "boca"
+    ],
+    "aapaa": [
+      "dar",
+      "oír"
+    ],
+    "aapajaa": [
+      "escuchar"
+    ],
+    "aapawaa": [
+      "tomar coger",
+      "aceptar"
+    ],
+    "aapiee": [
+      "mensajero"
+    ],
+    "aapiraa": [
+      "avisar"
+    ],
+    "aapuwaa": [
+      "estar enfermo",
+      "enfermarse"
+    ],
+    "aashajawaa": [
+      "hablar",
+      "criticar"
+    ],
+    "aashaje'eraa": [
+      "leer"
+    ],
+    "aashichijaa": [
+      "enojar provocar"
+    ],
+    "aashichijawaa": [
+      "enojarse"
+    ],
+    "aashin": [
+      "según"
+    ],
+    "aajüin": [
+      "según"
+    ],
+    "aataa eejuu": [
+      "oler"
+    ],
+    "aawain": [
+      "peso",
+      "influencia"
+    ],
+    "aawalaa": [
+      "aflojar",
+      "soltar"
+    ],
+    "aawalawaa": [
+      "aliviarse mejorarse de una aflicción"
+    ],
+    "achajawaa": [
+      "buscar"
+    ],
+    "acha'a": [
+      "excremento",
+      "óxido"
+    ],
+    "achecheraa": [
+      "apretar",
+      "tensar"
+    ],
+    "achekaa": [
+      "querer"
+    ],
+    "achekajaa": [
+      "cobrar deuda reclamar"
+    ],
+    "ache'e": [
+      "oreja oído"
+    ],
+    "achepchia": [
+      "sirviente",
+      "esclavo"
+    ],
+    "achepü": [
+      "pintura para la cara"
+    ],
+    "achiawaa": [
+      "amonestar aconsejar"
+    ],
+    "achiirua": [
+      "detrás de"
+    ],
+    "achijiraa": [
+      "despertar"
+    ],
+    "achijirawaa": [
+      "despertarse"
+    ],
+    "achikanain": [
+      "huella",
+      "rastro"
+    ],
+    "achiki": [
+      "relato noticia",
+      "acerca de"
+    ],
+    "achikü": [
+      "relato noticia",
+      "acerca de"
+    ],
+    "achikijee": [
+      "después de",
+      "más allá de",
+      "después de que"
+    ],
+    "achikiru'u": [
+      "después de la salida de en ausencia de"
+    ],
+    "achira": [
+      "seno",
+      "leche"
+    ],
+    "achisa": [
+      "carga"
+    ],
+    "achise": [
+      "carga"
+    ],
+    "aise": [
+      "carga"
+    ],
+    "achitaa": [
+      "martillar",
+      "clavar"
+    ],
+    "achon": [
+      "hijo",
+      "cría",
+      "fruto fruta",
+      "achonnii achooin"
+    ],
+    "achon'irü": [
+      "sobrino (materno de hembra)"
+    ],
+    "achonyaashi": [
+      "no m",
+      "hijastro",
+      "hijo adoptivo hija adoptiva"
+    ],
+    "achukua'a": [
+      "otra vez en cuanto a"
+    ],
+    "achikua'a": [
+      "otra vez en cuanto a"
+    ],
+    "achu'laa": [
+      "besar",
+      "chupar"
+    ],
+    "atu'laa": [
+      "besar",
+      "chupar"
+    ],
+    "achumajaa": [
+      "estar celoso",
+      "estar envidioso"
+    ],
+    "achunjaa": [
+      "estar celoso",
+      "estar envidioso"
+    ],
+    "achuntaa": [
+      "pedir"
+    ],
+    "achuwajawaa": [
+      "prender (fuego)",
+      "arrancar (un motor)"
+    ],
+    "achuwala": [
+      "llama"
+    ],
+    "achüküjaa": [
+      "hacerle cosquillas",
+      "comprimir"
+    ],
+    "achü'ü": [
+      "riñón"
+    ],
+    "ai": [
+      "diente",
+      "noche",
+      "yuca"
+    ],
+    "aicha": [
+      "ropa interior"
+    ],
+    "aiche": [
+      "ropa interior"
+    ],
+    "aikeyuu": [
+      "nieto",
+      "descendiente"
+    ],
+    "aikkalawaa": [
+      "sentarse",
+      "posesionarse"
+    ],
+    "aikkale'eraa": [
+      "sentar",
+      "establecer",
+      "instalar"
+    ],
+    "ainchi": [
+      "cuñado (de varón)"
+    ],
+    "ainkaa": [
+      "poder lograr"
+    ],
+    "ainkuwaa aa'in": [
+      "asustarse",
+      "sorprenderse"
+    ],
+    "ainküin": [
+      "en entre"
+    ],
+    "aipa'a": [
+      "de noche"
+    ],
+    "aipa'inka": [
+      "anoche"
+    ],
+    "aippia": [
+      "árbol trupillo cují"
+    ],
+    "aippirua": [
+      "seis"
+    ],
+    "airu'u": [
+      "en la horqueta de entre el diente de"
+    ],
+    "aiwaa": [
+      "doler"
+    ],
+    "alii": [
+      "doler"
+    ],
+    "aiwaa apüla": [
+      "ser amado por"
+    ],
+    "alii apüla": [
+      "ser amado por"
+    ],
+    "aja'apüin": [
+      "tamaño (por altura longitud)"
+    ],
+    "aja'itaa": [
+      "recoger agua",
+      "sacar (un líquido)"
+    ],
+    "aja'lajawaa": [
+      "terminarse agotarse"
+    ],
+    "aja'laje'eraa": [
+      "agotar",
+      "destruir exterminar"
+    ],
+    "aja'ttaa": [
+      "terminarse acabarse"
+    ],
+    "ajapkii": [
+      "muñeca"
+    ],
+    "ejepkii": [
+      "muñeca"
+    ],
+    "ajapulu'uwaa": [
+      "estar a cargo de"
+    ],
+    "ajapü": [
+      "mano"
+    ],
+    "ajapüna": [
+      "pulsera"
+    ],
+    "ajaraittaa": [
+      "halar",
+      "arrastrar"
+    ],
+    "ajataa": [
+      "golpear pegar"
+    ],
+    "ajayajaa": [
+      "espiar",
+      "acechar"
+    ],
+    "ajuittaa": [
+      "salir"
+    ],
+    "ojuittaa": [
+      "salir"
+    ],
+    "ajuittiraa": [
+      "sacar",
+      "librar"
+    ],
+    "ojuittiraa": [
+      "sacar",
+      "librar"
+    ],
+    "ajujawaa": [
+      "bostezar"
+    ],
+    "ojujawaa": [
+      "bostezar"
+    ],
+    "ajulijaa": [
+      "mendigar"
+    ],
+    "ojulejaa": [
+      "mendigar"
+    ],
+    "ajurulajaa": [
+      "revolver"
+    ],
+    "ojurulajaa": [
+      "revolver"
+    ],
+    "ajutaa": [
+      "tirar lanzar",
+      "botar"
+    ],
+    "ojutaa": [
+      "tirar lanzar",
+      "botar"
+    ],
+    "ajutalaa": [
+      "abrir"
+    ],
+    "ojutalaa": [
+      "abrir"
+    ],
+    "ajutu": [
+      "valor"
+    ],
+    "ojutu": [
+      "valor"
+    ],
+    "ajutuwaa": [
+      "caerse"
+    ],
+    "ojutuwaa": [
+      "caerse"
+    ],
+    "ajuyaajaa": [
+      "pedir prestado tomar prestado",
+      "deber"
+    ],
+    "ojuyaajaa": [
+      "pedir prestado tomar prestado",
+      "deber"
+    ],
+    "ajuyaala": [
+      "deuda"
+    ],
+    "ojuyaala": [
+      "deuda"
+    ],
+    "ajü": [
+      "savia resina",
+      "pus"
+    ],
+    "ajütaa": [
+      "enviar mandar"
+    ],
+    "ajütaa achikü": [
+      "soltar",
+      "empujar"
+    ],
+    "ajütawaa achikü": [
+      "rechazar rehusar"
+    ],
+    "aka": [
+      "con (instrumento)",
+      "porque como"
+    ],
+    "akaaliijaa": [
+      "ayudar"
+    ],
+    "akaalinjaa": [
+      "ayudar"
+    ],
+    "akacheraa": [
+      "colgar"
+    ],
+    "akaijaa": [
+      "fumar",
+      "ahumar"
+    ],
+    "akaisa'a": [
+      "pero sin embargo",
+      "son las formas masculina no masculina y plural"
+    ],
+    "akatsa'a": [
+      "pero sin embargo",
+      "son las formas masculina no masculina y plural"
+    ],
+    "akanasa'a": [
+      "pero sin embargo",
+      "son las formas masculina no masculina y plural"
+    ],
+    "akajee": [
+      "por medio de",
+      "porque"
+    ],
+    "aka'aya": [
+      "asimismo"
+    ],
+    "akalia": [
+      "fecha día de tiempo de"
+    ],
+    "aka'iya": [
+      "fecha día de tiempo de"
+    ],
+    "akalu'ujaa": [
+      "llenar"
+    ],
+    "akanain": [
+      "sueldo ganancia"
+    ],
+    "akanajaa": [
+      "ganar",
+      "vencer"
+    ],
+    "akanajuwaa": [
+      "ser vencido"
+    ],
+    "akaratshi": [
+      "siete"
+    ],
+    "akaraishi": [
+      "siete"
+    ],
+    "akatalaa": [
+      "separar apartar"
+    ],
+    "akatalawaa": [
+      "apartarse"
+    ],
+    "akotchajaa": [
+      "recoger reunir"
+    ],
+    "okotchojoo": [
+      "recoger reunir"
+    ],
+    "akotchajawaa": [
+      "reunirse juntarse"
+    ],
+    "okotchojowaa": [
+      "reunirse juntarse"
+    ],
+    "akua": [
+      "viaje",
+      "curso",
+      "paso velocidad"
+    ],
+    "akuaippa": [
+      "forma naturaleza",
+      "manera",
+      "conducta costumbre",
+      "vida"
+    ],
+    "akulajawaa aa'in": [
+      "sentir pereza",
+      "estar aburrido"
+    ],
+    "akumajaa": [
+      "hacer construir",
+      "arreglar",
+      "componer",
+      "crear"
+    ],
+    "aku'ujaa": [
+      "hacer construir",
+      "arreglar",
+      "componer",
+      "crear"
+    ],
+    "akunyajaa": [
+      "hacer construir",
+      "arreglar",
+      "componer",
+      "crear"
+    ],
+    "akurulaa": [
+      "tener frío"
+    ],
+    "akutkujawaa": [
+      "temblar"
+    ],
+    "aküjaa": [
+      "contar",
+      "confesar"
+    ],
+    "aküjaa achikü": [
+      "acusar denunciar"
+    ],
+    "akünülaa": [
+      "masticar"
+    ],
+    "a'ajaa": [
+      "quemar"
+    ],
+    "a'aka": [
+      "entre",
+      "en (mezclado) en medio de"
+    ],
+    "a'alain": [
+      "mentira"
+    ],
+    "a'alijawaa": [
+      "estar de parto"
+    ],
+    "a'anaa": [
+      "armar",
+      "tejer (en un telar)"
+    ],
+    "a'anapaa": [
+      "pedir prestado"
+    ],
+    "a'anawaa": [
+      "vestir vestirse"
+    ],
+    "a'apüla": [
+      "arma"
+    ],
+    "a'ata": [
+      "parte pedazo porción",
+      "lado",
+      "compañero",
+      "socio"
+    ],
+    "a'ataa": [
+      "ponerle a uno (vestido prenda)",
+      "ponerse (vestido prenda)"
+    ],
+    "a'atapajaa": [
+      "esperar"
+    ],
+    "a'ato'u": [
+      "al lado de"
+    ],
+    "a'chükütaa": [
+      "pisar"
+    ],
+    "achükütaa": [
+      "pisar"
+    ],
+    "a'tkütaa": [
+      "pisar"
+    ],
+    "a'itaa": [
+      "pegar (con un proyectil)"
+    ],
+    "a'itaajuya": [
+      "llover"
+    ],
+    "a'ktütajawaa": [
+      "sufrir un ataque"
+    ],
+    "a'lakajawaa": [
+      "cocinar"
+    ],
+    "a'lapüjaa": [
+      "soñar con"
+    ],
+    "a'luwajaa": [
+      "robar"
+    ],
+    "a'uwajaa": [
+      "robar"
+    ],
+    "o'uwajaa": [
+      "robar"
+    ],
+    "a'luwatawaa": [
+      "huir escapar"
+    ],
+    "o'uwatawaa": [
+      "huir escapar"
+    ],
+    "a'ttia": [
+      "cosecha cultivo"
+    ],
+    "a'ü": [
+      "semilla",
+      "bala"
+    ],
+    "a'üi": [
+      "suegro (de mujer)",
+      "nuera (de varón)"
+    ],
+    "a'ülü": [
+      "suegra (de mujer)",
+      "nuera (de mujer)"
+    ],
+    "a'ülüjaa": [
+      "regañar"
+    ],
+    "a'ülüjirawaa": [
+      "discutir"
+    ],
+    "a'ünüü": [
+      "enemigo"
+    ],
+    "a'ürülawaa": [
+      "odiar"
+    ],
+    "a'ütpa'a": [
+      "al lado de junto a"
+    ],
+    "a'waajaa": [
+      "alabar"
+    ],
+    "a'waataa": [
+      "gritar"
+    ],
+    "a'waatawaa": [
+      "jactarse"
+    ],
+    "a'wala": [
+      "cabello"
+    ],
+    "a'walakajaa": [
+      "t dispersar esparcir"
+    ],
+    "a'wanajawaa": [
+      "cambiar"
+    ],
+    "a'wayuuse": [
+      "esposo"
+    ],
+    "a'wiira": [
+      "lágrima",
+      "manantial"
+    ],
+    "a'wüira": [
+      "lágrima",
+      "manantial"
+    ],
+    "a'yaataa": [
+      "pegar golpear azotar"
+    ],
+    "a'chaataa": [
+      "pegar golpear azotar"
+    ],
+    "a'yalajaa": [
+      "llorar"
+    ],
+    "a'yalajiraa": [
+      "tocar (música o instrumento)",
+      "tener velorio"
+    ],
+    "a'yapüjaa": [
+      "coser"
+    ],
+    "a'yapajaa": [
+      "coser"
+    ],
+    "a'yataai": [
+      "no m",
+      "trabajador"
+    ],
+    "a'yatawaa": [
+      "trabajar",
+      "trabajo"
+    ],
+    "alama": [
+      "pasto"
+    ],
+    "alapajaa": [
+      "lamentar la muerte de uno asistir a un velorio"
+    ],
+    "alataa": [
+      "pasar suceder"
+    ],
+    "alaüla": [
+      "tío (materno)"
+    ],
+    "alaülashi": [
+      "no m",
+      "jefe",
+      "comandante",
+      "dueño"
+    ],
+    "alawaa": [
+      "mentira"
+    ],
+    "aleewaa": [
+      "tener amistad"
+    ],
+    "ale'e": [
+      "estómago vientre abdomen barriga"
+    ],
+    "ale'ejaa": [
+      "volver regresar"
+    ],
+    "ale'eru'u": [
+      "en el vientre de en el interior de"
+    ],
+    "alerajaa": [
+      "sentir asco por aborrecer desdeñar"
+    ],
+    "aleshi": [
+      "cuñado (de mujer)"
+    ],
+    "alia": [
+      "precio valor"
+    ],
+    "aliichajaa": [
+      "ordeñar",
+      "exprimir"
+    ],
+    "aliika": [
+      "por la tarde"
+    ],
+    "aliuuka": [
+      "por la tarde"
+    ],
+    "aliikainka": [
+      "ayer"
+    ],
+    "aliikajawaa": [
+      "subir subirse"
+    ],
+    "aliima": [
+      "e iima",
+      "barba"
+    ],
+    "aliina": [
+      "muela",
+      "aii"
+    ],
+    "aliita": [
+      "totuma (especie de calabaza)"
+    ],
+    "alijuna": [
+      "blanco (persona no wayuu)",
+      "civilizado (persona no wayuu)"
+    ],
+    "alijunaiki": [
+      "español (idioma)"
+    ],
+    "alio'u": [
+      "herida"
+    ],
+    "alu'u": [
+      "dentro de en"
+    ],
+    "alu'ujasa'a": [
+      "pero"
+    ],
+    "alumajaa": [
+      "amansar (caballo mula burro)"
+    ],
+    "aluuwain": [
+      "pecho"
+    ],
+    "aluwatawaa": [
+      "gobernar mandar",
+      "enviar mandar"
+    ],
+    "aluwatawaa aa'u": [
+      "gobernar"
+    ],
+    "alüin": [
+      "nieto"
+    ],
+    "alüinyuu": [
+      "cuñada (de varón)"
+    ],
+    "alüjaa": [
+      "rastrear"
+    ],
+    "alü'üjaa": [
+      "llevar cargar traer"
+    ],
+    "alü'ülaa": [
+      "acercarse (en el tiempo",
+      "a un meta)"
+    ],
+    "ama": [
+      "caballo pos"
+    ],
+    "amaa": [
+      "con (acompañamiento)",
+      "y que siendo que"
+    ],
+    "amaajachi": [
+      "no m",
+      "compañero",
+      "amaajana"
+    ],
+    "amaiwa": [
+      "en aquel tiempo de"
+    ],
+    "ama'a": [
+      "duración"
+    ],
+    "ama'ana": [
+      "donde en posesión de"
+    ],
+    "ama'ichiki": [
+      "antes de la salida de"
+    ],
+    "ama'ichikü": [
+      "antes de la salida de"
+    ],
+    "ama'inru'u": [
+      "mientras"
+    ],
+    "amanee": [
+      "bondad cariño"
+    ],
+    "amaünajaa": [
+      "cobrar por daño a una persona"
+    ],
+    "amaüsijaa": [
+      "domar amansar"
+    ],
+    "amojujaa": [
+      "dañar perjudicar"
+    ],
+    "amuuyuu": [
+      "cementerio"
+    ],
+    "amouyuu": [
+      "cementerio"
+    ],
+    "amüchi": [
+      "múcura (vasija de barro cocido para agua)"
+    ],
+    "amüin": [
+      "a para"
+    ],
+    "amüiwa'a": [
+      "solo",
+      "mismo",
+      "propio"
+    ],
+    "amüla": [
+      "garganta"
+    ],
+    "amülaa": [
+      "derramarse gotear"
+    ],
+    "amüliajaa": [
+      "compadecerse de tener compasión de",
+      "consolar",
+      "ayudar"
+    ],
+    "amüliala": [
+      "sufrimiento"
+    ],
+    "amülira": [
+      "vello",
+      "pluma"
+    ],
+    "amüloulii": [
+      "perderse",
+      "perecer"
+    ],
+    "amüraajüin": [
+      "novio"
+    ],
+    "amüsain": [
+      "humo"
+    ],
+    "amüschejaa": [
+      "atragantarse"
+    ],
+    "amüschijaa": [
+      "atragantarse"
+    ],
+    "ana": [
+      "diseño",
+      "color"
+    ],
+    "anaa": [
+      "ser bueno",
+      "estar bien",
+      "sanar",
+      "salud",
+      "aquí están estamos"
+    ],
+    "anaajawaa": [
+      "guardar"
+    ],
+    "anaatawaa": [
+      "acomodarse"
+    ],
+    "anachonwaa": [
+      "ser bonito"
+    ],
+    "anain": [
+      "en a",
+      "rel que siendo que"
+    ],
+    "anainjee": [
+      "de por",
+      "porque (como consecuencia de)"
+    ],
+    "anainmüin": [
+      "a hacia"
+    ],
+    "anainmüinre'eya": [
+      "hasta",
+      "hasta que"
+    ],
+    "anajaa": [
+      "mirar observar"
+    ],
+    "anajaa aa'u": [
+      "vigilar",
+      "cuidar"
+    ],
+    "anakaa": [
+      "alumbrar"
+    ],
+    "analawaa": [
+      "averiguar qué es examinar",
+      "averiguar cómo está"
+    ],
+    "analüü": [
+      "estar mejor de salud"
+    ],
+    "anamiaa": [
+      "ser bueno",
+      "ser justo",
+      "ser bondadoso"
+    ],
+    "anemiaa": [
+      "ser bueno",
+      "ser justo",
+      "ser bondadoso"
+    ],
+    "aneekaa": [
+      "escoger elegir"
+    ],
+    "aneukaa": [
+      "escoger elegir"
+    ],
+    "anii": [
+      "aquí está estoy (masculino)",
+      "anuu anaa (2)"
+    ],
+    "anneerü": [
+      "oveja"
+    ],
+    "ano'u": [
+      "diseño"
+    ],
+    "anooi": [
+      "terreno despejado"
+    ],
+    "anoui": [
+      "terreno despejado"
+    ],
+    "anooipa'a": [
+      "afuera"
+    ],
+    "anouipa'a": [
+      "afuera"
+    ],
+    "anoujaa": [
+      "creer",
+      "fe"
+    ],
+    "anouktaa": [
+      "corregir arreglar poner en orden"
+    ],
+    "anoula": [
+      "fe"
+    ],
+    "antaa": [
+      "venir llegar"
+    ],
+    "antaa anain": [
+      "encontrar"
+    ],
+    "antiraa": [
+      "traer"
+    ],
+    "anua": [
+      "barco"
+    ],
+    "anulu": [
+      "nuca cuello"
+    ],
+    "anuu": [
+      "aquí está estoy (no masculino)",
+      "anii anaa (2)"
+    ],
+    "anüiki": [
+      "voz habla",
+      "palabra mensaje opinión expresada",
+      "idioma"
+    ],
+    "anüikü": [
+      "voz habla",
+      "palabra mensaje opinión expresada",
+      "idioma"
+    ],
+    "anülia": [
+      "nombre"
+    ],
+    "anüliee": [
+      "lista de nombres",
+      "mensajero"
+    ],
+    "anülü": [
+      "telar"
+    ],
+    "apaajirawaa": [
+      "separarse (cada uno a su propio camino)"
+    ],
+    "apachera": [
+      "dedo (del pie)"
+    ],
+    "apain": [
+      "huerta"
+    ],
+    "apa'a": [
+      "superficie piso",
+      "en (el área de)"
+    ],
+    "apalaalajaa": [
+      "ir de compras"
+    ],
+    "apalanajawaa": [
+      "fluir"
+    ],
+    "apalapajaa": [
+      "hacer rodar"
+    ],
+    "apalapajawaa": [
+      "rodar"
+    ],
+    "apalirajaa": [
+      "mezclar"
+    ],
+    "apanai": [
+      "hoja"
+    ],
+    "apana": [
+      "hígado"
+    ],
+    "apanapajaa": [
+      "encontrarse con una persona en el camino"
+    ],
+    "apantajawaa": [
+      "irse corriendo"
+    ],
+    "apasiajawaa": [
+      "hacer una visita pasear"
+    ],
+    "apato'u": [
+      "uña garra pezuña"
+    ],
+    "apü": [
+      "atadura cabestro cuerda sarta (de cuentas)"
+    ],
+    "apücho'u": [
+      "detrás de"
+    ],
+    "apü'ü": [
+      "muslo"
+    ],
+    "apü'üya": [
+      "pastor",
+      "guardián",
+      "cuidador"
+    ],
+    "apüla": [
+      "para por",
+      "rel para que"
+    ],
+    "apülain": [
+      "poder"
+    ],
+    "apülajaa": [
+      "prohibir"
+    ],
+    "apülapünaa": [
+      "antes de",
+      "antes de que"
+    ],
+    "apülee": [
+      "lugar sitio puesto"
+    ],
+    "apüleerua": [
+      "delante de"
+    ],
+    "apüna": [
+      "camino sendero"
+    ],
+    "apünajaa": [
+      "sembrar"
+    ],
+    "apünüin": [
+      "tres"
+    ],
+    "apüshi": [
+      "familia pariente",
+      "compañero",
+      "parte"
+    ],
+    "apüshua'a": [
+      "todo"
+    ],
+    "apütaa": [
+      "dejar"
+    ],
+    "apütawaa": [
+      "ser dejado",
+      "quedar"
+    ],
+    "apütawaa apüla": [
+      "dejar sobras a",
+      "despedirse de"
+    ],
+    "apüttaa": [
+      "romperse (algo como cuerda bolsa)"
+    ],
+    "aralajaa": [
+      "dejar en remojo"
+    ],
+    "aralo'u": [
+      "coronilla",
+      "encima de sobre la cabeza de"
+    ],
+    "arülaa": [
+      "ser delgado (de objetos planos)"
+    ],
+    "arüleejaa": [
+      "pastorear"
+    ],
+    "arütkawaa": [
+      "acercarse a"
+    ],
+    "asa": [
+      "filo"
+    ],
+    "asaa": [
+      "beber"
+    ],
+    "asaajaa": [
+      "traer ir a buscar"
+    ],
+    "asachiralü": [
+      "vaca"
+    ],
+    "asakaa": [
+      "saludar"
+    ],
+    "asakiraa": [
+      "preguntar"
+    ],
+    "asa'a": [
+      "pierna pata",
+      "horcón (de la casa) columna"
+    ],
+    "asa'wajaa": [
+      "alcanzar"
+    ],
+    "asala": [
+      "a causa de por"
+    ],
+    "asalaa": [
+      "carne"
+    ],
+    "asalajaa": [
+      "afilar"
+    ],
+    "akasalajaa": [
+      "afilar"
+    ],
+    "asanalaa aa'in": [
+      "respirar suspirar"
+    ],
+    "asapain": [
+      "rodilla"
+    ],
+    "asapia": [
+      "pasaje"
+    ],
+    "asapü": [
+      "espalda columna vertebral"
+    ],
+    "asatala": [
+      "codo"
+    ],
+    "asawaa": [
+      "beber (bebida alcohólica)"
+    ],
+    "ase": [
+      "fibra pulpa borra"
+    ],
+    "ase'eru'u": [
+      "mitad cintura"
+    ],
+    "ase'ewain": [
+      "cadera"
+    ],
+    "asema": [
+      "leña",
+      "fuego"
+    ],
+    "asepü": [
+      "pared"
+    ],
+    "aseyuu": [
+      "espíritu de la piache"
+    ],
+    "asi": [
+      "cola"
+    ],
+    "asii": [
+      "flor"
+    ],
+    "asiipü": [
+      "sobrino (materno de varón)"
+    ],
+    "asiiyajawaa": [
+      "ensillar"
+    ],
+    "asijaa": [
+      "asar",
+      "quemar",
+      "marcar"
+    ],
+    "asipala": [
+      "cicatriz",
+      "viga lateral"
+    ],
+    "asira": [
+      "risa"
+    ],
+    "asiraa": [
+      "dar de beber"
+    ],
+    "asirajaa": [
+      "reirse"
+    ],
+    "asiranajawaa": [
+      "resbalarse"
+    ],
+    "asirü": [
+      "presa",
+      "culpa"
+    ],
+    "asiwataa": [
+      "desatar"
+    ],
+    "asotaa": [
+      "apuñalar pinchar",
+      "brotar retoñar"
+    ],
+    "osotaa": [
+      "apuñalar pinchar",
+      "brotar retoñar"
+    ],
+    "asottaa": [
+      "quebrarse",
+      "quebrar"
+    ],
+    "osottaa": [
+      "quebrarse",
+      "quebrar"
+    ],
+    "asouktaa": [
+      "responder"
+    ],
+    "asukaa": [
+      "recoger leña"
+    ],
+    "asukawaa apüla": [
+      "esperar (con preocupación)",
+      "echar de menos"
+    ],
+    "asüküitaa": [
+      "rasgarse",
+      "rasgar"
+    ],
+    "asü'ütaa": [
+      "arrancar",
+      "salir desprenderse"
+    ],
+    "asüla": [
+      "arteria vena",
+      "tendón"
+    ],
+    "asülajaa": [
+      "regalar"
+    ],
+    "asürülaa": [
+      "cerrar",
+      "encerrar"
+    ],
+    "asüsiinajaa": [
+      "acecinar (salar la carne y secarla al aire)"
+    ],
+    "asütaa": [
+      "quitar"
+    ],
+    "asha": [
+      "sangre"
+    ],
+    "ashaittaa": [
+      "jugar"
+    ],
+    "ashajaa": [
+      "escribir"
+    ],
+    "ashajawaa": [
+      "pintarse la cara"
+    ],
+    "ashakataa": [
+      "bajar descender"
+    ],
+    "asha'walawaa": [
+      "ponerse de pie",
+      "pararse"
+    ],
+    "ashantajaa": [
+      "adivinar (por suposiciones)"
+    ],
+    "ashapajawaa": [
+      "darse prisa tener prisa"
+    ],
+    "ashapatawaa": [
+      "preocuparse"
+    ],
+    "ashataa": [
+      "sanar (una herida)",
+      "copiar imitar aprender imitando"
+    ],
+    "ashatawaa": [
+      "partirse",
+      "partir"
+    ],
+    "ashe'ejirawaa": [
+      "pelear con puños"
+    ],
+    "ashe'etaa": [
+      "golpear patear"
+    ],
+    "ashe'etuwaa oo'ui": [
+      "tropezar"
+    ],
+    "ashe'in": [
+      "ropa"
+    ],
+    "ashi": [
+      "padre",
+      "tío (paterno)"
+    ],
+    "ashiitaa": [
+      "orinar"
+    ],
+    "ashijawaa": [
+      "lavar (ropa)"
+    ],
+    "ashimia": [
+      "suegro (de varón)",
+      "yerno (de varón)"
+    ],
+    "ashiyaashi": [
+      "padrastro"
+    ],
+    "ashottaa": [
+      "cortar (con hacha machete)"
+    ],
+    "oshottoo": [
+      "cortar (con hacha machete)"
+    ],
+    "ashoujaa": [
+      "estornudar"
+    ],
+    "ashuku": [
+      "huevo"
+    ],
+    "ashunuu": [
+      "hermana menor (de varón)"
+    ],
+    "ashutaa": [
+      "meterse entrar a la fuerza"
+    ],
+    "ashutaa aa'u": [
+      "invadir atacar"
+    ],
+    "ashuunajaa": [
+      "nadar"
+    ],
+    "ata": [
+      "piel cuero",
+      "cáscara corteza",
+      "cubierta envoltura vaina"
+    ],
+    "ataa": [
+      "atragantarse"
+    ],
+    "atak": [
+      "caramba"
+    ],
+    "atek": [
+      "caramba"
+    ],
+    "ata'ülaa": [
+      "coger agarrar"
+    ],
+    "atalejaa": [
+      "tocar (tambor puerta)"
+    ],
+    "atamawaa": [
+      "levantarse",
+      "incorporarse"
+    ],
+    "ataralawaa amaa": [
+      "confiar en contar con"
+    ],
+    "ataralüichi": [
+      "adulto"
+    ],
+    "ataüjawaa": [
+      "violar (a una mujer)"
+    ],
+    "atkaa": [
+      "flechar punzar",
+      "retoñar"
+    ],
+    "atkawaa": [
+      "pelear"
+    ],
+    "atouta": [
+      "piel entera superficie entera"
+    ],
+    "atpajaa": [
+      "recolectar (alimento)"
+    ],
+    "atpanaa": [
+      "conejo"
+    ],
+    "atsüin": [
+      "fuerza fortaleza"
+    ],
+    "atsin": [
+      "fuerza fortaleza"
+    ],
+    "atchin": [
+      "fuerza fortaleza"
+    ],
+    "atujawaa": [
+      "mamar"
+    ],
+    "atujeejachi": [
+      "no m",
+      "subordinado",
+      "atujeejana"
+    ],
+    "atujuna": [
+      "viga"
+    ],
+    "atu'u": [
+      "superficie interior superficie inferior parte superior de las piernas"
+    ],
+    "atulaa": [
+      "entretejer tejer trenzar"
+    ],
+    "atunkaa": [
+      "dormir"
+    ],
+    "atuushi": [
+      "abuelo",
+      "antepasado",
+      "atuushinuu"
+    ],
+    "atüjaa": [
+      "saber"
+    ],
+    "atüjawaa aa'u": [
+      "saber de"
+    ],
+    "atükaa": [
+      "formar moldear"
+    ],
+    "atükaa pootshi": [
+      "embarrar"
+    ],
+    "atükawaa": [
+      "atascarse"
+    ],
+    "atüma": [
+      "por"
+    ],
+    "atüna": [
+      "brazo ala",
+      "rama",
+      "pluma"
+    ],
+    "atünajutü": [
+      "amigo"
+    ],
+    "atürüla": [
+      "trueno paso estruendoso de animales"
+    ],
+    "atütüjaa": [
+      "animar alentar"
+    ],
+    "atütajaa": [
+      "animar alentar"
+    ],
+    "aüjaa": [
+      "cortar (el pelo) afeitar trasquilar"
+    ],
+    "aüjawaa": [
+      "matar (ganado)",
+      "desollar"
+    ],
+    "aüliijana": [
+      "collar"
+    ],
+    "aürülaa": [
+      "estar flaco"
+    ],
+    "awaa": [
+      "saliva"
+    ],
+    "awachira": [
+      "carrera"
+    ],
+    "awatira": [
+      "carrera"
+    ],
+    "awajawaa": [
+      "rajarse partirse"
+    ],
+    "awala": [
+      "hermano",
+      "awalayuu"
+    ],
+    "awalaajaa": [
+      "pagar"
+    ],
+    "awalainse": [
+      "mandíbula quijada"
+    ],
+    "awala'ata": [
+      "compañero",
+      "pareja"
+    ],
+    "awalapa'a": [
+      "mejilla"
+    ],
+    "awarala": [
+      "luz"
+    ],
+    "awareejaa": [
+      "barrer"
+    ],
+    "awashirüin": [
+      "riqueza"
+    ],
+    "awataa": [
+      "volar despegar",
+      "saltar brincar",
+      "saltar"
+    ],
+    "awatawaa": [
+      "correr",
+      "soplar (el viento)",
+      "volar (por el viento)"
+    ],
+    "awatse": [
+      "costilla"
+    ],
+    "awaüya": [
+      "semillas (para la siembra)"
+    ],
+    "awaüye": [
+      "semillas (para la siembra)"
+    ],
+    "ayaa": [
+      "relámpago"
+    ],
+    "ayaakua": [
+      "imagen fotografía",
+      "ejemplo"
+    ],
+    "o'uyaakua": [
+      "imagen fotografía",
+      "ejemplo"
+    ],
+    "ayaawajaa": [
+      "contar medir"
+    ],
+    "ayaawase": [
+      "señal símbolo"
+    ],
+    "ayaawataa": [
+      "reconocer distinguir",
+      "medir"
+    ],
+    "ayaawataa aa'u": [
+      "entender"
+    ],
+    "ayalajaa": [
+      "comprar"
+    ],
+    "ayaleraa": [
+      "levantar alzar"
+    ],
+    "ayataa": [
+      "seguir"
+    ],
+    "ayee": [
+      "lengua"
+    ],
+    "ayolojo": [
+      "sombra",
+      "apariencia",
+      "espíritu fantasma"
+    ],
+    "ayaluju": [
+      "sombra",
+      "apariencia",
+      "espíritu fantasma"
+    ],
+    "ayoujaa": [
+      "criticar"
+    ],
+    "ayoujirawaa": [
+      "competir"
+    ],
+    "ayouktaa": [
+      "rechazar"
+    ],
+    "ayounjaa": [
+      "azotar severamente"
+    ],
+    "ayamüjaa": [
+      "azotar severamente"
+    ],
+    "ayu'laa": [
+      "sacar",
+      "retirar",
+      "restar"
+    ],
+    "ayuulii": [
+      "estar enfermo",
+      "enfermedad"
+    ],
+    "ayülain": [
+      "intestino tripa"
+    ],
+    "ayüüjawaa": [
+      "moler"
+    ],
+    "chajaruuta": [
+      "machete",
+      "achajaruutse"
+    ],
+    "cha'aya": [
+      "allá (lejos)"
+    ],
+    "che'esaa": [
+      "arete"
+    ],
+    "chi": [
+      "este"
+    ],
+    "chii": [
+      "éste",
+      "este",
+      "esta forma del adjetivo se usa después del nombre"
+    ],
+    "chiiruajachi": [
+      "posterior",
+      "último",
+      "no m posterior"
+    ],
+    "chira": [
+      "ese",
+      "— ése"
+    ],
+    "chirinchi": [
+      "aguardiente"
+    ],
+    "chisa": [
+      "aquel",
+      "— aquél"
+    ],
+    "chocho": [
+      "trompo"
+    ],
+    "cho'ujawaa": [
+      "faltar"
+    ],
+    "che'ojawaa": [
+      "faltar"
+    ],
+    "ja'ijawaa": [
+      "faltar"
+    ],
+    "chuwataa": [
+      "estar encendido",
+      "estar prendido",
+      "estar brillando"
+    ],
+    "chü'laa": [
+      "estar mojado",
+      "mojarse"
+    ],
+    "chünü'ü": [
+      "colibrí"
+    ],
+    "eechin": [
+      "marido esposo"
+    ],
+    "eejirawaa": [
+      "luchar"
+    ],
+    "eejuu": [
+      "olor"
+    ],
+    "ee'irain": [
+      "canción"
+    ],
+    "ee'irajaa": [
+      "cantar"
+    ],
+    "ee'iraka": [
+      "sustituto",
+      "suplente"
+    ],
+    "ee'iranajawaa": [
+      "cambiar reemplazar",
+      "transformarse"
+    ],
+    "ee'irataa": [
+      "cambiar"
+    ],
+    "ee'iratawaa": [
+      "cambiar de esposo"
+    ],
+    "ee'iree": [
+      "por afán de",
+      "para que"
+    ],
+    "ee'iyalawaa": [
+      "aparecerse asomar",
+      "asomarse"
+    ],
+    "ee'iyataa": [
+      "mostrar señalar revelar"
+    ],
+    "eema": [
+      "miedo a"
+    ],
+    "eemerawaa": [
+      "descansar",
+      "descanso"
+    ],
+    "eemioushi": [
+      "sombra"
+    ],
+    "eenakaa": [
+      "llamar"
+    ],
+    "aanekaa": [
+      "llamar"
+    ],
+    "ounekaa": [
+      "llamar"
+    ],
+    "eerüin": [
+      "esposa"
+    ],
+    "eetaa": [
+      "vomitar"
+    ],
+    "eewaa": [
+      "haber existir"
+    ],
+    "eewaa ama'ana": [
+      "tener"
+    ],
+    "eewain": [
+      "víctima"
+    ],
+    "eewawaa": [
+      "accidentarse lastimarse dañarse"
+    ],
+    "ei": [
+      "madre",
+      "tía (paterna)"
+    ],
+    "eimalawaa": [
+      "calmarse apaciguarse"
+    ],
+    "ejimalawaa": [
+      "calmarse apaciguarse"
+    ],
+    "eimata": [
+      "labio"
+    ],
+    "einalu'u": [
+      "en el fondo de en el principio de",
+      "nalga"
+    ],
+    "einase": [
+      "asiento"
+    ],
+    "eipiraa": [
+      "perseguir"
+    ],
+    "eipüse": [
+      "hueso",
+      "espina"
+    ],
+    "eimüse": [
+      "hueso",
+      "espina"
+    ],
+    "eirakawaa": [
+      "mirar"
+    ],
+    "eisalajaa": [
+      "cuidar asear"
+    ],
+    "eisalawaa": [
+      "acostarse"
+    ],
+    "eitajaa": [
+      "repartir"
+    ],
+    "eitawaa": [
+      "volver regresar"
+    ],
+    "eite'eraa": [
+      "devolver"
+    ],
+    "eiwa'ajaa aa'in": [
+      "perturbar alborotar incitar"
+    ],
+    "eiyaasü": [
+      "madrastra"
+    ],
+    "eiyajaa": [
+      "curar",
+      "hechizar"
+    ],
+    "ejeerüjaa": [
+      "marcar"
+    ],
+    "ejejerawaa": [
+      "cuchichear secretear"
+    ],
+    "ejepira": [
+      "dedo (de la mano)"
+    ],
+    "ejerü": [
+      "cuerda (para colgar la hamaca)"
+    ],
+    "ejetaa": [
+      "escupir"
+    ],
+    "ejitaa": [
+      "verter (polvos o granos) echar (polvos o granos)"
+    ],
+    "ejittawaa": [
+      "atar"
+    ],
+    "ajüttawaa": [
+      "atar"
+    ],
+    "aüttawaa": [
+      "atar"
+    ],
+    "ekaa": [
+      "comer",
+      "picar"
+    ],
+    "eke'ejaa aa'in": [
+      "molestar"
+    ],
+    "ekeraajaa": [
+      "terminar cumplir",
+      "cumplirse"
+    ],
+    "ekerojiraa": [
+      "meter"
+    ],
+    "ekerolaa": [
+      "entrar"
+    ],
+    "ekia": [
+      "mano derecha",
+      "utensilio para comer"
+    ],
+    "ekii": [
+      "cabeza",
+      "mente",
+      "tocón",
+      "fuente",
+      "origen",
+      "decena (para formar números)"
+    ],
+    "ekiipala": [
+      "almohada",
+      "viga maestra cumbrera"
+    ],
+    "ekiipü'ü": [
+      "cabeza (de un grupo) guía jefe"
+    ],
+    "ekiisa": [
+      "grito",
+      "kiisa kiise"
+    ],
+    "ekiise": [
+      "grito",
+      "kiisa kiise"
+    ],
+    "ekiisholoin": [
+      "cerebro seso"
+    ],
+    "ekiraa": [
+      "dar de comer"
+    ],
+    "ekirajaa": [
+      "enseñar"
+    ],
+    "ekirajawaa": [
+      "estudiar aprender"
+    ],
+    "eküülü": [
+      "comida alimento"
+    ],
+    "e'e": [
+      "plaga parásito"
+    ],
+    "e'ejena": [
+      "cabalgadura",
+      "vehículo carro"
+    ],
+    "e'ejü": [
+      "sabor"
+    ],
+    "e'erü": [
+      "cuñada (de mujer)"
+    ],
+    "e'ichi": [
+      "nariz",
+      "hocico",
+      "pico (de un pájaro)",
+      "punta"
+    ],
+    "e'iijaa": [
+      "tener diarrea"
+    ],
+    "e'iima": [
+      "barba"
+    ],
+    "e'iitaa": [
+      "defecar"
+    ],
+    "e'ikaa": [
+      "enseñar instruir",
+      "llevar"
+    ],
+    "a'ikaa": [
+      "enseñar instruir",
+      "llevar"
+    ],
+    "e'ikajawaa": [
+      "llevar y dejar"
+    ],
+    "e'ikawaa": [
+      "estar herido"
+    ],
+    "e'inaa": [
+      "tejer con aguja"
+    ],
+    "e'ipa": [
+      "pedazo parte"
+    ],
+    "e'ipajee": [
+      "en respuesta a"
+    ],
+    "e'ipo'u": [
+      "frente"
+    ],
+    "e'ipolo": [
+      "tapa",
+      "rival"
+    ],
+    "e'ipünawaa": [
+      "llevar y dejar de camino dejar de paso"
+    ],
+    "e'ira": [
+      "sonido ruido",
+      "llanto",
+      "canto (de animal)"
+    ],
+    "e'iruku": [
+      "carne cuerpo",
+      "casta"
+    ],
+    "e'itku": [
+      "carne cuerpo",
+      "casta"
+    ],
+    "e'iru'u": [
+      "punta",
+      "en la punta de"
+    ],
+    "e'iruma": [
+      "primogénito"
+    ],
+    "e'itaa": [
+      "aportar"
+    ],
+    "e'itawaa": [
+      "poner meter",
+      "proponer suponer",
+      "designar asignar establecer"
+    ],
+    "e'iyeise": [
+      "barbilla mentón"
+    ],
+    "e'iyeinse": [
+      "barbilla mentón"
+    ],
+    "e'iyou": [
+      "visita",
+      "huésped"
+    ],
+    "e'raa": [
+      "ver",
+      "experimentar"
+    ],
+    "e'raajaa": [
+      "conocer"
+    ],
+    "e'rajaa": [
+      "mirar"
+    ],
+    "e'rajaa aa'u": [
+      "cuidar vigilar"
+    ],
+    "e'rajawaa": [
+      "mirar observar examinar"
+    ],
+    "emechi": [
+      "brasa"
+    ],
+    "emeejaa": [
+      "engañar",
+      "defraudar"
+    ],
+    "eme'eraa aa'in": [
+      "convencer persuadir",
+      "atraer"
+    ],
+    "eme'erainpala": [
+      "blanco de broma o burla"
+    ],
+    "eme'erajawaa": [
+      "bromear"
+    ],
+    "ememajaa": [
+      "lloviznar"
+    ],
+    "ememejaa": [
+      "lloviznar"
+    ],
+    "emeroloo": [
+      "hundirse"
+    ],
+    "emeshi": [
+      "suegra (de varón)"
+    ],
+    "emetulu": [
+      "en voz alta fuertemente"
+    ],
+    "emia": [
+      "comida para el viaje"
+    ],
+    "emiirua": [
+      "hermana menor (de mujer)"
+    ],
+    "emi'ijaa": [
+      "jugar"
+    ],
+    "emi'ira": [
+      "juguete"
+    ],
+    "emiraa": [
+      "estar harto"
+    ],
+    "emiralaa": [
+      "tragar"
+    ],
+    "emiriijaa": [
+      "medir"
+    ],
+    "emeriijaa": [
+      "medir"
+    ],
+    "emülia": [
+      "hermano menor"
+    ],
+    "epaya": [
+      "hermano mayor"
+    ],
+    "epejawaa": [
+      "prender encender",
+      "arrancar (un motor)"
+    ],
+    "epe'e": [
+      "mano izquierda"
+    ],
+    "eperaa": [
+      "estar borracho",
+      "emborracharse"
+    ],
+    "eperulajaa": [
+      "chismear"
+    ],
+    "eperü'üi": [
+      "sapo"
+    ],
+    "epesajaa": [
+      "pesar"
+    ],
+    "epetaa": [
+      "ser poco profundo"
+    ],
+    "epettaa": [
+      "tocar"
+    ],
+    "epi": [
+      "medicina remedio veneno (para exterminar algo)",
+      "cabo mango (de un utensilio)"
+    ],
+    "epia": [
+      "casa",
+      "nido"
+    ],
+    "apüya": [
+      "casa",
+      "nido"
+    ],
+    "epijaa": [
+      "criar",
+      "sustentar"
+    ],
+    "epijana": [
+      "ruido de objetos producido por golpes o fricción"
+    ],
+    "epishana": [
+      "ruido de objetos producido por golpes o fricción"
+    ],
+    "epirajaa": [
+      "llenar inflar"
+    ],
+    "epitanajaa": [
+      "barrer"
+    ],
+    "era": [
+      "jugo savia",
+      "caldo",
+      "sudor"
+    ],
+    "eroku": [
+      "en (un líquido)"
+    ],
+    "erouse": [
+      "tapa tapón"
+    ],
+    "erü": [
+      "perro"
+    ],
+    "eweetaa": [
+      "salir a la vista aparecer"
+    ],
+    "ewein": [
+      "lunar"
+    ],
+    "ewiijaa": [
+      "silbar"
+    ],
+    "ichee": [
+      "estar tenso",
+      "estar apretado",
+      "estar ser tieso",
+      "estar ser firme",
+      "estar ser fijo",
+      "estar ser duro",
+      "ser resistente ser inflexible"
+    ],
+    "ichii": [
+      "sal",
+      "árbol dividive"
+    ],
+    "iipünaa": [
+      "arriba"
+    ],
+    "iisho": [
+      "ave cardenal coriano"
+    ],
+    "iita": [
+      "recipiente para comida o bebida"
+    ],
+    "iiwa": [
+      "primavera (tiempo de lluvias menores) pléyades (constelación)"
+    ],
+    "ipa": [
+      "piedra",
+      "eipain"
+    ],
+    "ipooluu": [
+      "estar encinta estar embarazada"
+    ],
+    "ipuoluu": [
+      "estar encinta estar embarazada"
+    ],
+    "iraa": [
+      "ser insípido",
+      "tener poco sabor"
+    ],
+    "irama": [
+      "venado"
+    ],
+    "irolu": [
+      "verde (no seco)"
+    ],
+    "isaa achiki": [
+      "no poder"
+    ],
+    "isashii": [
+      "tierra virgen desierto"
+    ],
+    "isira": [
+      "maraca",
+      "eisira"
+    ],
+    "ishira": [
+      "maraca",
+      "eisira"
+    ],
+    "isha": [
+      "sangre"
+    ],
+    "ishaa": [
+      "sufrir una quemadura quemarse"
+    ],
+    "ishi": [
+      "hueco pozo",
+      "eishin eishia"
+    ],
+    "ishii": [
+      "ser amargo"
+    ],
+    "ishoo": [
+      "ser rojo"
+    ],
+    "itaa": [
+      "secarse"
+    ],
+    "ittaa": [
+      "estar podrido",
+      "pudrirse descomponerse deshacerse",
+      "quemarse sufrir una quemadura"
+    ],
+    "iwaa": [
+      "ser prostituta"
+    ],
+    "iwana": [
+      "iguana"
+    ],
+    "iyaa": [
+      "estar crudo"
+    ],
+    "jaarü": [
+      "pocillo jarra jarro"
+    ],
+    "ja'apü": [
+      "mediano"
+    ],
+    "ka'apü": [
+      "mediano"
+    ],
+    "ja'itaichi": [
+      "aunque no importa que",
+      "son las formas masculina no masculina y plural"
+    ],
+    "ja'iwaa": [
+      "estar caliente"
+    ],
+    "ja'rai": [
+      "cinco"
+    ],
+    "ja'yaa": [
+      "aparecer",
+      "ser visible ser audible"
+    ],
+    "ja'yumulerü": [
+      "mosca"
+    ],
+    "ja'nyuulerü": [
+      "mosca"
+    ],
+    "ja'yumuu": [
+      "estar bien cocido",
+      "estar maduro"
+    ],
+    "ja'nyuwaa": [
+      "estar bien cocido",
+      "estar maduro"
+    ],
+    "jalaa": [
+      "dónde estar"
+    ],
+    "jalaichi": [
+      "ven acá (masculino no masculino)",
+      "vengan acá"
+    ],
+    "jalia": [
+      "cuidado"
+    ],
+    "jamaa": [
+      "por qué ser cómo ser"
+    ],
+    "jamaamaa": [
+      "ser liviano"
+    ],
+    "jama'a": [
+      "hamaca"
+    ],
+    "jamü": [
+      "hambre escasez de alimento"
+    ],
+    "jamüche'e": [
+      "tuna"
+    ],
+    "japülii": [
+      "ser tímido"
+    ],
+    "jarai": [
+      "quién cuál",
+      "cuál",
+      "son las fonnas masculina no masculina y plural"
+    ],
+    "jaralü": [
+      "quién cuál",
+      "cuál",
+      "son las fonnas masculina no masculina y plural"
+    ],
+    "jaralii": [
+      "quién cuál",
+      "cuál",
+      "son las fonnas masculina no masculina y plural"
+    ],
+    "jasai": [
+      "arena"
+    ],
+    "jashichii": [
+      "estar enojado",
+      "estar"
+    ],
+    "jashü'üwaa": [
+      "ser agrio"
+    ],
+    "jatü": [
+      "flecha"
+    ],
+    "jawa'awaa": [
+      "estar flojo",
+      "ser suave"
+    ],
+    "jawataa": [
+      "ser pesado"
+    ],
+    "jayaa": [
+      "ser barato"
+    ],
+    "jayapa": [
+      "pulga"
+    ],
+    "jayeechi": [
+      "canción"
+    ],
+    "jayiichi": [
+      "canción"
+    ],
+    "je": [
+      "y",
+      "o"
+    ],
+    "jeerü": [
+      "hierro (de marcar)",
+      "marca (en el ganado)",
+      "ejeetse"
+    ],
+    "jekechi": [
+      "nuevo"
+    ],
+    "je'wee": [
+      "estar maduro"
+    ],
+    "je'yulu": [
+      "alacrán"
+    ],
+    "ja'yulu": [
+      "alacrán"
+    ],
+    "jemeiwaa": [
+      "nacer"
+    ],
+    "jemelii": [
+      "nacer"
+    ],
+    "jemetaa": [
+      "ser sabroso"
+    ],
+    "jemetaa eejuu": [
+      "ser oloroso"
+    ],
+    "jemeyuluu": [
+      "dar a luz parir",
+      "nacer"
+    ],
+    "jemeyulaa": [
+      "dar a luz parir",
+      "nacer"
+    ],
+    "jemiai": [
+      "frío"
+    ],
+    "jepirachi": [
+      "brisa distintiva del norte"
+    ],
+    "jera": [
+      "cuánto ser"
+    ],
+    "jerottaa": [
+      "ser brillante",
+      "ser claro"
+    ],
+    "jerulaa": [
+      "ser ancho"
+    ],
+    "jeyuu": [
+      "hormiga"
+    ],
+    "jia": [
+      "ustedes",
+      "los las",
+      "ella la lo"
+    ],
+    "jierü": [
+      "mujer",
+      "hembra"
+    ],
+    "jiiku": [
+      "cuerda soga"
+    ],
+    "jiipü": [
+      "hueso",
+      "restos mortales"
+    ],
+    "jiirü": [
+      "hilo"
+    ],
+    "jiitpai": [
+      "hilaza"
+    ],
+    "ji'iyee": [
+      "negar",
+      "ser tacaño"
+    ],
+    "je'iyee": [
+      "negar",
+      "ser tacaño"
+    ],
+    "ji'rupu": [
+      "mosquito"
+    ],
+    "jima'ai": [
+      "joven (varón)"
+    ],
+    "jimataa": [
+      "estar quieto",
+      "estar tranquilo",
+      "calmarse"
+    ],
+    "jime": [
+      "pez pescado"
+    ],
+    "jima": [
+      "pez pescado"
+    ],
+    "jimo'olu": [
+      "no m",
+      "muchacha"
+    ],
+    "jintulu": [
+      "no m",
+      "niña"
+    ],
+    "jintüi": [
+      "niño muchacho"
+    ],
+    "jokoma": [
+      "gusano"
+    ],
+    "jo'uu": [
+      "nene",
+      "bebé"
+    ],
+    "jo'uuchon": [
+      "pequeño",
+      "corto"
+    ],
+    "jolotoo": [
+      "tener ampolla"
+    ],
+    "jolotsü": [
+      "estrella"
+    ],
+    "jooki": [
+      "linterna"
+    ],
+    "joo'uya": [
+      "vámonos"
+    ],
+    "joolu'u": [
+      "ahora pronto"
+    ],
+    "josoo": [
+      "estar seco"
+    ],
+    "jotaa": [
+      "arder",
+      "quemarse",
+      "estar prendido",
+      "estar quemado"
+    ],
+    "jouja": [
+      "cuándo"
+    ],
+    "jouktai": [
+      "viento brisa",
+      "aire"
+    ],
+    "joulaa": [
+      "ser mucho",
+      "ser bastante"
+    ],
+    "joyotoo": [
+      "estar sentado"
+    ],
+    "ju'i": [
+      "grillo"
+    ],
+    "ju'letaa": [
+      "estar acostado",
+      "tropezar y caerse"
+    ],
+    "juleena": [
+      "freno (de caballo)"
+    ],
+    "julirü": [
+      "mariposa"
+    ],
+    "juluu": [
+      "estar seco",
+      "estar marchito"
+    ],
+    "junaaya": [
+      "honda"
+    ],
+    "juriicha": [
+      "comida frita"
+    ],
+    "juriichi": [
+      "comida frita"
+    ],
+    "jutataa": [
+      "estar abierto"
+    ],
+    "jutkataa": [
+      "estar reunido",
+      "reunión"
+    ],
+    "juya": [
+      "lluvia",
+      "año"
+    ],
+    "jülüjaa aa'in": [
+      "pensar"
+    ],
+    "jüüjüwaa": [
+      "ser obediente",
+      "ser sumiso"
+    ],
+    "kaainjalaa": [
+      "causar daño pecar"
+    ],
+    "kaa'inwaa": [
+      "ser arisco",
+      "ser brioso",
+      "ser temeroso",
+      "ser juicioso",
+      "ser prudente"
+    ],
+    "kaa'ula": [
+      "cabra chivo"
+    ],
+    "kaa'ürüi": [
+      "perla"
+    ],
+    "kaa'ürüla": [
+      "perla"
+    ],
+    "kaarai": [
+      "alcaraván (dara)"
+    ],
+    "kaasü": [
+      "petróleo (para lámpara)"
+    ],
+    "kaasha": [
+      "tambor"
+    ],
+    "kaashapü": [
+      "langosta (insecto)"
+    ],
+    "kaashapa": [
+      "langosta (insecto)"
+    ],
+    "kaatei": [
+      "oiga"
+    ],
+    "kaatset": [
+      "cárcel"
+    ],
+    "kachetaa": [
+      "estar colgado"
+    ],
+    "kachonwaa": [
+      "tener hijo",
+      "dar fruto"
+    ],
+    "kachueera": [
+      "hierro alambre",
+      "akachueetse"
+    ],
+    "kajaa": [
+      "ser lento de habilidad"
+    ],
+    "kakaliaa": [
+      "llevar mucho tiempo durar mucho tiempo"
+    ],
+    "kaka'iyaa": [
+      "llevar mucho tiempo durar mucho tiempo"
+    ],
+    "kakuaa": [
+      "ser veloz (andando)"
+    ],
+    "kakuuna": [
+      "prenda (joya) collar"
+    ],
+    "ka'i": [
+      "sol",
+      "día",
+      "tiempo"
+    ],
+    "ka'lee": [
+      "ser grueso (de objetos planos)"
+    ],
+    "ka'ruwarai": [
+      "no m",
+      "ladrón"
+    ],
+    "ka'wayuusee": [
+      "tener esposo"
+    ],
+    "ka'yataa": [
+      "estar un poco retirado"
+    ],
+    "kalapaasü": [
+      "patilla (especie de fruta)"
+    ],
+    "kalapüi": [
+      "horcón principal de una casa"
+    ],
+    "kaleena": [
+      "cadena"
+    ],
+    "kalekale": [
+      "perico (cara sucia)"
+    ],
+    "kale'u": [
+      "a mediodía"
+    ],
+    "kaliina": [
+      "gallina"
+    ],
+    "kalu'uwaa": [
+      "contener"
+    ],
+    "kamanewaa": [
+      "ser amable",
+      "ser bondadoso",
+      "ser compasivo"
+    ],
+    "kane'ewa": [
+      "mamón (fruta)"
+    ],
+    "kanüliaa": [
+      "ser llamado",
+      "tener fama"
+    ],
+    "kapülewaa": [
+      "ser difícil"
+    ],
+    "kapüü": [
+      "estar atado"
+    ],
+    "karaloukta": [
+      "papel",
+      "libro",
+      "akaralouktse"
+    ],
+    "karateera": [
+      "carretera"
+    ],
+    "karatiiya": [
+      "carretilla"
+    ],
+    "kasa": [
+      "qué",
+      "cosa"
+    ],
+    "kasaa": [
+      "tener filo",
+      "ser capaz de meter más"
+    ],
+    "kasachiki": [
+      "noticia",
+      "desgracia",
+      "guerra"
+    ],
+    "kasewaa": [
+      "ser ruidoso",
+      "ser bullicioso"
+    ],
+    "kasipa": [
+      "ciempiés"
+    ],
+    "kaspolüin": [
+      "arco iris"
+    ],
+    "kasuwaa": [
+      "ser blanco",
+      "ser canoso"
+    ],
+    "kashi": [
+      "luna",
+      "mes"
+    ],
+    "kashüülaa": [
+      "ser feo fea",
+      "ser grosero",
+      "ser horrible"
+    ],
+    "kataa o'u": [
+      "estar vivo",
+      "vivir",
+      "vida"
+    ],
+    "katipirüin": [
+      "ave atrapamoscas sangre de toro"
+    ],
+    "katkousü": [
+      "arma de fuego"
+    ],
+    "katsüinwaa": [
+      "ser fuerte"
+    ],
+    "katsinwaa": [
+      "ser fuerte"
+    ],
+    "katchinwaa": [
+      "ser fuerte"
+    ],
+    "katto'ui": [
+      "mochila pos"
+    ],
+    "katünaa": [
+      "tener alas",
+      "nadar"
+    ],
+    "katünasü": [
+      "avión"
+    ],
+    "kaüsüü": [
+      "ser gordo"
+    ],
+    "kaüsii": [
+      "ser gordo"
+    ],
+    "kawachiraa": [
+      "ser veloz (corriendo)"
+    ],
+    "kawatiraa": [
+      "ser veloz (corriendo)"
+    ],
+    "keejuwaa": [
+      "heder"
+    ],
+    "keemaa": [
+      "ser temible"
+    ],
+    "keenaa": [
+      "derramarse",
+      "gotear"
+    ],
+    "keesü": [
+      "queso"
+    ],
+    "kekiiwaa": [
+      "ser inteligente",
+      "ser sabio"
+    ],
+    "kemion": [
+      "camión carro automóvil"
+    ],
+    "kepein": [
+      "café"
+    ],
+    "kepiaa": [
+      "vivir (residir)"
+    ],
+    "kerawaa": [
+      "estar terminado",
+      "estar acabado",
+      "estar listo"
+    ],
+    "kettawaa": [
+      "estar terminado",
+      "estar concluido",
+      "estar listo"
+    ],
+    "kisaawaa": [
+      "estar guisado"
+    ],
+    "kochiina": [
+      "cochino"
+    ],
+    "kojee": [
+      "café"
+    ],
+    "kojoo": [
+      "ser espeso",
+      "ser denso"
+    ],
+    "kojutaa": [
+      "ser caro"
+    ],
+    "kojutaa atüma": [
+      "ser respetado por",
+      "ser honrado por"
+    ],
+    "kojuyaa": [
+      "ser varios",
+      "haber bastante"
+    ],
+    "ko'oi": [
+      "avispa"
+    ],
+    "ko'oyowaa": [
+      "ser redondo",
+      "estar envuelto",
+      "estar enrollado"
+    ],
+    "ko'utaa": [
+      "estar callado"
+    ],
+    "koleejia": [
+      "colegio"
+    ],
+    "koojaa": [
+      "pincharse"
+    ],
+    "koojoo": [
+      "pincharse"
+    ],
+    "kookooche'erü": [
+      "ratón rata"
+    ],
+    "kootole'era": [
+      "gallo"
+    ],
+    "korolo": [
+      "cosa (pertenencia de alguien) pieza",
+      "akorolo"
+    ],
+    "kosinapia": [
+      "cocina"
+    ],
+    "kotoorojüin": [
+      "verde (color de objeto)"
+    ],
+    "koucha": [
+      "caucho",
+      "honda de caucho"
+    ],
+    "kousüla": [
+      "bala"
+    ],
+    "kousülo'u": [
+      "bala"
+    ],
+    "ku'lupucho'u": [
+      "ave cucarachero currucuchú"
+    ],
+    "ku'lupüchü'i": [
+      "ave cucarachero currucuchú"
+    ],
+    "ka'lapücho'u": [
+      "ave cucarachero currucuchú"
+    ],
+    "kulaala": [
+      "corral",
+      "akulaatse"
+    ],
+    "kuli'ichi": [
+      "vara"
+    ],
+    "kulira": [
+      "anzuelo"
+    ],
+    "kuluulu": [
+      "tela",
+      "ropa",
+      "akuluutse"
+    ],
+    "kusu": [
+      "red de pescar"
+    ],
+    "laapi": [
+      "lápiz pos"
+    ],
+    "lakayawaa": [
+      "ser redondo"
+    ],
+    "la'walawaa": [
+      "ser flexible"
+    ],
+    "lamuuna": [
+      "lago"
+    ],
+    "lania": [
+      "amuleto contra"
+    ],
+    "lapü": [
+      "sueño"
+    ],
+    "laüktaa": [
+      "ser grueso (de objetos cilíndricos)"
+    ],
+    "laülaa": [
+      "viejo",
+      "anciano",
+      "jefe",
+      "dueño"
+    ],
+    "leechi": [
+      "leche"
+    ],
+    "leeyataa": [
+      "dar vueltas"
+    ],
+    "lemtaa": [
+      "arrastrarse gatear"
+    ],
+    "lemütaa": [
+      "arrastrarse gatear"
+    ],
+    "lotaa": [
+      "ser recto",
+      "ser ordenado",
+      "ser correcto"
+    ],
+    "luta": [
+      "piedra de afilar"
+    ],
+    "luusa": [
+      "luz"
+    ],
+    "luwopu": [
+      "arroyo"
+    ],
+    "maa": [
+      "decir",
+      "ser así"
+    ],
+    "maa aka": [
+      "como",
+      "ser como"
+    ],
+    "maa aka aa'in": [
+      "ser como parecerse a"
+    ],
+    "maachon": [
+      "mamá abuela"
+    ],
+    "maa'ala": [
+      "culebra cascabel"
+    ],
+    "maa'awaa": [
+      "estar desorientado —",
+      "extraviarse confundirse"
+    ],
+    "maa'inwaa": [
+      "ser necio",
+      "ser prostituta"
+    ],
+    "maa'ulu yaa": [
+      "hoy en día en este tiempo"
+    ],
+    "maalü": [
+      "ya",
+      "pronto"
+    ],
+    "maasü": [
+      "flauta"
+    ],
+    "maasi": [
+      "flauta"
+    ],
+    "maawüi": [
+      "algodón"
+    ],
+    "mache'ewaa": [
+      "ser sordo",
+      "ser terco"
+    ],
+    "maikki": [
+      "maíz"
+    ],
+    "maikkü": [
+      "maíz"
+    ],
+    "maittaa": [
+      "estar en calma el tiempo"
+    ],
+    "majayülü": [
+      "señorita joven (mujer)"
+    ],
+    "makataa": [
+      "quedarse"
+    ],
+    "ma'i": [
+      "muy mucho"
+    ],
+    "malaa": [
+      "ser tonto",
+      "ser bobo"
+    ],
+    "maleiwa": [
+      "dios"
+    ],
+    "mamainnaa": [
+      "ser loco",
+      "estar enfermo de rabia"
+    ],
+    "mannuuya": [
+      "neblina"
+    ],
+    "manteeka": [
+      "aceite comestible"
+    ],
+    "mapa": [
+      "después"
+    ],
+    "mapa(2 )": [
+      "miel de abeja"
+    ],
+    "mapase": [
+      "cera de abeja"
+    ],
+    "mapüi": [
+      "piojo"
+    ],
+    "mapülewaa": [
+      "ser fácil"
+    ],
+    "mapüsaa": [
+      "estar cansado"
+    ],
+    "maraaja": [
+      "vidrio",
+      "botella"
+    ],
+    "maralüü": [
+      "ser estéril"
+    ],
+    "mariiyaa": [
+      "ser amarillo"
+    ],
+    "mashale'e": [
+      "ave caricare"
+    ],
+    "matsüinwaa": [
+      "estar sin fuerza"
+    ],
+    "matsüinwaa aa'in": [
+      "ser débil"
+    ],
+    "maüna": [
+      "cobro por daño a una persona"
+    ],
+    "mayeinwaa": [
+      "estar grave (de enfermedad)"
+    ],
+    "mee'era": [
+      "broma"
+    ],
+    "mei": [
+      "zancudo"
+    ],
+    "meinshi": [
+      "siempre"
+    ],
+    "weinshi": [
+      "siempre"
+    ],
+    "mekeerüü": [
+      "buscar ganado rodear ganado"
+    ],
+    "mekietsalü": [
+      "nueve"
+    ],
+    "mekiisalü": [
+      "ocho"
+    ],
+    "meruuna": [
+      "melón"
+    ],
+    "metkaalü": [
+      "mercado"
+    ],
+    "miichi": [
+      "casa edificio"
+    ],
+    "piichi": [
+      "casa edificio"
+    ],
+    "pinchi": [
+      "casa edificio"
+    ],
+    "miicho'u": [
+      "puerta (la entrada)"
+    ],
+    "piicho'u": [
+      "puerta (la entrada)"
+    ],
+    "miiroku": [
+      "sitio donde hay agua"
+    ],
+    "miiruku": [
+      "sitio donde hay agua"
+    ],
+    "mi'iraa": [
+      "fiesta"
+    ],
+    "miyaasüü": [
+      "tener sed"
+    ],
+    "munyaasüü": [
+      "tener sed"
+    ],
+    "wunyaasüü": [
+      "tener sed"
+    ],
+    "miyo'u": [
+      "grande",
+      "largo",
+      "mayor mma",
+      "tierra polvo suelo",
+      "lugar",
+      "terreno",
+      "país",
+      "oumain"
+    ],
+    "müle'u": [
+      "grande",
+      "largo",
+      "mayor mma",
+      "tierra polvo suelo",
+      "lugar",
+      "terreno",
+      "país",
+      "oumain"
+    ],
+    "mülo'u": [
+      "grande",
+      "largo",
+      "mayor mma",
+      "tierra polvo suelo",
+      "lugar",
+      "terreno",
+      "país",
+      "oumain"
+    ],
+    "mmolu'u": [
+      "en el suelo abajo"
+    ],
+    "mmoluu": [
+      "tener miedo"
+    ],
+    "momoluu": [
+      "tener miedo"
+    ],
+    "mmoluu eema": [
+      "temer"
+    ],
+    "mojulawaa": [
+      "ser malo (de comportamiento)",
+      "ser travieso",
+      "portarse mal"
+    ],
+    "mojuu": [
+      "ser o estar malo",
+      "estar dañado",
+      "estar desgastado",
+      "ser dañino"
+    ],
+    "mujuu": [
+      "ser o estar malo",
+      "estar dañado",
+      "estar desgastado",
+      "ser dañino"
+    ],
+    "mujuu aa'in": [
+      "estar triste"
+    ],
+    "mojuui": [
+      "monte (vegetación)"
+    ],
+    "mo'uu": [
+      "ser ciego"
+    ],
+    "mo'uwa": [
+      "paloma (silvestre)"
+    ],
+    "ma'uwa": [
+      "paloma (silvestre)"
+    ],
+    "moliina": [
+      "molino (de moler)",
+      "molino (de viento)"
+    ],
+    "molokoono": [
+      "tortuga de tierra"
+    ],
+    "monku": [
+      "mango (fruta)"
+    ],
+    "monkulonseerü": [
+      "búho"
+    ],
+    "motoo aa'in": [
+      "olvidar olvidarse"
+    ],
+    "motso'o": [
+      "por poco tiempo brevemente",
+      "inmediatamente"
+    ],
+    "motsoo": [
+      "ser pequeño",
+      "ser poco"
+    ],
+    "moulii": [
+      "ser angosto",
+      "ser estrecho"
+    ],
+    "muula": [
+      "mulo"
+    ],
+    "muusa": [
+      "gato"
+    ],
+    "müleka": [
+      "si en caso de que"
+    ],
+    "müliaa": [
+      "sufrir",
+      "ser pobre"
+    ],
+    "müliashii": [
+      "difunto"
+    ],
+    "mürülü": [
+      "animal doméstico",
+      "mascota"
+    ],
+    "mütsiiya": [
+      "negro"
+    ],
+    "mütsiiyaa": [
+      "ser negro"
+    ],
+    "na": [
+      "tómelo",
+      "estos"
+    ],
+    "naa": [
+      "éstos",
+      "estos gram",
+      "esta forma del adjetivo se usa después del nombre"
+    ],
+    "naataa": [
+      "ser ajeno",
+      "ser extraño",
+      "ser diferente"
+    ],
+    "nala": [
+      "esos"
+    ],
+    "namüna": [
+      "loma cerro"
+    ],
+    "naumna": [
+      "loma cerro"
+    ],
+    "nasa": [
+      "aquellos"
+    ],
+    "naya": [
+      "ellos ellas",
+      "los las"
+    ],
+    "neerü": [
+      "dinero",
+      "anneetse"
+    ],
+    "nneerü": [
+      "dinero",
+      "anneetse"
+    ],
+    "ne'e": [
+      "justamente solamente"
+    ],
+    "nia": [
+      "él lo"
+    ],
+    "nnojo": [
+      "no"
+    ],
+    "nnojolaa": [
+      "no haber no estar no ser"
+    ],
+    "nnojoloo": [
+      "no haber no estar no ser"
+    ],
+    "oi": [
+      "vello",
+      "lana",
+      "escama (de un pez)"
+    ],
+    "oikkaa": [
+      "vender"
+    ],
+    "aikkaa": [
+      "vender"
+    ],
+    "ojoitaa": [
+      "enterrar"
+    ],
+    "ojotaa": [
+      "botar (un grupo o montón de cosas)"
+    ],
+    "ojottaa": [
+      "morder",
+      "picar (de insectos)"
+    ],
+    "ojuichajaa": [
+      "romperse",
+      "borrar",
+      "destruir"
+    ],
+    "ojuichijaa": [
+      "romperse",
+      "borrar",
+      "destruir"
+    ],
+    "ajuichajaa": [
+      "romperse",
+      "borrar",
+      "destruir"
+    ],
+    "ojuntaa": [
+      "virar desviarse"
+    ],
+    "ajuntaa": [
+      "virar desviarse"
+    ],
+    "ojununtawaa": [
+      "volverse (darse la vuelta)"
+    ],
+    "ajununtawaa": [
+      "volverse (darse la vuelta)"
+    ],
+    "ojuttaa": [
+      "caer derrumbarse"
+    ],
+    "ajuttaa": [
+      "caer derrumbarse"
+    ],
+    "ojuttiraa": [
+      "derribar destruir"
+    ],
+    "ajuttiraa": [
+      "derribar destruir"
+    ],
+    "ojuuna": [
+      "a escondidas de sin que se dé cuenta"
+    ],
+    "ajuuna": [
+      "a escondidas de sin que se dé cuenta"
+    ],
+    "oko'oloo": [
+      "envolver",
+      "enrollar"
+    ],
+    "okolojoo": [
+      "llevar regalo"
+    ],
+    "okolojowaa": [
+      "mudarse"
+    ],
+    "o'lojoo": [
+      "lavar"
+    ],
+    "o'onowaa": [
+      "mudarse (temporalmente con el rebaño)"
+    ],
+    "o'oojoo": [
+      "bañarse"
+    ],
+    "o'otojowaa": [
+      "sacudir"
+    ],
+    "o'otoo": [
+      "llegar",
+      "suceder",
+      "montar",
+      "cargar",
+      "imponer"
+    ],
+    "o'otowaa": [
+      "montar",
+      "subir"
+    ],
+    "o'tchejaa": [
+      "fallar (no dar en el blanco)"
+    ],
+    "o'tchejawaa amaa": [
+      "equivocarse con equivocarse de"
+    ],
+    "o'tta": [
+      "y"
+    ],
+    "o'ttaa": [
+      "comenzar empezar",
+      "aterrizar",
+      "posarse",
+      "ser profundo"
+    ],
+    "o'ttawaa": [
+      "pasar",
+      "salvarse"
+    ],
+    "o'tte'eraa": [
+      "hacer pasar",
+      "salvar"
+    ],
+    "o'u": [
+      "ojo",
+      "puerta",
+      "abertura agujero",
+      "faro",
+      "grano",
+      "color",
+      "en (el fuego la luz la oscuridad)",
+      "en (una fecha)",
+      "vez"
+    ],
+    "o'ula": [
+      "lecho hamaca",
+      "telaraña",
+      "placenta"
+    ],
+    "o'ulejaa": [
+      "maldecir"
+    ],
+    "o'ulijaa": [
+      "cargar (a un niño)"
+    ],
+    "o'uluku": [
+      "miembro parte"
+    ],
+    "o'utku": [
+      "miembro parte"
+    ],
+    "o'unaa": [
+      "ir salir",
+      "viaje"
+    ],
+    "o'uniraa": [
+      "llevar"
+    ],
+    "o'upala": [
+      "delante de (a la vista de)"
+    ],
+    "o'upünaa": [
+      "cara rostro"
+    ],
+    "o'use": [
+      "gafas"
+    ],
+    "o'uta": [
+      "pestaña"
+    ],
+    "o'utaa": [
+      "ser profundo"
+    ],
+    "o'ktaa": [
+      "ser profundo"
+    ],
+    "o'utaa aa'in": [
+      "matar"
+    ],
+    "o'utala": [
+      "cáscara"
+    ],
+    "o'utpünaa": [
+      "durante en medio de",
+      "mientras"
+    ],
+    "o'unnaa": [
+      "durante en medio de",
+      "mientras"
+    ],
+    "o'uwa": [
+      "cuerno"
+    ],
+    "o'uyaajana": [
+      "acompañante"
+    ],
+    "o'yotoo": [
+      "verter (un líquido)",
+      "echar (un líquido)"
+    ],
+    "o'yotowaa": [
+      "cortar (con cuchillo tijeras)"
+    ],
+    "olojoo": [
+      "cazar"
+    ],
+    "olu": [
+      "borde",
+      "orilla"
+    ],
+    "omocho": [
+      "ombligo"
+    ],
+    "omokoin": [
+      "espuma"
+    ],
+    "oojoo": [
+      "raspar"
+    ],
+    "ookotuushi": [
+      "mazamorra"
+    ],
+    "oo'omüin": [
+      "más",
+      "contra"
+    ],
+    "oo'opünaa": [
+      "por",
+      "por encima de",
+      "en cuanto a"
+    ],
+    "oo'ui": [
+      "pie",
+      "pata",
+      "huella rastro",
+      "llanta"
+    ],
+    "oo'ulaka": [
+      "y"
+    ],
+    "oo'ulakaa": [
+      "intentar probar",
+      "practicar realizar",
+      "adivinar (por medios sobrenaturales)"
+    ],
+    "oo'ulawaa": [
+      "dejar",
+      "abandonar",
+      "permitir"
+    ],
+    "oo'ulia": [
+      "mata"
+    ],
+    "oo'uliwo'u": [
+      "descendiente"
+    ],
+    "oonojoo": [
+      "toser"
+    ],
+    "oonowaa amaa": [
+      "obedecer hacer caso de",
+      "estar de acuerdo apoyar",
+      "creer"
+    ],
+    "oora": [
+      "hora"
+    ],
+    "ooro": [
+      "oro"
+    ],
+    "ooroloo": [
+      "estar hinchado (el abdomen)"
+    ],
+    "oosojowaa": [
+      "secarse"
+    ],
+    "ootojoo": [
+      "perforar"
+    ],
+    "ootoo": [
+      "ladrar",
+      "estimular animar",
+      "autorizar"
+    ],
+    "oponoo": [
+      "cavar"
+    ],
+    "aponoo": [
+      "cavar"
+    ],
+    "opoolojoo": [
+      "hervir"
+    ],
+    "opootaa": [
+      "atascarse (en el barro o en la arena)"
+    ],
+    "oso'iraa aa'in": [
+      "recordar hacer recordar",
+      "resucitar"
+    ],
+    "aso'iraa aa'in": [
+      "recordar hacer recordar",
+      "resucitar"
+    ],
+    "oso'irawaa aa'in": [
+      "recobrar el conocimiento volver en sí",
+      "resucitar"
+    ],
+    "aso'irawaa aa'in": [
+      "recobrar el conocimiento volver en sí",
+      "resucitar"
+    ],
+    "ososo": [
+      "pulmón"
+    ],
+    "oshojoo": [
+      "desollar pelar desvainar"
+    ],
+    "osho'o": [
+      "nudo"
+    ],
+    "otse": [
+      "olla",
+      "lo cocinado por"
+    ],
+    "oukaa achiki": [
+      "impedir"
+    ],
+    "oukajaa": [
+      "esperar (una llegada)"
+    ],
+    "ouktaa": [
+      "morir",
+      "estar muerto",
+      "muerte"
+    ],
+    "ouktapünawaa": [
+      "perder el conocimiento desmayarse"
+    ],
+    "ouktasiro'ulu": [
+      "mortal (que causa la muerte)"
+    ],
+    "oulia": [
+      "de más que en vez de contra",
+      "para que no"
+    ],
+    "ounjulaa": [
+      "esconder"
+    ],
+    "anujulaa": [
+      "esconder"
+    ],
+    "ounjulawaa": [
+      "esconderse"
+    ],
+    "anujulawaa": [
+      "esconderse"
+    ],
+    "ountaa": [
+      "poder"
+    ],
+    "oupünaa": [
+      "debajo de"
+    ],
+    "ourala": [
+      "raíz"
+    ],
+    "ourulaa": [
+      "estar hinchado"
+    ],
+    "ousaa": [
+      "deshierbar arar rozar (un terreno)"
+    ],
+    "oushikawaa achiirua": [
+      "seguir"
+    ],
+    "oushu": [
+      "abuela"
+    ],
+    "oushi": [
+      "abuela"
+    ],
+    "oushuwaa": [
+      "tener fiebre"
+    ],
+    "outkajaa": [
+      "reunir juntar",
+      "rodear (ganado)"
+    ],
+    "outkajawaa": [
+      "reunirse"
+    ],
+    "outshi": [
+      "no m",
+      "piache",
+      "curandero",
+      "outsia"
+    ],
+    "ouyantaa": [
+      "volver",
+      "hacer volver"
+    ],
+    "ouyase": [
+      "edad (años)"
+    ],
+    "owoutisaajaa": [
+      "bautizar"
+    ],
+    "awoutisaajaa": [
+      "bautizar"
+    ],
+    "oyokojowaa": [
+      "apagarse",
+      "apagar"
+    ],
+    "oyonnajaa": [
+      "bailar"
+    ],
+    "oyonnojoo": [
+      "bailar"
+    ],
+    "paa'a": [
+      "vaca ganado (vacuno)"
+    ],
+    "paa'ata": [
+      "cuero"
+    ],
+    "paa'inwaa": [
+      "estar de acuerdo"
+    ],
+    "paala": [
+      "antes",
+      "ahora mismo"
+    ],
+    "paarü": [
+      "pala"
+    ],
+    "paasta": [
+      "plástico"
+    ],
+    "paatia": [
+      "patio"
+    ],
+    "palaa": [
+      "mar"
+    ],
+    "palaapünaa": [
+      "por el norte"
+    ],
+    "palajachi": [
+      "primero",
+      "no m"
+    ],
+    "palajana": [
+      "primero"
+    ],
+    "palastaa": [
+      "estar acostado",
+      "estar tendido"
+    ],
+    "palawaa": [
+      "ser salado"
+    ],
+    "pali'i": [
+      "ceniza"
+    ],
+    "palirawaa": [
+      "estar mezclado"
+    ],
+    "palitchon": [
+      "poco",
+      "poquito"
+    ],
+    "palousa": [
+      "tijeras"
+    ],
+    "pansawaa": [
+      "estar derecho 2",
+      "ser seguro (confiable)",
+      "ser recto",
+      "ser justo"
+    ],
+    "pasalawaa atüma": [
+      "ser vengado por"
+    ],
+    "pasanain anain": [
+      "en medio de entre"
+    ],
+    "pasanuaa": [
+      "ser delgado (de objetos cilíndricos)"
+    ],
+    "paülü'ü": [
+      "adentro (de la casa)"
+    ],
+    "peerü": [
+      "perdiz"
+    ],
+    "peesü'ülü": [
+      "detrás de una casa"
+    ],
+    "pejee": [
+      "estar cerca"
+    ],
+    "pejeewa": [
+      "a cada rato"
+    ],
+    "pentaana": [
+      "ventana"
+    ],
+    "wentaana": [
+      "ventana"
+    ],
+    "peraa": [
+      "ser mocho"
+    ],
+    "perulaa": [
+      "chisme",
+      "eperulain"
+    ],
+    "pia": [
+      "tú",
+      "te",
+      "usted",
+      "lo la"
+    ],
+    "piama": [
+      "dos"
+    ],
+    "piama shikii": [
+      "veinte"
+    ],
+    "piamale": [
+      "ambos",
+      "los dos"
+    ],
+    "piantua": [
+      "dos veces"
+    ],
+    "pienchi": [
+      "cuatro"
+    ],
+    "pirataa": [
+      "estar lleno"
+    ],
+    "pirijirü": [
+      "periquito"
+    ],
+    "jirijirü": [
+      "periquito"
+    ],
+    "pisaalü": [
+      "bozal",
+      "episaatse"
+    ],
+    "pitshuushi": [
+      "fríjol"
+    ],
+    "pitchuushi": [
+      "fríjol"
+    ],
+    "kepeshuuna": [
+      "fríjol"
+    ],
+    "piuuna": [
+      "sirviente",
+      "esclavo"
+    ],
+    "piyulu": [
+      "bolsa de malla"
+    ],
+    "piyula": [
+      "bolsa de malla"
+    ],
+    "piyuushi": [
+      "oscuridad"
+    ],
+    "poloo": [
+      "diez"
+    ],
+    "polu": [
+      "hacha"
+    ],
+    "ponoo aa'in": [
+      "maravillar asombrar",
+      "fascinar"
+    ],
+    "pooporo": [
+      "fósforo"
+    ],
+    "pootshi": [
+      "barro"
+    ],
+    "potshonoi": [
+      "libélula"
+    ],
+    "wotshonoi": [
+      "libélula"
+    ],
+    "puatto'u": [
+      "puerta"
+    ],
+    "puetto'u": [
+      "puerta"
+    ],
+    "pueulo": [
+      "pueblo (aldea) ciudad"
+    ],
+    "pülaa": [
+      "ser poderoso",
+      "ser dañino",
+      "ser sagrado"
+    ],
+    "pülaa aa'in": [
+      "ser arrogante"
+    ],
+    "pülaasa": [
+      "plaza"
+    ],
+    "pülaata": [
+      "plato",
+      "plata (el metal)"
+    ],
+    "püla'ana": [
+      "plátano"
+    ],
+    "püliiki": [
+      "burro"
+    ],
+    "püliikü": [
+      "burro"
+    ],
+    "pünajüt": [
+      "lo sembrado cultivo"
+    ],
+    "püreesaa": [
+      "estar preso"
+    ],
+    "püreesaapüle": [
+      "cárcel"
+    ],
+    "püsiaa": [
+      "ser dulce"
+    ],
+    "püsichi": [
+      "murciélago"
+    ],
+    "pütche'ejachi": [
+      "no m",
+      "palabrero (intermediario -ria)"
+    ],
+    "pütchi": [
+      "palabra",
+      "discurso",
+      "lengua (idioma)",
+      "voz"
+    ],
+    "pütchipü'ü": [
+      "palabrero",
+      "intermediario",
+      "abogado"
+    ],
+    "püülükü": [
+      "cerdo",
+      "marrano"
+    ],
+    "raawia": [
+      "radio"
+    ],
+    "rampara": [
+      "lámpara pos"
+    ],
+    "riwoolü": [
+      "revólver",
+      "ariwootse"
+    ],
+    "roo": [
+      "arroz"
+    ],
+    "rouya": [
+      "espejo",
+      "ventana de vidrio puerta de vidrio"
+    ],
+    "ruluma": [
+      "comején (termes)"
+    ],
+    "rüi": [
+      "cuchillo pos"
+    ],
+    "rülipi": [
+      "sábila áloe"
+    ],
+    "saamataa": [
+      "estar frío fría",
+      "estar fresco"
+    ],
+    "sa'aya": [
+      "allá"
+    ],
+    "sa'wai": [
+      "de noche"
+    ],
+    "sa'wainrü": [
+      "tortuga de mar"
+    ],
+    "sa'waina": [
+      "tortuga de mar"
+    ],
+    "samulu": [
+      "buitre zamuro"
+    ],
+    "sapaata": [
+      "zapato",
+      "asapaatse asapaase"
+    ],
+    "sarulu": [
+      "boa"
+    ],
+    "seepü": [
+      "grasa sebo"
+    ],
+    "seita": [
+      "aceite"
+    ],
+    "seite": [
+      "aceite"
+    ],
+    "semaana": [
+      "semana"
+    ],
+    "senkeyuu": [
+      "mellizo",
+      "gemelo"
+    ],
+    "seruma": [
+      "ave chirito"
+    ],
+    "sirumaachi": [
+      "ave chirito"
+    ],
+    "siimaraalü": [
+      "marca cortada en la oreja del ganado menor",
+      "asiimaraatse"
+    ],
+    "süinmaraalü": [
+      "marca cortada en la oreja del ganado menor",
+      "asiimaraatse"
+    ],
+    "siiya": [
+      "silla de montar silla"
+    ],
+    "siki": [
+      "fuego",
+      "leña"
+    ],
+    "sikirulu": [
+      "ave carpintero habado"
+    ],
+    "sekurulu": [
+      "ave carpintero habado"
+    ],
+    "si'ira": [
+      "cinturón (del varón)"
+    ],
+    "si'warai": [
+      "caldero"
+    ],
+    "si'ya": [
+      "gonzalito toche"
+    ],
+    "sipuulu": [
+      "espuela",
+      "asipuutse"
+    ],
+    "sirapü": [
+      "cinturón (de la mujer)"
+    ],
+    "sirasiraa": [
+      "ser liso",
+      "ser resbaloso"
+    ],
+    "sirataa": [
+      "ser liso",
+      "ser parejo",
+      "ser plano",
+      "ser llano"
+    ],
+    "sinataa": [
+      "ser liso",
+      "ser parejo",
+      "ser plano",
+      "ser llano"
+    ],
+    "siruma": [
+      "nube cielo"
+    ],
+    "so'uka'i": [
+      "hoy",
+      "de día"
+    ],
+    "so'ukalinka": [
+      "ayer"
+    ],
+    "sotoo aa'in": [
+      "recordar acordarse de"
+    ],
+    "sotsoluu": [
+      "tener dormido un miembro del cuerpo",
+      "dar calambre"
+    ],
+    "surulaalü": [
+      "soldado",
+      "asurulaatse"
+    ],
+    "susu": [
+      "mochila fina",
+      "asusia"
+    ],
+    "sutta": [
+      "huso"
+    ],
+    "suukala": [
+      "azúcar"
+    ],
+    "süchi": [
+      "río"
+    ],
+    "süi": [
+      "chinchorro hamaca"
+    ],
+    "sütaa": [
+      "dar comezón"
+    ],
+    "süttaa": [
+      "estar cerrado"
+    ],
+    "süttiija": [
+      "anillo sortija"
+    ],
+    "süttiiya": [
+      "anillo sortija"
+    ],
+    "sittiija": [
+      "anillo sortija"
+    ],
+    "sittiiya": [
+      "anillo sortija"
+    ],
+    "shaakuma": [
+      "cabestro"
+    ],
+    "sha'wataa": [
+      "estar parado",
+      "estar de pie"
+    ],
+    "shale": [
+      "último hijo última hija"
+    ],
+    "shia": [
+      "ella la lo"
+    ],
+    "shiale": [
+      "o ella",
+      "es la forma de tercera persona singular no masculino"
+    ],
+    "shiatapünaa": [
+      "medio",
+      "mitad"
+    ],
+    "shiimüin": [
+      "verdadero",
+      "verdad"
+    ],
+    "shiimain": [
+      "verdadero",
+      "verdad"
+    ],
+    "shitaa": [
+      "estar hinchado"
+    ],
+    "shokotaa": [
+      "ser curvo",
+      "estar torcido"
+    ],
+    "shokulaa": [
+      "ser perezoso"
+    ],
+    "shukulaa": [
+      "ser perezoso"
+    ],
+    "shottaa": [
+      "gotear"
+    ],
+    "shunui": [
+      "gripe catarro"
+    ],
+    "shunulii": [
+      "tener gripe tener catarro"
+    ],
+    "taapüla": [
+      "tabla"
+    ],
+    "taashii": [
+      "estar libre",
+      "estar suelto",
+      "estar disponible"
+    ],
+    "taata": [
+      "papá abuelo"
+    ],
+    "taataai": [
+      "rana"
+    ],
+    "talataa": [
+      "estar alegre",
+      "estar contento",
+      "estar feliz",
+      "estar complacido"
+    ],
+    "taya": [
+      "yo me"
+    ],
+    "teitei": [
+      "alcaraván"
+    ],
+    "teuteu": [
+      "alcaraván"
+    ],
+    "tepichi": [
+      "muchacho",
+      "niño"
+    ],
+    "toleeka": [
+      "saco costal pos"
+    ],
+    "toolo": [
+      "macho",
+      "hombre varón",
+      "tooloyuu"
+    ],
+    "toolo aa'in": [
+      "ser valiente ser macho"
+    ],
+    "toolü": [
+      "ave aguaitacamino ave chotacabras"
+    ],
+    "toomasü": [
+      "paloma (doméstica)"
+    ],
+    "tottoolu": [
+      "médico"
+    ],
+    "tu'uma": [
+      "piedra preciosa"
+    ],
+    "tuttaa": [
+      "tener fiebre",
+      "tener calor"
+    ],
+    "tü": [
+      "esta"
+    ],
+    "tüitüi": [
+      "halcón"
+    ],
+    "tüntaa aa'in": [
+      "pulsar (corazón)",
+      "palpitar (corazón) gram"
+    ],
+    "türa": [
+      "esa",
+      "ésa eso"
+    ],
+    "türiiya": [
+      "junco",
+      "silla de junco (para montar o cargar)"
+    ],
+    "tüsa": [
+      "aquella",
+      "aquélla aquello"
+    ],
+    "tütaa": [
+      "ser trabajador",
+      "ser diligente"
+    ],
+    "tüü": [
+      "ésta esto",
+      "esta",
+      "esta forma del adjetivo se usa después del nombre"
+    ],
+    "ulee": [
+      "estar limpio",
+      "ser puro"
+    ],
+    "wulee": [
+      "estar limpio",
+      "ser puro"
+    ],
+    "ului": [
+      "ave turpial común"
+    ],
+    "unapümüin": [
+      "hacia abajo"
+    ],
+    "uraichi": [
+      "arco"
+    ],
+    "wuraichi": [
+      "arco"
+    ],
+    "uuchi": [
+      "serranía montaña cerro"
+    ],
+    "uuchipünaa": [
+      "por el sur"
+    ],
+    "uujolu": [
+      "chicha de maíz sin alcohol"
+    ],
+    "uwatua": [
+      "una vez"
+    ],
+    "uwomuyuwaa": [
+      "herir perjudicar",
+      "asesinar"
+    ],
+    "uwonyuwaa": [
+      "herir perjudicar",
+      "asesinar"
+    ],
+    "uwon": [
+      "sombrero",
+      "akuoma"
+    ],
+    "üttaa aa'in": [
+      "sentir rabia"
+    ],
+    "waana": [
+      "millo mijo"
+    ],
+    "waapünaa": [
+      "por el occidente"
+    ],
+    "waataa ekii": [
+      "dolerle la cabeza"
+    ],
+    "waawataa": [
+      "soplar (el viento)",
+      "moverse por el viento"
+    ],
+    "wainma": [
+      "mucho"
+    ],
+    "mainma": [
+      "mucho"
+    ],
+    "wainpirai": [
+      "ave paraulata llanera sinsonte"
+    ],
+    "wairiina": [
+      "guaireña (calzado) cotiza (calzado)"
+    ],
+    "wa'lee": [
+      "amigo (para llamar o saludar un hombre a otro)"
+    ],
+    "walaashi": [
+      "pago"
+    ],
+    "wala'ayuu": [
+      "pelusa de la tuna"
+    ],
+    "walashi": [
+      "pelo"
+    ],
+    "walatshi": [
+      "calor atmosférico"
+    ],
+    "walawaa": [
+      "estar pagado"
+    ],
+    "walekerü": [
+      "araña"
+    ],
+    "walirü": [
+      "zorro"
+    ],
+    "waluuseechi": [
+      "buitre cataneja oripopo"
+    ],
+    "wanaa amaa": [
+      "rel cuando"
+    ],
+    "wanaawaa": [
+      "ser lo mismo ser igual"
+    ],
+    "wane": [
+      "un una"
+    ],
+    "waneepia": [
+      "siempre (continuamente) continuamente"
+    ],
+    "waneepiaa": [
+      "ser entero",
+      "ser completo",
+      "perseverar"
+    ],
+    "waneeshia": [
+      "un una",
+      "uno una"
+    ],
+    "wane'ere'eya": [
+      "no hasta que"
+    ],
+    "wane'ewai akua": [
+      "cada uno una",
+      "el prefijo personal que corresponde al referente se le añade a akua"
+    ],
+    "wane'ewaire akua": [
+      "cada uno una",
+      "el prefijo personal que corresponde al referente se le añade a akua"
+    ],
+    "wane'eya": [
+      "otro otra"
+    ],
+    "wane'e": [
+      "otro otra"
+    ],
+    "wanülüü": [
+      "demonio espíritu maligno",
+      "enfermedad"
+    ],
+    "waraittaa": [
+      "andar caminar"
+    ],
+    "waratshii": [
+      "luz"
+    ],
+    "warulapai": [
+      "gavilán"
+    ],
+    "warutta": [
+      "caracol"
+    ],
+    "washirü": [
+      "rico",
+      "washinnuu"
+    ],
+    "wattaa": [
+      "estar lejos"
+    ],
+    "wattaa aalin": [
+      "ser mucho",
+      "el prefijo personal que corresponde al sujeto se le añade a aalin"
+    ],
+    "watta'a": [
+      "mañana"
+    ],
+    "watta'a maalü": [
+      "por la mañana"
+    ],
+    "watta'apa": [
+      "esta mañana (ya pasada)"
+    ],
+    "wattapia": [
+      "pasado mañana"
+    ],
+    "wawaachi": [
+      "tortolita"
+    ],
+    "wawai": [
+      "viento (de tempestad)"
+    ],
+    "waya": [
+      "nosotros",
+      "nos"
+    ],
+    "wayeeta": [
+      "olla",
+      "awayeetse awayeetain"
+    ],
+    "wayunkeera": [
+      "muñeca (figura de persona)"
+    ],
+    "wayuu": [
+      "persona",
+      "gente pueblo",
+      "indígena wayuu"
+    ],
+    "wayuunaiki": [
+      "idioma de los wayuu"
+    ],
+    "wiinnaa": [
+      "por el oriente"
+    ],
+    "wo'olu": [
+      "mochila para el cinturón del hombre"
+    ],
+    "woola": [
+      "balón"
+    ],
+    "woowira": [
+      "bóveda"
+    ],
+    "wopu": [
+      "camino sendero"
+    ],
+    "wotoo": [
+      "estar lleno (de sólidos)"
+    ],
+    "wuchii": [
+      "pájaro",
+      "insecto"
+    ],
+    "wuliyuuna": [
+      "lombriz"
+    ],
+    "uliyuuna": [
+      "lombriz"
+    ],
+    "wuna'ainküin": [
+      "por el bosque por el monte"
+    ],
+    "unaainküin": [
+      "por el bosque por el monte"
+    ],
+    "wuna'apü": [
+      "selva bosque monte"
+    ],
+    "una'apü": [
+      "selva bosque monte"
+    ],
+    "wunu'u": [
+      "árbol mata",
+      "palo madera",
+      "medicina"
+    ],
+    "wushu": [
+      "olla de barro cocido"
+    ],
+    "wutia": [
+      "aguja"
+    ],
+    "utia": [
+      "aguja"
+    ],
+    "wüi": [
+      "culebra"
+    ],
+    "wüin": [
+      "agua",
+      "ainya"
+    ],
+    "wüinsiraa": [
+      "ahogarse (en agua)"
+    ],
+    "wüirü": [
+      "auyama calabaza"
+    ],
+    "wüitshii": [
+      "hierba"
+    ],
+    "wüittaa": [
+      "ser azul ser verde"
+    ],
+    "wüittüsü": [
+      "azul verde (color de mata)"
+    ],
+    "yaajeeru'u": [
+      "en este lado"
+    ],
+    "yaaulerü": [
+      "un rato"
+    ],
+    "yaawala": [
+      "al instante inmediatamente"
+    ],
+    "yaawe": [
+      "llave"
+    ],
+    "yaaya": [
+      "aquí"
+    ],
+    "yajaaushi": [
+      "mazamorra con leche"
+    ],
+    "yala": [
+      "allí"
+    ],
+    "yalayalaa": [
+      "ser áspero",
+      "ser valiente",
+      "ser hábil",
+      "ser listo",
+      "ser inteligente"
+    ],
+    "yalejeeru'u": [
+      "en el otro lado"
+    ],
+    "yaletaa": [
+      "ser alto",
+      "ser importante"
+    ],
+    "yaletaa aa'in": [
+      "ser altivo"
+    ],
+    "yapaa": [
+      "estar listo",
+      "estar preparado",
+      "i alistarse prepararse"
+    ],
+    "yarüttaa": [
+      "estar sucio"
+    ],
+    "yerüttaa": [
+      "estar sucio"
+    ],
+    "yokutaa": [
+      "estar apagado"
+    ],
+    "yolujaa": [
+      "diablo demonio",
+      "espíritu"
+    ],
+    "yonna": [
+      "baile"
+    ],
+    "yooi": [
+      "llaga infección"
+    ],
+    "yootchon": [
+      "poquito (de líquidos)"
+    ],
+    "yootoo": [
+      "conversar charlar"
+    ],
+    "yosu": [
+      "cardón (especie de cactus)"
+    ],
+    "yuulii": [
+      "ser negro"
+    ],
+    "yüi": [
+      "tabaco"
+    ],
+    "yülaa": [
+      "estar roto",
+      "estar quebrado",
+      "estar partido"
+    ],
+    "yüüja": [
+      "huerta roza"
+    ],
+    "yüütüwaa": [
+      "estar deshabitado",
+      "ser solitario"
+    ]
+  },
+  "pairs": 1977
+}
